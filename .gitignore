@@ -46,5 +46,10 @@
 
 /materials/
 /models/
-/sounds/player/survivor
+/sounds/player/survivor/voice/biker/
+/sounds/player/survivor/voice/coach/
+/sounds/player/survivor/voice/gambler/
+/sounds/player/survivor/voice/manager/
+/sounds/player/survivor/voice/mechanic/
+/sounds/player/survivor/voice/namvet/
 /models/decompiled/
