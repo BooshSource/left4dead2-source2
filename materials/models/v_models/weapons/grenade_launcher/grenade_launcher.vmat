@@ -26,7 +26,7 @@ Layer0
 	TextureNormal "materials/default/default_normal.tga"
 
 	//---- Roughness ----
-	TextureRoughness "materials/models/v_models/weapons/grenade_launcher/grenade_launcher_refl.tga"
+	TextureRoughness "materials/models/v_models/weapons/grenade_launcher/grenade_launcher_exponent_gloss.tga"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
