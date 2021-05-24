@@ -4399,7 +4399,7 @@ Response PlayerTransitionCloseManager
 	scene "scenes/Manager/PlayerTransitionClose01.vcd"  //Woah Jesus!
 	scene "scenes/Manager/PlayerTransitionClose02.vcd"  //Damn!
 	scene "scenes/Manager/PlayerTransitionClose03.vcd"  //At least we're safe now!
-	scene "scenes/Manager/gamespeech01.vcd" odds 1 //The guy's used to laugh when I hit the rifle range at lunch, not so funny now is it? Riflerange_02.wav
+	scene "scenes/Manager/gamespeech01.vcd" odds 1 //The guy's used to laugh when I hit the rifle range at lunch, not so funny now is it? Riflerange_02.vsnd
 }
 Rule PlayerTransitionCloseManager
 {

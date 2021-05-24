@@ -1,3122 +1,925 @@
-"water_flood_finished_loop"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	water_flood_finished_loop = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/water/water_flow_loop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.149902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.149902
+		pitch = 1.0
+		soundlevel = 80.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/water/water_flow_loop1.vsnd",
+		]
 	}
-}
-"stirrer_loop"
-{
-	"operator_stacks"
+	stirrer_loop = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/vehicles/airboat/pontoon_fast_water_loop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 65.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/vehicles/airboat/pontoon_fast_water_loop1.vsnd",
+		]
 	}
-}
-"floodgate_move_short"
-{
-	"operator_stacks"
+	floodgate_move_short = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/machines/floodgate_move_short1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/machines/floodgate_move_short1.vsnd",
+		]
 	}
-}
-"floodgate_stop"
-{
-	"operator_stacks"
+	floodgate_stop = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/machines/floodgate_stop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/machines/floodgate_stop1.vsnd",
+		]
 	}
-}
-"floodgate_klaxon"
-{
-	"operator_stacks"
+	floodgate_klaxon = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/alarms/klaxon1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/alarms/klaxon1.vsnd",
+		]
 	}
-}
-"floodgate_alarmbell_loop"
-{
-	"operator_stacks"
+	floodgate_alarmbell_loop = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/alarms/alarm1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.399902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.399902
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/alarms/alarm1.vsnd",
+		]
 	}
-}
-"diesel_generator"
-{
-	"operator_stacks"
+	diesel_generator = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/vehicles/diesel_loop2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 80.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/vehicles/diesel_loop2.vsnd",
+		]
 	}
-}
-"wood_creak1"
-{
-	"operator_stacks"
+	wood_creak1 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/materials/wood_creak1.vsnd"
-							"vsnd1"		"sounds/ambient/materials/wood_creak2.vsnd"
-							"vsnd2"		"sounds/ambient/materials/wood_creak3.vsnd"
-							"vsnd3"		"sounds/ambient/materials/wood_creak6.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 140.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/materials/wood_creak1.vsnd",
+			"sounds/ambient/materials/wood_creak2.vsnd",
+			"sounds/ambient/materials/wood_creak3.vsnd",
+			"sounds/ambient/materials/wood_creak6.vsnd",
+		]
 	}
-}
-"catwalkgroan01"
-{
-	"operator_stacks"
+	catwalkgroan01 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/materials/metal_stress1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/materials/metal_stress1.vsnd",
+		]
 	}
-}
-"train_move"
-{
-	"operator_stacks"
+	train_move = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/machines/train_freight_loop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"130.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 130.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/machines/train_freight_loop1.vsnd",
+		]
 	}
-}
-"train_crossing_bell"
-{
-	"operator_stacks"
+	train_crossing_bell = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/alarms/train_crossing_bell_loop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"105.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 105.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/alarms/train_crossing_bell_loop1.vsnd",
+		]
 	}
-}
-"rope_creak"
-{
-	"operator_stacks"
+	rope_creak = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/materials/metal_stress5.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/materials/metal_stress5.vsnd",
+		]
 	}
-}
-"boxcar_door_stop1"
-{
-	"operator_stacks"
+	boxcar_door_stop1 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_metal_thin_open1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_thin_open1.vsnd",
+		]
 	}
-}
-"boxcar_door_stop2"
-{
-	"operator_stacks"
+	boxcar_door_stop2 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_metal_thin_close2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_thin_close2.vsnd",
+		]
 	}
-}
-"heli_pass"
-{
-	"operator_stacks"
+	heli_pass = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/machines/heli_pass_quick1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/machines/heli_pass_quick1.vsnd",
+		]
 	}
-}
-"substation_generators"
-{
-	"operator_stacks"
+	substation_generators = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/atmosphere/indoor2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.399902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.399902
+		pitch = 1.0
+		soundlevel = 80.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/atmosphere/indoor2.vsnd",
+		]
 	}
-}
-"drivein_movie"
-{
-	"operator_stacks"
+	drivein_movie = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/common/null.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"120.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 120.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/common/null.vsnd",
+		]
 	}
-}
-"WAM.HighScore"
-{
-	"operator_stacks"
+	"WAM.HighScore" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/highscore.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 80.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/highscore.vsnd",
+		]
 	}
-}
-"WAM.StartUp"
-{
-	"operator_stacks"
+	"WAM.StartUp" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/startwam.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 65.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/startwam.vsnd",
+		]
 	}
-}
-"WAM.CountDown"
-{
-	"operator_stacks"
+	"WAM.CountDown" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/countdown.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/countdown.vsnd",
+		]
 	}
-}
-"WAM.LowScore"
-{
-	"operator_stacks"
+	"WAM.LowScore" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/lowscore.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/lowscore.vsnd",
+		]
 	}
-}
-"WAM.PointScored"
-{
-	"operator_stacks"
+	"WAM.PointScored" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/pointscored.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/pointscored.vsnd",
+		]
 	}
-}
-"WAM.popUp"
-{
-	"operator_stacks"
+	"WAM.popUp" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/popup.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/popup.vsnd",
+		]
 	}
-}
-"WAM.TimerBell"
-{
-	"operator_stacks"
+	"WAM.TimerBell" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/timer_bell.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/timer_bell.vsnd",
+		]
 	}
-}
-"WAM.Music"
-{
-	"operator_stacks"
+	"WAM.Music" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/wam_music.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/wam_music.vsnd",
+		]
 	}
-}
-"WAM.GameOver"
-{
-	"operator_stacks"
+	"WAM.GameOver" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/wamover.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/wamover.vsnd",
+		]
 	}
-}
-"WAM.Attract"
-{
-	"operator_stacks"
+	"WAM.Attract" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/whackpopup01.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/whackpopup02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/whackpopup09.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/whackpopup13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.150000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.15
+		soundlevel = 80.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/whackpopup01.vsnd",
+			"sounds/npc/moustachio/whackpopup02.vsnd",
+			"sounds/npc/moustachio/whackpopup09.vsnd",
+			"sounds/npc/moustachio/whackpopup13.vsnd",
+		]
 	}
-}
-"Strongman.ImpactAdrenaline"
-{
-	"operator_stacks"
+	"Strongman.ImpactAdrenaline" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/adrenaline_impact.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/adrenaline_impact.vsnd",
+		]
 	}
-}
-"Strongman.Bell"
-{
-	"operator_stacks"
+	"Strongman.Bell" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/bell_normal.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/bell_normal.vsnd",
+		]
 	}
-}
-"Strongman.BellBreakawy"
-{
-	"operator_stacks"
+	"Strongman.BellBreakawy" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/bell_break.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/bell_break.vsnd",
+		]
 	}
-}
-"Strongman.BellImpact"
-{
-	"operator_stacks"
+	"Strongman.BellImpact" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/bell_impact.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/bell_impact.vsnd",
+		]
 	}
-}
-"Strongman.PuckSlide_up"
-{
-	"operator_stacks"
+	"Strongman.PuckSlide_up" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/puck_slide_up.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/puck_slide_up.vsnd",
+		]
 	}
-}
-"Strongman.PuckSlide_down"
-{
-	"operator_stacks"
+	"Strongman.PuckSlide_down" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/puck_slide_down.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/puck_slide_down.vsnd",
+		]
 	}
-}
-"Strongman.PuckImpact"
-{
-	"operator_stacks"
+	"Strongman.PuckImpact" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/puck_impact.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.899780"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.89978
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/puck_impact.vsnd",
+		]
 	}
-}
-"Strongman.puck_fail"
-{
-	"operator_stacks"
+	"Strongman.puck_fail" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/puck_fail.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/puck_fail.vsnd",
+		]
 	}
-}
-"Strongman.puck_tick"
-{
-	"operator_stacks"
+	"Strongman.puck_tick" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/buttons/button22.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.049988"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.049988"
-					}
-					"volume"
-					{
-						"value"		"0.549988"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.049988
+		volume_rand_max = 0.049988
+		volume = 0.549988
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/buttons/button22.vsnd",
+		]
 	}
-}
-"Strongman.LightsOn"
-{
-	"operator_stacks"
+	"Strongman.LightsOn" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/light_on.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 80.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/light_on.vsnd",
+		]
 	}
-}
-"Gallery.StartLoop"
-{
-	"operator_stacks"
+	"Gallery.StartLoop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/start_and_loop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/start_and_loop.vsnd",
+		]
 	}
-}
-"Gallery.Stop"
-{
-	"operator_stacks"
+	"Gallery.Stop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/gallery_stop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/gallery_stop.vsnd",
+		]
 	}
-}
-"Gallery.Music"
-{
-	"operator_stacks"
+	"Gallery.Music" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/gallery_music.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/gallery_music.vsnd",
+		]
 	}
-}
-"Gallery.GnomeFTW"
-{
-	"operator_stacks"
+	"Gallery.GnomeFTW" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/gnomeftw.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/gnomeftw.vsnd",
+		]
 	}
-}
-"Gallery.PointScored"
-{
-	"operator_stacks"
+	"Gallery.PointScored" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/scoreregular.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/scoreregular.vsnd",
+		]
 	}
-}
-"Gallery.PointScored100"
-{
-	"operator_stacks"
+	"Gallery.PointScored100" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/scoreregular.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.250000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.25
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/scoreregular.vsnd",
+		]
 	}
-}
-"Gallery.Win"
-{
-	"operator_stacks"
+	"Gallery.Win" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/gallery_win.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/gallery_win.vsnd",
+		]
 	}
-}
-"Gallery.Climber"
-{
-	"operator_stacks"
+	"Gallery.Climber" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/climber.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/climber.vsnd",
+		]
 	}
-}
-"Gallery.Moustachio"
-{
-	"operator_stacks"
+	"Gallery.Moustachio" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/whackpopup01.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/whackpopup02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/whackpopup03.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/whackpopup04.vsnd"
-							"vsnd4"		"sounds/npc/moustachio/whackpopup05.vsnd"
-							"vsnd5"		"sounds/npc/moustachio/whackpopup06.vsnd"
-							"vsnd6"		"sounds/npc/moustachio/whackpopup07.vsnd"
-							"vsnd7"		"sounds/npc/moustachio/whackpopup08.vsnd"
-							"vsnd8"		"sounds/npc/moustachio/whackpopup09.vsnd"
-							"vsnd9"		"sounds/npc/moustachio/whackpopup10.vsnd"
-							"vsnd10"		"sounds/npc/moustachio/whackpopup11.vsnd"
-							"vsnd11"		"sounds/npc/moustachio/whackpopup12.vsnd"
-							"vsnd12"		"sounds/npc/moustachio/whackpopup13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/whackpopup01.vsnd",
+			"sounds/npc/moustachio/whackpopup02.vsnd",
+			"sounds/npc/moustachio/whackpopup03.vsnd",
+			"sounds/npc/moustachio/whackpopup04.vsnd",
+			"sounds/npc/moustachio/whackpopup05.vsnd",
+			"sounds/npc/moustachio/whackpopup06.vsnd",
+			"sounds/npc/moustachio/whackpopup07.vsnd",
+			"sounds/npc/moustachio/whackpopup08.vsnd",
+			"sounds/npc/moustachio/whackpopup09.vsnd",
+			"sounds/npc/moustachio/whackpopup10.vsnd",
+			"sounds/npc/moustachio/whackpopup11.vsnd",
+			"sounds/npc/moustachio/whackpopup12.vsnd",
+			"sounds/npc/moustachio/whackpopup13.vsnd",
+		]
 	}
-}
-"Gallery.Moustachio_hit"
-{
-	"operator_stacks"
+	"Gallery.Moustachio_hit" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/whacksmash01.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/whacksmash02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/whacksmash03.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/whacksmash04.vsnd"
-							"vsnd4"		"sounds/npc/moustachio/whacksmash05.vsnd"
-							"vsnd5"		"sounds/npc/moustachio/whacksmash06.vsnd"
-							"vsnd6"		"sounds/npc/moustachio/whacksmash07.vsnd"
-							"vsnd7"		"sounds/npc/moustachio/whacksmash08.vsnd"
-							"vsnd8"		"sounds/npc/moustachio/whacksmash09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/whacksmash01.vsnd",
+			"sounds/npc/moustachio/whacksmash02.vsnd",
+			"sounds/npc/moustachio/whacksmash03.vsnd",
+			"sounds/npc/moustachio/whacksmash04.vsnd",
+			"sounds/npc/moustachio/whacksmash05.vsnd",
+			"sounds/npc/moustachio/whacksmash06.vsnd",
+			"sounds/npc/moustachio/whacksmash07.vsnd",
+			"sounds/npc/moustachio/whacksmash08.vsnd",
+			"sounds/npc/moustachio/whacksmash09.vsnd",
+		]
 	}
-}
-"Coaster.Loop"
-{
-	"operator_stacks"
+	"Coaster.Loop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/coaster_loop01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.025000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.025000"
-					}
-					"pitch"
-					{
-						"value"		"0.975000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.025
+		pitch_rand_max = 0.025
+		pitch = 0.975
+		soundlevel = 90.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/coaster_loop01.vsnd",
+		]
 	}
-}
-"Coaster.Loop2"
-{
-	"operator_stacks"
+	"Coaster.Loop2" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/coaster_loop02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.025000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.025000"
-					}
-					"pitch"
-					{
-						"value"		"0.975000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.025
+		pitch_rand_max = 0.025
+		pitch = 0.975
+		soundlevel = 90.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/coaster_loop02.vsnd",
+		]
 	}
-}
-"Coaster.Loop3"
-{
-	"operator_stacks"
+	"Coaster.Loop3" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/coaster_loop03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.025000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.025000"
-					}
-					"pitch"
-					{
-						"value"		"0.975000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.025
+		pitch_rand_max = 0.025
+		pitch = 0.975
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/coaster_loop03.vsnd",
+		]
 	}
-}
-"Coaster.DownShort"
-{
-	"operator_stacks"
+	"Coaster.DownShort" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/downhill01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/downhill01.vsnd",
+		]
 	}
-}
-"Coaster.DownLong"
-{
-	"operator_stacks"
+	"Coaster.DownLong" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/downhill02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/downhill02.vsnd",
+		]
 	}
-}
-"Coaster.Climb_Loop"
-{
-	"operator_stacks"
+	"Coaster.Climb_Loop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/climb_loop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/climb_loop.vsnd",
+		]
 	}
-}
-"Coaster.Climb_End"
-{
-	"operator_stacks"
+	"Coaster.Climb_End" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/climb_end.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/climb_end.vsnd",
+		]
 	}
-}
-"Coaster.Stop"
-{
-	"operator_stacks"
+	"Coaster.Stop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/loud/coaster_stop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"110.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 110.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/loud/coaster_stop.vsnd",
+		]
 	}
-}
-"Coaster.Crash"
-{
-	"operator_stacks"
+	"Coaster.Crash" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/common/null.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"120.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.0
+		pitch = 1.0
+		soundlevel = 120.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/common/null.vsnd",
+		]
 	}
-}
-"scavenge.generator_on_loop"
-{
-	"operator_stacks"
+	"scavenge.generator_on_loop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/generator_start_loop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/generator_start_loop.vsnd",
+		]
 	}
-}
-"scavenge.generator_sputter_loop"
-{
-	"operator_stacks"
+	"scavenge.generator_sputter_loop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/generator_sputter.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/generator_sputter.vsnd",
+		]
 	}
-}
-"scavenge.generator_turnoff"
-{
-	"operator_stacks"
+	"scavenge.generator_turnoff" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/generator_stop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/generator_stop.vsnd",
+		]
 	}
-}
-"Jukebox.NeedleScratch"
-{
-	"operator_stacks"
+	"Jukebox.NeedleScratch" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/level/record_changer.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/level/record_changer.vsnd",
+		]
 	}
-}
-"Jukebox.RecordStart"
-{
-	"operator_stacks"
+	"Jukebox.RecordStart" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/common/null.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.0
+		pitch = 1.0
+		soundlevel = 85.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/common/null.vsnd",
+		]
 	}
 }

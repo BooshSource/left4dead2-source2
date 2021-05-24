@@ -1,9 +1,43 @@
-// Converted with vmt_to_vmat.py
+// THIS FILE IS AUTO-GENERATED
 
 Layer0
 {
-	shader "simple.vfx"
+	shader "blend.vfx"
 
-	TextureColor "materials/brick/brick_floor_01b.tga"
-	TextureNormal "materials/brick/brick_floor_01_height-ssbump_normal.tga"
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Mask ----
+	TextureMask "materials/brick/brick_floor_01b_blend_mask.psd"
+
+	//---- Material A ----
+	g_flMetalnessA "0.000"
+	TextureColorA "materials/brick/brick_floor_01b.tga"
+	TextureNormalA "materials/brick/brick_floor_01_height-ssbump_normal.tga"
+	TextureRoughnessA "materials/brick/brick_floor_01b_rough.psd"
+
+	//---- Material B ----
+	g_flMetalnessB "0.000"
+	g_vTexCoordScale2 "[1.000 1.000]"
+	TextureColorB "materials/brick/brick_floor_01.tga"
+	TextureNormalB "materials/brick/brick_floor_01_height-ssbump_normal.tga"
+	TextureRoughnessB "materials/brick/brick_floor_01_rough.psd"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
 }

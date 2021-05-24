@@ -1,5700 +1,1618 @@
-"Player.Teengirl_DLC2Barricade01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2barricade01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2BirdHate01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2birdhate01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2BridgeClear01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2bridgeclear01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.750000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2BulletinBoard01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2bulletinboard01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2BulletinBoard02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2bulletinboard02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Container01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2container01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2CopyPaper01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2copypaper01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2GasTanks01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2gastanks01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2GasTanks02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2gastanks02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.349854"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2GasTanks03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2gastanks03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.399902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Intro11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2intro11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Directional15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1directional15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Goal01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1goal01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Goal02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1goal02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1GunEnd01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1gunend01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1GunEnd02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1gunend02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1GunNag01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1gunnag01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1GunNag02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1gunnag02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Searching01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1searching01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M1Searching02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m1searching02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Directional08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2directional08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleBreak101"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak101.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleBreak102"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak102.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleBreak201"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak201.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleBreak202"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak202.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen101"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen101.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen102"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen102.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen201"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen201.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen202"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen202.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen203"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen203.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen301"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen301.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressGen302"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen302.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleButtonPressLift01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpresslift01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleSetup01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleSetup02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleSetup03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.750000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleSetup201"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup201.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleSetup202"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup202.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleTruckDown01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckdown01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleTruckEnd01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckend01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleTruckEnd02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckend02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2FinaleWaiting01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2finalewaiting01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Saferoom01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2saferoom01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Saferoom02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2saferoom02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Saferoom03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2saferoom03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2M2Saferoom04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2m2saferoom04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2MagazineRack01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2magazinerack01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2MetalSupply01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2metalsupply01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.579590"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2MetalSupply02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2metalsupply02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.579590"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2MetalSupply03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2metalsupply03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.579590"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.649902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Misc08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2misc08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2PilotComment01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2pilotcomment01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2PilotComment02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2pilotcomment02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.549805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Riverside01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2riverside01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.479980"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Riverside02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2riverside02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.479980"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Riverside03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2riverside03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2Steam01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2steam01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.419922"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLC2TrainWreck01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlc2trainwreck01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.789551"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Player.Teengirl_DLCZombieTruck01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/player/survivor/voice/teengirl/dlczombietruck01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	"Player.Teengirl_DLC2Barricade01" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2barricade01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2BirdHate01" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2birdhate01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2BridgeClear01" = 
+	{
+		type = "src1_3d"
+		volume = 0.75
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2bridgeclear01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2BulletinBoard01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2bulletinboard01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2BulletinBoard02" = 
+	{
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2bulletinboard02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Container01" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2container01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2CopyPaper01" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2copypaper01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2GasTanks01" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2gastanks01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2GasTanks02" = 
+	{
+		type = "src1_3d"
+		volume = 0.349854
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2gastanks02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2GasTanks03" = 
+	{
+		type = "src1_3d"
+		volume = 0.399902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2gastanks03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro01" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro02" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro03" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro05" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro05.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro06" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro06.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro07" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro07.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro08" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro08.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro09" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro09.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro10" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro10.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Intro11" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2intro11.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional01" = 
+	{
+		type = "src1_3d"
+		volume = 0.699707
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional02" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional03" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional04" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional04.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional05" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional05.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional06" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional06.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional07" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional07.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional08" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional08.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional09" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional09.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional10" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional10.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional11" = 
+	{
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional11.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional12" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional12.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional13" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional13.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional14" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional14.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Directional15" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1directional15.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Goal01" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1goal01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Goal02" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1goal02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1GunEnd01" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1gunend01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1GunEnd02" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1gunend02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1GunNag01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1gunnag01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1GunNag02" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1gunnag02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Searching01" = 
+	{
+		type = "src1_3d"
+		volume = 0.699707
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1searching01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M1Searching02" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m1searching02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional02" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional03" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional04" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional04.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional05" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional05.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional06" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional06.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional07" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional07.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Directional08" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2directional08.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleBreak101" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak101.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleBreak102" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak102.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleBreak201" = 
+	{
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak201.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleBreak202" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebreak202.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen101" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen101.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen102" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen102.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen201" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen201.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen202" = 
+	{
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen202.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen203" = 
+	{
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen203.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen301" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen301.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressGen302" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpressgen302.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleButtonPressLift01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalebuttonpresslift01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleSetup01" = 
+	{
+		type = "src1_3d"
+		volume = 0.849609
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleSetup02" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleSetup03" = 
+	{
+		type = "src1_3d"
+		volume = 0.75
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleSetup201" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup201.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleSetup202" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalesetup202.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleTruckDown01" = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckdown01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleTruckEnd01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckend01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleTruckEnd02" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finaletruckend02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2FinaleWaiting01" = 
+	{
+		type = "src1_3d"
+		volume = 0.699707
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2finalewaiting01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Saferoom01" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2saferoom01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Saferoom02" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2saferoom02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Saferoom03" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2saferoom03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2M2Saferoom04" = 
+	{
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2m2saferoom04.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2MagazineRack01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2magazinerack01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2MetalSupply01" = 
+	{
+		type = "src1_3d"
+		volume = 0.57959
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2metalsupply01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2MetalSupply02" = 
+	{
+		type = "src1_3d"
+		volume = 0.57959
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2metalsupply02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2MetalSupply03" = 
+	{
+		type = "src1_3d"
+		volume = 0.57959
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2metalsupply03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc01" = 
+	{
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc02" = 
+	{
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc03" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc04" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc04.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc05" = 
+	{
+		type = "src1_3d"
+		volume = 0.649902
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc05.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc07" = 
+	{
+		type = "src1_3d"
+		volume = 0.899902
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc07.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Misc08" = 
+	{
+		type = "src1_3d"
+		volume = 0.5
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2misc08.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2PilotComment01" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2pilotcomment01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2PilotComment02" = 
+	{
+		type = "src1_3d"
+		volume = 0.549805
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2pilotcomment02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Riverside01" = 
+	{
+		type = "src1_3d"
+		volume = 0.47998
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2riverside01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Riverside02" = 
+	{
+		type = "src1_3d"
+		volume = 0.47998
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2riverside02.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Riverside03" = 
+	{
+		type = "src1_3d"
+		volume = 0.599609
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2riverside03.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2Steam01" = 
+	{
+		type = "src1_3d"
+		volume = 0.419922
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2steam01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLC2TrainWreck01" = 
+	{
+		type = "src1_3d"
+		volume = 0.789551
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlc2trainwreck01.vsnd",
+		]
+	}
+	"Player.Teengirl_DLCZombieTruck01" = 
+	{
+		type = "src1_3d"
+		volume = 0.799805
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/player/survivor/voice/teengirl/dlczombietruck01.vsnd",
+		]
 	}
 }

@@ -1,1540 +1,453 @@
-"Doors.Wood.Move1"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	"Doors.Wood.Move1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door1_move.vsnd"
-							"vsnd1"		"sounds/doors/wood_move1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door1_move.vsnd",
+			"sounds/doors/wood_move1.vsnd",
+		]
 	}
-}
-"Doors.Wood.FullOpen1"
-{
-	"operator_stacks"
+	"Doors.Wood.FullOpen1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door1_stop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door1_stop.vsnd",
+		]
 	}
-}
-"Doors.Wood.FullClose1"
-{
-	"operator_stacks"
+	"Doors.Wood.FullClose1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_wood_close1.vsnd"
-							"vsnd1"		"sounds/doors/wood_stop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_wood_close1.vsnd",
+			"sounds/doors/wood_stop1.vsnd",
+		]
 	}
-}
-"Doors.Wood.Pound1"
-{
-	"operator_stacks"
+	"Doors.Wood.Pound1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/physics/wood/wood_panel_impact_hard1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/physics/wood/wood_panel_impact_hard1.vsnd",
+		]
 	}
-}
-"WoodenDoor.Pound"
-{
-	"operator_stacks"
+	"WoodenDoor.Pound" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/physics/wood/wood_panel_impact_hard1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/physics/wood/wood_panel_impact_hard1.vsnd",
+		]
 	}
-}
-"WoodenDoor.Break"
-{
-	"operator_stacks"
+	"WoodenDoor.Break" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/physics/wood/wood_crate_break4.vsnd"
-							"vsnd1"		"sounds/physics/wood/wood_crate_break5.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/physics/wood/wood_crate_break4.vsnd",
+			"sounds/physics/wood/wood_crate_break5.vsnd",
+		]
 	}
-}
-"WoodenDoor.Lock"
-{
-	"operator_stacks"
+	"WoodenDoor.Lock" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_lock_1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_lock_1.vsnd",
+		]
 	}
-}
-"Doors.Checkpoint.Move1"
-{
-	"operator_stacks"
+	"Doors.Checkpoint.Move1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_metal_rusty_move1.vsnd"
-							"vsnd1"		"sounds/doors/metal_move1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_rusty_move1.vsnd",
+			"sounds/doors/metal_move1.vsnd",
+		]
 	}
-}
-"Doors.Checkpoint.FullOpen1"
-{
-	"operator_stacks"
+	"Doors.Checkpoint.FullOpen1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_metal_large_open1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_large_open1.vsnd",
+		]
 	}
-}
-"Doors.Checkpoint.FullClose1"
-{
-	"operator_stacks"
+	"Doors.Checkpoint.FullClose1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_checkpoint_close1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 140.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_checkpoint_close1.vsnd",
+		]
 	}
-}
-"CheckpointDoor.Pound"
-{
-	"operator_stacks"
+	"CheckpointDoor.Pound" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/hit_kickmetaldoor1.vsnd"
-							"vsnd1"		"sounds/doors/hit_kickmetaldoor2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/hit_kickmetaldoor1.vsnd",
+			"sounds/doors/hit_kickmetaldoor2.vsnd",
+		]
 	}
-}
-"Doors.Checkpoint.Pound1"
-{
-	"operator_stacks"
+	"Doors.Checkpoint.Pound1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/hit_kickmetaldoor1.vsnd"
-							"vsnd1"		"sounds/doors/hit_kickmetaldoor2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/hit_kickmetaldoor1.vsnd",
+			"sounds/doors/hit_kickmetaldoor2.vsnd",
+		]
 	}
-}
-"Doors.Checkpoint.Unlock"
-{
-	"operator_stacks"
+	"Doors.Checkpoint.Unlock" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/checkpointbarremove.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/checkpointbarremove.vsnd",
+		]
 	}
-}
-"Doors.Glass.Move1"
-{
-	"operator_stacks"
+	"Doors.Glass.Move1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door1_move.vsnd"
-							"vsnd1"		"sounds/doors/wood_move1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door1_move.vsnd",
+			"sounds/doors/wood_move1.vsnd",
+		]
 	}
-}
-"Doors.Glass.FullOpen1"
-{
-	"operator_stacks"
+	"Doors.Glass.FullOpen1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_metal_gate_close1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_gate_close1.vsnd",
+		]
 	}
-}
-"Doors.Glass.FullClose1"
-{
-	"operator_stacks"
+	"Doors.Glass.FullClose1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_metal_medium_close1.vsnd"
-							"vsnd1"		"sounds/doors/default_stop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_medium_close1.vsnd",
+			"sounds/doors/default_stop.vsnd",
+		]
 	}
-}
-"Doors.Glass.Pound1"
-{
-	"operator_stacks"
+	"Doors.Glass.Pound1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/hit_kickmetaldoor1.vsnd"
-							"vsnd1"		"sounds/doors/hit_kickmetaldoor2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/hit_kickmetaldoor1.vsnd",
+			"sounds/doors/hit_kickmetaldoor2.vsnd",
+		]
 	}
-}
-"Doors.Metal.Move1"
-{
-	"operator_stacks"
+	"Doors.Metal.Move1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_metal_rusty_move1.vsnd"
-							"vsnd1"		"sounds/doors/metal_move1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_rusty_move1.vsnd",
+			"sounds/doors/metal_move1.vsnd",
+		]
 	}
-}
-"Doors.Metal.FullOpen1"
-{
-	"operator_stacks"
+	"Doors.Metal.FullOpen1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/door_metal_large_open1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_large_open1.vsnd",
+		]
 	}
-}
-"Doors.Metal.FullClose1"
-{
-	"operator_stacks"
+	"Doors.Metal.FullClose1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/door_metal_large_close2.vsnd"
-							"vsnd1"		"sounds/doors/metal_stop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"4.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 4.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/door_metal_large_close2.vsnd",
+			"sounds/doors/metal_stop1.vsnd",
+		]
 	}
-}
-"Doors.Metal.Pound1"
-{
-	"operator_stacks"
+	"Doors.Metal.Pound1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/doors/hit_kickmetaldoor1.vsnd"
-							"vsnd1"		"sounds/doors/hit_kickmetaldoor2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/hit_kickmetaldoor1.vsnd",
+			"sounds/doors/hit_kickmetaldoor2.vsnd",
+		]
 	}
-}
-"Doors.Medkit_Cabinet"
-{
-	"operator_stacks"
+	"Doors.Medkit_Cabinet" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/medkit_doors_open.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/medkit_doors_open.vsnd",
+		]
 	}
-}
-"Doors.Manhole.Move"
-{
-	"operator_stacks"
+	"Doors.Manhole.Move" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/gate_move1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/gate_move1.vsnd",
+		]
 	}
-}
-"Doors.Manhole.Open"
-{
-	"operator_stacks"
+	"Doors.Manhole.Open" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/urb_3b_manhole_open.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/urb_3b_manhole_open.vsnd",
+		]
 	}
-}
-"Doors.Elevator.Open"
-{
-	"operator_stacks"
+	"Doors.Elevator.Open" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/urb_4b_elevator_open.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/urb_4b_elevator_open.vsnd",
+		]
 	}
-}
-"Doors.Elevator.Close"
-{
-	"operator_stacks"
+	"Doors.Elevator.Close" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/urb_4b_elevator_close.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/urb_4b_elevator_close.vsnd",
+		]
 	}
-}
-"Doors.ConstructionLift.Open"
-{
-	"operator_stacks"
+	"Doors.ConstructionLift.Open" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/sugarcane_lift_gate_open_01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/sugarcane_lift_gate_open_01.vsnd",
+		]
 	}
-}
-"Doors.ConstructionLift.Close"
-{
-	"operator_stacks"
+	"Doors.ConstructionLift.Close" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/sugarcane_lift_gate_close_01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"event_type"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		event_type = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/sugarcane_lift_gate_close_01.vsnd",
+		]
 	}
 }

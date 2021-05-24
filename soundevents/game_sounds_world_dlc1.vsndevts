@@ -1,192 +1,61 @@
-"MidnightRiders.Horn"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	"MidnightRiders.Horn" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/vehicles/bus_horn.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"150.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 150.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/vehicles/bus_horn.vsnd",
+		]
 	}
-}
-"Trunk.Open"
-{
-	"operator_stacks"
+	"Trunk.Open" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/doors/trunk_open.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/doors/trunk_open.vsnd",
+		]
 	}
-}
-"catwalk.gate.open"
-{
-	"operator_stacks"
+	"catwalk.gate.open" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/animation/catwalk_gate_open.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/animation/catwalk_gate_open.vsnd",
+		]
 	}
-}
-"stock_car_escape"
-{
-	"operator_stacks"
+	stock_car_escape = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/animation/c6m3_escape.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.429932"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.429932
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/animation/c6m3_escape.vsnd",
+		]
 	}
-}
-"c6_bridge_lower_part1"
-{
-	"operator_stacks"
+	c6_bridge_lower_part1 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/animation/c6_bridgelower_seg01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.239990"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.23999
+		pitch = 1.0
+		soundlevel = 140.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/animation/c6_bridgelower_seg01.vsnd",
+		]
 	}
 }

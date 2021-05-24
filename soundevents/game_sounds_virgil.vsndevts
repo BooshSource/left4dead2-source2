@@ -1,7160 +1,2035 @@
-"Virgil_C3End01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End20"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end20.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End21"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end21.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End22"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end22.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End23"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end23.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End24"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end24.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End25"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end25.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End26"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end26.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End27"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end27.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End28"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end28.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End29"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end29.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End30"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end30.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End31"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end31.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End32"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end32.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End33"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end33.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End34"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end34.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End35"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end35.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End36"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end36.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End37"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end37.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End38"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end38.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End39"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end39.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End40"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end40.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End41"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end41.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End42"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end42.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End43"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end43.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End44"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end44.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End45"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end45.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End46"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end46.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End47"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end47.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End48"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end48.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End49"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end49.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End50"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end50.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End51"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end51.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End52"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end52.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End53"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end53.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End54"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end54.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End55"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end55.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End56"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end56.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End57"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end57.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End58"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end58.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End59"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end59.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End60"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end60.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End61"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end61.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End62"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end62.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End63"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end63.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End64"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end64.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C3End65"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c3end65.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4End17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4end17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C4Start19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c4start19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Virgil_C5Start20"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/virgil/c5start20.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	Virgil_C3End01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end01.vsnd",
+		]
+	}
+	Virgil_C3End02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end02.vsnd",
+		]
+	}
+	Virgil_C3End03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end03.vsnd",
+		]
+	}
+	Virgil_C3End04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end04.vsnd",
+		]
+	}
+	Virgil_C3End05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end05.vsnd",
+		]
+	}
+	Virgil_C3End06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end06.vsnd",
+		]
+	}
+	Virgil_C3End07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end07.vsnd",
+		]
+	}
+	Virgil_C3End08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end08.vsnd",
+		]
+	}
+	Virgil_C3End09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end09.vsnd",
+		]
+	}
+	Virgil_C3End10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end10.vsnd",
+		]
+	}
+	Virgil_C3End11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end11.vsnd",
+		]
+	}
+	Virgil_C3End12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end12.vsnd",
+		]
+	}
+	Virgil_C3End13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end13.vsnd",
+		]
+	}
+	Virgil_C3End14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end14.vsnd",
+		]
+	}
+	Virgil_C3End15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end15.vsnd",
+		]
+	}
+	Virgil_C3End16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end16.vsnd",
+		]
+	}
+	Virgil_C3End17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end17.vsnd",
+		]
+	}
+	Virgil_C3End18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end18.vsnd",
+		]
+	}
+	Virgil_C3End19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end19.vsnd",
+		]
+	}
+	Virgil_C3End20 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end20.vsnd",
+		]
+	}
+	Virgil_C3End21 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end21.vsnd",
+		]
+	}
+	Virgil_C3End22 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end22.vsnd",
+		]
+	}
+	Virgil_C3End23 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end23.vsnd",
+		]
+	}
+	Virgil_C3End24 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end24.vsnd",
+		]
+	}
+	Virgil_C3End25 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end25.vsnd",
+		]
+	}
+	Virgil_C3End26 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end26.vsnd",
+		]
+	}
+	Virgil_C3End27 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end27.vsnd",
+		]
+	}
+	Virgil_C3End28 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end28.vsnd",
+		]
+	}
+	Virgil_C3End29 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end29.vsnd",
+		]
+	}
+	Virgil_C3End30 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end30.vsnd",
+		]
+	}
+	Virgil_C3End31 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end31.vsnd",
+		]
+	}
+	Virgil_C3End32 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end32.vsnd",
+		]
+	}
+	Virgil_C3End33 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end33.vsnd",
+		]
+	}
+	Virgil_C3End34 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end34.vsnd",
+		]
+	}
+	Virgil_C3End35 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end35.vsnd",
+		]
+	}
+	Virgil_C3End36 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end36.vsnd",
+		]
+	}
+	Virgil_C3End37 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end37.vsnd",
+		]
+	}
+	Virgil_C3End38 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end38.vsnd",
+		]
+	}
+	Virgil_C3End39 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end39.vsnd",
+		]
+	}
+	Virgil_C3End40 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end40.vsnd",
+		]
+	}
+	Virgil_C3End41 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end41.vsnd",
+		]
+	}
+	Virgil_C3End42 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end42.vsnd",
+		]
+	}
+	Virgil_C3End43 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end43.vsnd",
+		]
+	}
+	Virgil_C3End44 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end44.vsnd",
+		]
+	}
+	Virgil_C3End45 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end45.vsnd",
+		]
+	}
+	Virgil_C3End46 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end46.vsnd",
+		]
+	}
+	Virgil_C3End47 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end47.vsnd",
+		]
+	}
+	Virgil_C3End48 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end48.vsnd",
+		]
+	}
+	Virgil_C3End49 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end49.vsnd",
+		]
+	}
+	Virgil_C3End50 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end50.vsnd",
+		]
+	}
+	Virgil_C3End51 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end51.vsnd",
+		]
+	}
+	Virgil_C3End52 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end52.vsnd",
+		]
+	}
+	Virgil_C3End53 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end53.vsnd",
+		]
+	}
+	Virgil_C3End54 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end54.vsnd",
+		]
+	}
+	Virgil_C3End55 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end55.vsnd",
+		]
+	}
+	Virgil_C3End56 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end56.vsnd",
+		]
+	}
+	Virgil_C3End57 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end57.vsnd",
+		]
+	}
+	Virgil_C3End58 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end58.vsnd",
+		]
+	}
+	Virgil_C3End59 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end59.vsnd",
+		]
+	}
+	Virgil_C3End60 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end60.vsnd",
+		]
+	}
+	Virgil_C3End61 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end61.vsnd",
+		]
+	}
+	Virgil_C3End62 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end62.vsnd",
+		]
+	}
+	Virgil_C3End63 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end63.vsnd",
+		]
+	}
+	Virgil_C3End64 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end64.vsnd",
+		]
+	}
+	Virgil_C3End65 = 
+	{
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c3end65.vsnd",
+		]
+	}
+	Virgil_C4End01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end01.vsnd",
+		]
+	}
+	Virgil_C4End02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end02.vsnd",
+		]
+	}
+	Virgil_C4End03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end03.vsnd",
+		]
+	}
+	Virgil_C4End04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end04.vsnd",
+		]
+	}
+	Virgil_C4End05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end05.vsnd",
+		]
+	}
+	Virgil_C4End06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end06.vsnd",
+		]
+	}
+	Virgil_C4End07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end07.vsnd",
+		]
+	}
+	Virgil_C4End08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end08.vsnd",
+		]
+	}
+	Virgil_C4End09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end09.vsnd",
+		]
+	}
+	Virgil_C4End10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end10.vsnd",
+		]
+	}
+	Virgil_C4End11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end11.vsnd",
+		]
+	}
+	Virgil_C4End12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end12.vsnd",
+		]
+	}
+	Virgil_C4End13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end13.vsnd",
+		]
+	}
+	Virgil_C4End14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end14.vsnd",
+		]
+	}
+	Virgil_C4End15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end15.vsnd",
+		]
+	}
+	Virgil_C4End16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end16.vsnd",
+		]
+	}
+	Virgil_C4End17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4end17.vsnd",
+		]
+	}
+	Virgil_C4Start01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start01.vsnd",
+		]
+	}
+	Virgil_C4Start02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start02.vsnd",
+		]
+	}
+	Virgil_C4Start03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start03.vsnd",
+		]
+	}
+	Virgil_C4Start04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start04.vsnd",
+		]
+	}
+	Virgil_C4Start05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start05.vsnd",
+		]
+	}
+	Virgil_C4Start06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start06.vsnd",
+		]
+	}
+	Virgil_C4Start07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start07.vsnd",
+		]
+	}
+	Virgil_C4Start08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start08.vsnd",
+		]
+	}
+	Virgil_C4Start09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start09.vsnd",
+		]
+	}
+	Virgil_C4Start10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start10.vsnd",
+		]
+	}
+	Virgil_C4Start11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start11.vsnd",
+		]
+	}
+	Virgil_C4Start12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start12.vsnd",
+		]
+	}
+	Virgil_C4Start13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start13.vsnd",
+		]
+	}
+	Virgil_C4Start14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start14.vsnd",
+		]
+	}
+	Virgil_C4Start15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start15.vsnd",
+		]
+	}
+	Virgil_C4Start16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start16.vsnd",
+		]
+	}
+	Virgil_C4Start17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start17.vsnd",
+		]
+	}
+	Virgil_C4Start18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start18.vsnd",
+		]
+	}
+	Virgil_C4Start19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c4start19.vsnd",
+		]
+	}
+	Virgil_C5Start01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start01.vsnd",
+		]
+	}
+	Virgil_C5Start02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start02.vsnd",
+		]
+	}
+	Virgil_C5Start03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start03.vsnd",
+		]
+	}
+	Virgil_C5Start04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start04.vsnd",
+		]
+	}
+	Virgil_C5Start05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start05.vsnd",
+		]
+	}
+	Virgil_C5Start06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start06.vsnd",
+		]
+	}
+	Virgil_C5Start07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start07.vsnd",
+		]
+	}
+	Virgil_C5Start08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start08.vsnd",
+		]
+	}
+	Virgil_C5Start09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start09.vsnd",
+		]
+	}
+	Virgil_C5Start10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start10.vsnd",
+		]
+	}
+	Virgil_C5Start11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start11.vsnd",
+		]
+	}
+	Virgil_C5Start12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start12.vsnd",
+		]
+	}
+	Virgil_C5Start13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start13.vsnd",
+		]
+	}
+	Virgil_C5Start14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start14.vsnd",
+		]
+	}
+	Virgil_C5Start15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start15.vsnd",
+		]
+	}
+	Virgil_C5Start16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start16.vsnd",
+		]
+	}
+	Virgil_C5Start17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start17.vsnd",
+		]
+	}
+	Virgil_C5Start18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start18.vsnd",
+		]
+	}
+	Virgil_C5Start19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start19.vsnd",
+		]
+	}
+	Virgil_C5Start20 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/virgil/c5start20.vsnd",
+		]
 	}
 }

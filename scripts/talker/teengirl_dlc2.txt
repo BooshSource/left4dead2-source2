@@ -5052,7 +5052,7 @@ Response PlayerWarnMegaMobTeenGirl
 	scene "scenes/TeenGirl/MiniFinaleGetReady04.vcd" predelay "2.5,3.5" //They're coming, boys!
 	scene "scenes/TeenGirl/MiniFinaleGetReady05.vcd" predelay "2.5,3.5" //They're coming!
 	scene "scenes/TeenGirl/ViolenceAwe05.vcd" predelay "2.5,3.5" //Holy shit...
-	scene "scenes/TeenGirl/gamespeech01.vcd" predelay "2.5,3.5"odds 1 //If it's not one of us, kill it. Notoneofus_01.wav
+	scene "scenes/TeenGirl/gamespeech01.vcd" predelay "2.5,3.5"odds 1 //If it's not one of us, kill it. Notoneofus_01.vsnd
 }
 Rule PlayerWarnMegaMobTeenGirl
 {

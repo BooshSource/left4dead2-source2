@@ -19,12 +19,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_01.wav"
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_02.wav"
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_03.wav"
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_04.wav"
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_05.wav"
-			"wave"	"ambient/random_amb_sfx/Metal_Debris_06.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Metal_Debris_06.vsnd"
 		}
 	}
 
@@ -44,14 +44,14 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_01.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_02.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_03.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_04.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_05.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_06.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_07.wav"
-			"wave"	"ambient/random_amb_sfx/Wood_Debris_08.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Wood_Debris_08.vsnd"
 		}
 	}
 
@@ -71,11 +71,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/Junk_Debris_01.wav"
-			"wave"	"ambient/random_amb_sfx/Junk_Debris_02.wav"
-			"wave"	"ambient/random_amb_sfx/Junk_Debris_03.wav"
-			"wave"	"ambient/random_amb_sfx/Junk_Debris_04.wav"
-			"wave"	"ambient/random_amb_sfx/Junk_Debris_05.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/Junk_Debris_01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Junk_Debris_02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Junk_Debris_03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Junk_Debris_04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Junk_Debris_05.vsnd"
 		}
 	}
 
@@ -95,19 +95,19 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_01.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_02.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_03.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_04.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_05.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_06.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_07.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_08.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_09.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_10.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_11.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_12.wav"
-			"wave"	"ambient/random_amb_sfx/Fire_Groan_13.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_10.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_11.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_12.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Fire_Groan_13.vsnd"
 		}
 	}
 
@@ -127,22 +127,22 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/Mall_Random_01.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_02.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_03.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_04.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_05.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_06.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_07.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_08.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_09.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_10.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_11.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_12.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_13.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_14.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_15.wav"
-			"wave"	"ambient/random_amb_sfx/Mall_Random_16.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_10.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_11.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_12.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_13.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_14.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_15.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/Mall_Random_16.vsnd"
 		}
 	}
 
@@ -168,7 +168,7 @@
 	{
 		"volume"	"0.2"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
@@ -181,10 +181,10 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_01.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_02.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_03.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_04.wav"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_04.vsnd"
 		}
 	}
 
@@ -192,7 +192,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"80"
-		"wave"		"ambient/fire/Interior_FireClose02_mono.wav"
+		"wave"		"sounds/ambient/fire/Interior_FireClose02_mono.vsnd"
 		"origin"	"1095.401367, 6455.306641, 2431.051514;"
 		"soundlevel" 	"SNDLVL_140dB"
 	}
@@ -201,7 +201,7 @@
 	{
 		"volume"	".68"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/urban_rooftop_ambloop02.wav"
+		"wave"		"sounds/ambient/ambience/urban_rooftop_ambloop02.vsnd"
 		"position"	"random"
 	}
 
@@ -209,7 +209,7 @@
 	{
 		"volume"	"0.1"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -225,7 +225,7 @@
 	{
 		"volume"	"0.6"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Tunnel_Tone_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Tunnel_Tone_Loop.vsnd"
 		"position"	"random"
 	}
 
@@ -234,7 +234,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/pipes_loop02.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/pipes_loop02.vsnd"
 		"origin"	"326.916656, 5915.466797, 2814.031250;"
 		"soundlevel" 	"SNDLVL_75dB"
 	}
@@ -250,7 +250,7 @@
 	{
 		"volume"	"0.65"
 		"pitch"		"100"
-		"wave"		"ambient/atmosphere/crucial_quiet_cellblock_amb.wav"
+		"wave"		"sounds/ambient/atmosphere/crucial_quiet_cellblock_amb.vsnd"
 	}
 
 
@@ -263,12 +263,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/materials/wood_creak1.wav"
-			"wave"	"ambient/materials/wood_creak2.wav"
-			"wave"	"ambient/materials/wood_creak3.wav"
-			"wave"	"ambient/materials/wood_creak4.wav"
-			"wave"	"ambient/materials/wood_creak5.wav"
-			"wave"	"ambient/materials/wood_creak6.wav"
+			"wave"	"sounds/ambient/materials/wood_creak1.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak2.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak3.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak4.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak5.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak6.vsnd"
 		}
 	}
 
@@ -308,13 +308,13 @@
 	{
 		"volume"	".4"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
 "playlooping"
 	{
-		"wave"		"(ambient/fire/Interior_Fire02_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire02_stereo.vsnd"
 		"volume" 	".33"
 		"pitch"		"100"
 		"position"	"random"
@@ -347,7 +347,7 @@
 	{
 		"volume"	"0.44"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
@@ -355,7 +355,7 @@
 	{
 		"volume"	".68"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/urban_rooftop_ambloop02.wav"
+		"wave"		"sounds/ambient/ambience/urban_rooftop_ambloop02.vsnd"
 		"position"	"random"
 	}
 
@@ -364,7 +364,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/fire/Interior_FireClose02_mono.wav"
+		"wave"		"sounds/ambient/fire/Interior_FireClose02_mono.vsnd"
 		"origin"	"1609.900146, 6851.555664, 2203.890625;"
 		"soundlevel" 	"SNDLVL_140dB"
 	}
@@ -372,7 +372,7 @@
 	{
 		"volume"	"0.17"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -386,7 +386,7 @@
 
 	"playlooping"
 	{
-		"wave"		"(ambient/fire/Interior_Fire02_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire02_stereo.vsnd"
 		"volume" 	".65"
 		"pitch"		"85"
 		"position"	"random"
@@ -395,7 +395,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
@@ -403,7 +403,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"90"
-		"wave"		"ambient/spacial_loops/4b_hospatrium_waterleak.wav"
+		"wave"		"sounds/ambient/spacial_loops/4b_hospatrium_waterleak.vsnd"
 		"origin"	"1731.558350, 5795.168457, 2473.730469;"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
@@ -412,7 +412,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/gas/steam2.wav"
+		"wave"		"sounds/ambient/gas/steam2.vsnd"
 		"origin"	"1718.281372, 5960.223145, 2589.012939;"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
@@ -450,7 +450,7 @@
 
 	"playlooping"
 	{
-		"wave"		"(ambient/fire/Interior_Fire02_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire02_stereo.vsnd"
 		"volume" 	".28"
 		"pitch"		"85"
 		"position"	"random"
@@ -483,7 +483,7 @@
 
 	"playlooping"
 	{
-		"wave"		"(ambient/fire/Interior_Fire02_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire02_stereo.vsnd"
 		"volume" 	".09"
 		"pitch"		"90"
 		"position"	"random"
@@ -519,7 +519,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/fire/Interior_FireClose02_mono.wav"
+		"wave"		"sounds/ambient/fire/Interior_FireClose02_mono.vsnd"
 		"origin"	"1791.968750, 7807.208496, 2526.031250;"
 		"soundlevel" 	"SNDLVL_110dB"
 	}
@@ -535,7 +535,7 @@
 	{
 		"volume"	".68"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/urban_rooftop_ambloop02.wav"
+		"wave"		"sounds/ambient/ambience/urban_rooftop_ambloop02.vsnd"
 		"position"	"random"
 	}
 
@@ -549,7 +549,7 @@
 	{
 		"volume"	"0.2"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -557,7 +557,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"80"
-		"wave"		"ambient/fire/Interior_FireClose02_mono.wav"
+		"wave"		"sounds/ambient/fire/Interior_FireClose02_mono.vsnd"
 		"origin"	"1095.401367, 6455.306641, 2431.051514;"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
@@ -573,14 +573,14 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Interior_Fire02_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire02_stereo.vsnd"
 	}
 
 	"playlooping"
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Interior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Interior_Fire01_stereo.vsnd"
 	}
 
 	"playsoundscape"
@@ -623,7 +623,7 @@
 	{
 		"volume"	".6"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
@@ -631,7 +631,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"90"
-		"wave"		"ambient/fire/Interior_FireClose02_mono.wav"
+		"wave"		"sounds/ambient/fire/Interior_FireClose02_mono.vsnd"
 		"origin"	"1225.667847, 5085.877441, 1246.031250;"
 		"soundlevel" 	"SNDLVL_130dB"
 	}
@@ -677,7 +677,7 @@
 	{
 		"volume"	".22"
 		"pitch"		"100"
-		"wave"		"(ambient/fire/Exterior_Fire01_stereo.wav"
+		"wave"		"sounds/ambient/fire/Exterior_Fire01_stereo.vsnd"
 		"position"	"random"
 	}
 
@@ -741,7 +741,7 @@
 	{
 		"volume"	"0.6"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -765,14 +765,14 @@
 	{
 		"volume"	"0.6"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Tunnel_Tone_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Tunnel_Tone_Loop.vsnd"
 		"position"	"random"
 	}
 	"playlooping"
 	{
 		"volume"	".95"
 		"pitch"		"100"
-		"wave"		"ambient/spacial_loops/vendingmachinehum_loop.wav"
+		"wave"		"sounds/ambient/spacial_loops/vendingmachinehum_loop.vsnd"
 		"origin"	"-790.399597, 3446.338623, 404.905975;"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
@@ -791,7 +791,7 @@
 	{
 		"volume"	".4"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_underpass_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_underpass_Bird_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -806,7 +806,7 @@
 	{
 		"volume"	"0.4"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -835,7 +835,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"(ambient/atmosphere/crucial_town_ambience.wav"
+		"wave"		"sounds/ambient/atmosphere/crucial_town_ambience.vsnd"
 		"position"	"random"
 	}
 	
@@ -843,7 +843,7 @@
 	{
 		"volume"	"0.24"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_TreeStreet_Bird_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_TreeStreet_Bird_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -856,10 +856,10 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_01.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_02.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_03.wav"
-			"wave"	"ambient/Random_Amb_sounds/ThinWindGust_04.wav"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_sounds/ThinWindGust_04.vsnd"
 		}
 	}
 
@@ -867,7 +867,7 @@
 	{
 		"volume"	".13"
 		"pitch"		"123"
-		"wave"		"ambient/ambience/Cicada_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Cicada_Loop.vsnd"
 		"origin"	"-6080.976074, -1884.437378, 534.031250;"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
@@ -876,7 +876,7 @@
 	{
 		"volume"	".18"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/Cicada_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Cicada_Loop.vsnd"
 		"origin"	"-7636.038574, -2595.086670, 391.031250;"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
@@ -967,7 +967,7 @@
 	{
 		"volume"	"0.45"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Mall_Amb_loop_02.wav"
+		"wave"		"sounds/ambient/ambience/Mall_Amb_loop_02.vsnd"
 		"position"	"random"
 	}
 
@@ -995,7 +995,7 @@
 	{
 		"volume"	"0.55"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Mall_Amb_loop.wav"
+		"wave"		"sounds/ambient/ambience/Mall_Amb_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -1019,8 +1019,8 @@
 		"soundlevel" 	"SNDLVL_100dB"
 		"rndwave"
 		{	
-			"wave"	"ambient\Random_Amb_SFX\Metal_Rattle_Scaffold01.wav"
-			"wave"	"ambient\Random_Amb_SFX\Metal_Rattle_Scaffold02.wav"
+			"wave"	"sounds/ambient\Random_Amb_SFX\Metal_Rattle_Scaffold01.vsnd"
+			"wave"	"sounds/ambient\Random_Amb_SFX\Metal_Rattle_Scaffold02.vsnd"
 		}
 	}
 	
@@ -1038,7 +1038,7 @@
 	{
 		"volume"	"0.5"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Tunnel_Tone_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Tunnel_Tone_Loop.vsnd"
 		"position"	"random"
 	}
 }
@@ -1054,7 +1054,7 @@
 	{
 		"volume"	"0.65"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_genroom_stereo_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_genroom_stereo_loop.vsnd"
 		"position"	"random"
 	}
 }
@@ -1106,7 +1106,7 @@
 	{
 		"volume"	"0.5"
 		"pitch"		"100"
-		"wave"		"(ambient/atmosphere/underground_hall_loop1.wav"
+		"wave"		"sounds/ambient/atmosphere/underground_hall_loop1.vsnd"
 		"position"	"random"
 	}
 }
@@ -1121,7 +1121,7 @@
 	{
 		"volume"	"0.62"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Mall_Amb_loop.wav"
+		"wave"		"sounds/ambient/ambience/Mall_Amb_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -1145,8 +1145,8 @@
 		"soundlevel" 	"SNDLVL_100dB"
 		"rndwave"
 		{	
-			"wave"	"ambient\Random_Amb_SFX\Metal_Rattle_Scaffold01.wav"
-			"wave"	"ambient\Random_Amb_SFX\Metal_Rattle_Scaffold02.wav"
+			"wave"	"sounds/ambient\Random_Amb_SFX\Metal_Rattle_Scaffold01.vsnd"
+			"wave"	"sounds/ambient\Random_Amb_SFX\Metal_Rattle_Scaffold02.vsnd"
 		}
 	}
 	
@@ -1161,7 +1161,7 @@
 	{
 		"volume"	"0.3"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_flourescent_room_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_flourescent_room_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -1169,7 +1169,7 @@
 	{
 		"volume"	"0.4"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Mall_Amb_loop.wav"
+		"wave"		"sounds/ambient/ambience/Mall_Amb_loop.vsnd"
 		"position"	"random"
 	}
 }

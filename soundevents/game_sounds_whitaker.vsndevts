@@ -1,7020 +1,1992 @@
-"Whitaker_ComeUpstairs01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairs01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairs02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairs02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairs03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairs03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerA01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongera01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerA02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongera02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerA03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongera03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerA04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongera04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerB06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerb06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerC01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerc01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerC02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerc02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerC03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerc03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_ComeUpstairsLongerD08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/comeupstairslongerd08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Conversation19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/conversation19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_DefendChatter19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/defendchatter19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted09"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted10"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted11"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted11.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted12"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted12.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted13"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted14"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted14.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted15"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted15.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted16"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted16.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted17"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted18"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted18.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted19"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted19.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted20"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted20.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted21"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted21.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted22"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted22.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_MissionCompleted23"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/missioncompleted23.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags05"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags06"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags07"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_Nags08"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/nags08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlocked01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblocked01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlocked02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblocked02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlocked03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblocked03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerA01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongera01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerA02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongera02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerA03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongera03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerA04"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongera04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerB01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerb01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerB02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerb02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerB03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerb03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerC01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerc01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerC02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerc02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerD01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerd01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerE01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongere01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerE02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongere02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerF01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerf01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerG01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerg01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerH01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerh01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerI01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongeri01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerJ01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerj01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerJ02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerj02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerK01"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerk01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerK02"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerk02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
-	}
-}
-"Whitaker_WayBlockedLongerK03"
-{
-	"operator_stacks"
-	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/whitaker/wayblockedlongerk03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	Whitaker_ComeUpstairs01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairs01.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairs02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairs02.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairs03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairs03.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerA01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongera01.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerA02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongera02.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerA03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongera03.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerA04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongera04.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb01.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb02.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb03.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb04.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb05.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerB06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerb06.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerC01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerc01.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerC02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerc02.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerC03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerc03.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd01.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd02.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd03.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd04.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd05.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd06.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd07.vsnd",
+		]
+	}
+	Whitaker_ComeUpstairsLongerD08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/comeupstairslongerd08.vsnd",
+		]
+	}
+	Whitaker_Conversation01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation01.vsnd",
+		]
+	}
+	Whitaker_Conversation02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation02.vsnd",
+		]
+	}
+	Whitaker_Conversation03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation03.vsnd",
+		]
+	}
+	Whitaker_Conversation04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation04.vsnd",
+		]
+	}
+	Whitaker_Conversation05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation05.vsnd",
+		]
+	}
+	Whitaker_Conversation06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation06.vsnd",
+		]
+	}
+	Whitaker_Conversation07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation07.vsnd",
+		]
+	}
+	Whitaker_Conversation08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation08.vsnd",
+		]
+	}
+	Whitaker_Conversation09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation09.vsnd",
+		]
+	}
+	Whitaker_Conversation10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation10.vsnd",
+		]
+	}
+	Whitaker_Conversation11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation11.vsnd",
+		]
+	}
+	Whitaker_Conversation12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation12.vsnd",
+		]
+	}
+	Whitaker_Conversation13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation13.vsnd",
+		]
+	}
+	Whitaker_Conversation14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation14.vsnd",
+		]
+	}
+	Whitaker_Conversation15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation15.vsnd",
+		]
+	}
+	Whitaker_Conversation16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation16.vsnd",
+		]
+	}
+	Whitaker_Conversation17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation17.vsnd",
+		]
+	}
+	Whitaker_Conversation18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation18.vsnd",
+		]
+	}
+	Whitaker_Conversation19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/conversation19.vsnd",
+		]
+	}
+	Whitaker_DefendChatter01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter01.vsnd",
+		]
+	}
+	Whitaker_DefendChatter02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter02.vsnd",
+		]
+	}
+	Whitaker_DefendChatter03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter03.vsnd",
+		]
+	}
+	Whitaker_DefendChatter04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter04.vsnd",
+		]
+	}
+	Whitaker_DefendChatter05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter05.vsnd",
+		]
+	}
+	Whitaker_DefendChatter06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter06.vsnd",
+		]
+	}
+	Whitaker_DefendChatter07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter07.vsnd",
+		]
+	}
+	Whitaker_DefendChatter08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter08.vsnd",
+		]
+	}
+	Whitaker_DefendChatter09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter09.vsnd",
+		]
+	}
+	Whitaker_DefendChatter10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter10.vsnd",
+		]
+	}
+	Whitaker_DefendChatter11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter11.vsnd",
+		]
+	}
+	Whitaker_DefendChatter12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter12.vsnd",
+		]
+	}
+	Whitaker_DefendChatter13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter13.vsnd",
+		]
+	}
+	Whitaker_DefendChatter14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter14.vsnd",
+		]
+	}
+	Whitaker_DefendChatter15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter15.vsnd",
+		]
+	}
+	Whitaker_DefendChatter16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter16.vsnd",
+		]
+	}
+	Whitaker_DefendChatter17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter17.vsnd",
+		]
+	}
+	Whitaker_DefendChatter18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter18.vsnd",
+		]
+	}
+	Whitaker_DefendChatter19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/defendchatter19.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted01.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted02.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted03.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted04.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted05.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted06.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted07.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted08.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted09 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted09.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted10 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted10.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted11 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted11.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted12 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted12.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted13 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted13.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted14 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted14.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted15 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted15.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted16 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted16.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted17 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted17.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted18 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted18.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted19 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted19.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted20 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted20.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted21 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted21.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted22 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted22.vsnd",
+		]
+	}
+	Whitaker_MissionCompleted23 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/missioncompleted23.vsnd",
+		]
+	}
+	Whitaker_Nags01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags01.vsnd",
+		]
+	}
+	Whitaker_Nags02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags02.vsnd",
+		]
+	}
+	Whitaker_Nags03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags03.vsnd",
+		]
+	}
+	Whitaker_Nags04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags04.vsnd",
+		]
+	}
+	Whitaker_Nags05 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags05.vsnd",
+		]
+	}
+	Whitaker_Nags06 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags06.vsnd",
+		]
+	}
+	Whitaker_Nags07 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags07.vsnd",
+		]
+	}
+	Whitaker_Nags08 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/nags08.vsnd",
+		]
+	}
+	Whitaker_WayBlocked01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblocked01.vsnd",
+		]
+	}
+	Whitaker_WayBlocked02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblocked02.vsnd",
+		]
+	}
+	Whitaker_WayBlocked03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblocked03.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerA01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongera01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerA02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongera02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerA03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongera03.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerA04 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongera04.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerB01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerb01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerB02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerb02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerB03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerb03.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerC01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerc01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerC02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerc02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerD01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerd01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerE01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongere01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerE02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongere02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerF01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerf01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerG01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerg01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerH01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerh01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerI01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongeri01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerJ01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerj01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerJ02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerj02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerK01 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerk01.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerK02 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerk02.vsnd",
+		]
+	}
+	Whitaker_WayBlockedLongerK03 = 
+	{
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/whitaker/wayblockedlongerk03.vsnd",
+		]
 	}
 }

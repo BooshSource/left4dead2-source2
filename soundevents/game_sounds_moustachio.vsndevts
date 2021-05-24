@@ -1,1377 +1,416 @@
-"Moustachio_STRENGTHATTRACT01"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT01 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract01.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT02"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT02 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract02.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT03"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT03 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract03.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract03.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT04"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT04 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract04.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract04.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT05"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT05 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract05.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract05.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT06"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT06 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract06.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract06.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT07"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT07 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract07.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT08"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT08 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract08.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT09"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT09 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract09.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT10"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT10 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthattract10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract10.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHBREAKMACHINE"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHBREAKMACHINE = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthbreakmachine.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthbreakmachine.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHLVL1_LITTLEPEANUT"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHLVL1_LITTLEPEANUT = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthlvl1_littlepeanut.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthlvl1_littlepeanut.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHLVL2_BABYPEANUT"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHLVL2_BABYPEANUT = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthlvl2_babypeanut.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthlvl2_babypeanut.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHLVL3_OLDPEANUT"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHLVL3_OLDPEANUT = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthlvl3_oldpeanut.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthlvl3_oldpeanut.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHLVL4_NOTBAD"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHLVL4_NOTBAD = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthlvl4_notbad.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthlvl4_notbad.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHLVL5_SOSTRONG"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHLVL5_SOSTRONG = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/moustachio/strengthlvl5_sostrong.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"90.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 90.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthlvl5_sostrong.vsnd",
+		]
 	}
-}
-"Moustachio_WHACKPOPUP01"
-{
-	"operator_stacks"
+	Moustachio_WHACKPOPUP01 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/whackpopup01.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/whackpopup02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/whackpopup03.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/whackpopup04.vsnd"
-							"vsnd4"		"sounds/npc/moustachio/whackpopup05.vsnd"
-							"vsnd5"		"sounds/npc/moustachio/whackpopup06.vsnd"
-							"vsnd6"		"sounds/npc/moustachio/whackpopup07.vsnd"
-							"vsnd7"		"sounds/npc/moustachio/whackpopup08.vsnd"
-							"vsnd8"		"sounds/npc/moustachio/whackpopup09.vsnd"
-							"vsnd9"		"sounds/npc/moustachio/whackpopup10.vsnd"
-							"vsnd10"		"sounds/npc/moustachio/whackpopup11.vsnd"
-							"vsnd11"		"sounds/npc/moustachio/whackpopup12.vsnd"
-							"vsnd12"		"sounds/npc/moustachio/whackpopup13.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.125000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.125000"
-					}
-					"pitch"
-					{
-						"value"		"1.275000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.125
+		pitch_rand_max = 0.125
+		pitch = 1.275
+		soundlevel = 70.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/whackpopup01.vsnd",
+			"sounds/npc/moustachio/whackpopup02.vsnd",
+			"sounds/npc/moustachio/whackpopup03.vsnd",
+			"sounds/npc/moustachio/whackpopup04.vsnd",
+			"sounds/npc/moustachio/whackpopup05.vsnd",
+			"sounds/npc/moustachio/whackpopup06.vsnd",
+			"sounds/npc/moustachio/whackpopup07.vsnd",
+			"sounds/npc/moustachio/whackpopup08.vsnd",
+			"sounds/npc/moustachio/whackpopup09.vsnd",
+			"sounds/npc/moustachio/whackpopup10.vsnd",
+			"sounds/npc/moustachio/whackpopup11.vsnd",
+			"sounds/npc/moustachio/whackpopup12.vsnd",
+			"sounds/npc/moustachio/whackpopup13.vsnd",
+		]
 	}
-}
-"Moustachio_WHACKSMASH01"
-{
-	"operator_stacks"
+	Moustachio_WHACKSMASH01 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/whacksmash01.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/whacksmash02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/whacksmash03.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/whacksmash04.vsnd"
-							"vsnd4"		"sounds/npc/moustachio/whacksmash05.vsnd"
-							"vsnd5"		"sounds/npc/moustachio/whacksmash06.vsnd"
-							"vsnd6"		"sounds/npc/moustachio/whacksmash07.vsnd"
-							"vsnd7"		"sounds/npc/moustachio/whacksmash08.vsnd"
-							"vsnd8"		"sounds/npc/moustachio/whacksmash09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.125000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.125000"
-					}
-					"pitch"
-					{
-						"value"		"1.275000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"3.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.125
+		pitch_rand_max = 0.125
+		pitch = 1.275
+		soundlevel = 70.0
+		event_type = 3.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/whacksmash01.vsnd",
+			"sounds/npc/moustachio/whacksmash02.vsnd",
+			"sounds/npc/moustachio/whacksmash03.vsnd",
+			"sounds/npc/moustachio/whacksmash04.vsnd",
+			"sounds/npc/moustachio/whacksmash05.vsnd",
+			"sounds/npc/moustachio/whacksmash06.vsnd",
+			"sounds/npc/moustachio/whacksmash07.vsnd",
+			"sounds/npc/moustachio/whacksmash08.vsnd",
+			"sounds/npc/moustachio/whacksmash09.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT_RANDOM"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT_RANDOM = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/strengthattract03.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/strengthattract04.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/strengthattract07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract03.vsnd",
+			"sounds/npc/moustachio/strengthattract04.vsnd",
+			"sounds/npc/moustachio/strengthattract07.vsnd",
+		]
 	}
-}
-"Moustachio_STRENGTHATTRACT_RANDOMLAUGH"
-{
-	"operator_stacks"
+	Moustachio_STRENGTHATTRACT_RANDOMLAUGH = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/moustachio/strengthattract10.vsnd"
-							"vsnd1"		"sounds/npc/moustachio/strengthattract02.vsnd"
-							"vsnd2"		"sounds/npc/moustachio/strengthattract05.vsnd"
-							"vsnd3"		"sounds/npc/moustachio/strengthattract06.vsnd"
-							"vsnd4"		"sounds/npc/moustachio/strengthattract08.vsnd"
-							"vsnd5"		"sounds/npc/moustachio/strengthattract09.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 85.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/moustachio/strengthattract10.vsnd",
+			"sounds/npc/moustachio/strengthattract02.vsnd",
+			"sounds/npc/moustachio/strengthattract05.vsnd",
+			"sounds/npc/moustachio/strengthattract06.vsnd",
+			"sounds/npc/moustachio/strengthattract08.vsnd",
+			"sounds/npc/moustachio/strengthattract09.vsnd",
+		]
 	}
-}
-"Lilpeanut.GALLERY_SPAWN"
-{
-	"operator_stacks"
+	"Lilpeanut.GALLERY_SPAWN" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/lilpeanut/lilpeanut01.vsnd"
-							"vsnd1"		"sounds/npc/lilpeanut/lilpeanut02.vsnd"
-							"vsnd2"		"sounds/npc/lilpeanut/lilpeanut04.vsnd"
-							"vsnd3"		"sounds/npc/lilpeanut/lilpeanut05.vsnd"
-							"vsnd4"		"sounds/npc/lilpeanut/lilpeanut06.vsnd"
-							"vsnd5"		"sounds/npc/lilpeanut/lilpeanut07.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.050000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.05
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/lilpeanut/lilpeanut01.vsnd",
+			"sounds/npc/lilpeanut/lilpeanut02.vsnd",
+			"sounds/npc/lilpeanut/lilpeanut04.vsnd",
+			"sounds/npc/lilpeanut/lilpeanut05.vsnd",
+			"sounds/npc/lilpeanut/lilpeanut06.vsnd",
+			"sounds/npc/lilpeanut/lilpeanut07.vsnd",
+		]
 	}
-}
-"Lilpeanut.GALLERY_HIT"
-{
-	"operator_stacks"
+	"Lilpeanut.GALLERY_HIT" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/lilpeanut/lilpeanuthurt01.vsnd"
-							"vsnd1"		"sounds/npc/lilpeanut/lilpeanuthurt02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/lilpeanut/lilpeanuthurt01.vsnd",
+			"sounds/npc/lilpeanut/lilpeanuthurt02.vsnd",
+		]
 	}
 }

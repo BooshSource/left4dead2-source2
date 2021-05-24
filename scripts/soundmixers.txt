@@ -27,7 +27,7 @@
 {
 // NOTE: order these from least general to most general
 
-//							directory or .wav	classname																Causes  Duck to  Ducker
+//							directory or .vsnd	classname																Causes  Duck to  Ducker
 //	group name				name substring		substring	chan			sndlvl_min	sndlvl_max	priority Is Ducked	Ducking	Percent	 Threshold
 //  ---------				------------------	---------	-----------		----------	----------	-------- --------	-------	-------	 ---------
 

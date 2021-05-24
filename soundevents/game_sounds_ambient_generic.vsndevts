@@ -1,922 +1,288 @@
-"explode_1"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	explode_1 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/explosions/explode_1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 140.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/explosions/explode_1.vsnd",
+		]
 	}
-}
-"explode_2"
-{
-	"operator_stacks"
+	explode_2 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/explosions/explode_2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 140.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/explosions/explode_2.vsnd",
+		]
 	}
-}
-"explode_3"
-{
-	"operator_stacks"
+	explode_3 = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/explosions/explode_3.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"140.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 140.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/explosions/explode_3.vsnd",
+		]
 	}
-}
-"DoSpark"
-{
-	"operator_stacks"
+	DoSpark = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap1.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap2.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap3.vsnd"
-							"vsnd3"		"sounds/ambient/energy/zap7.vsnd"
-							"vsnd4"		"sounds/ambient/energy/zap8.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.499878"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.100000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.499878
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.1
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+			"sounds/ambient/energy/zap2.vsnd",
+			"sounds/ambient/energy/zap3.vsnd",
+			"sounds/ambient/energy/zap7.vsnd",
+			"sounds/ambient/energy/zap8.vsnd",
+		]
 	}
-}
-"LoudSpark"
-{
-	"operator_stacks"
+	LoudSpark = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap1.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap2.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap3.vsnd"
-							"vsnd3"		"sounds/ambient/energy/zap7.vsnd"
-							"vsnd4"		"sounds/ambient/energy/zap8.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.899780"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.100000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.89978
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.1
+		soundlevel = 80.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+			"sounds/ambient/energy/zap2.vsnd",
+			"sounds/ambient/energy/zap3.vsnd",
+			"sounds/ambient/energy/zap7.vsnd",
+			"sounds/ambient/energy/zap8.vsnd",
+		]
 	}
-}
-"ReallyLoudSpark"
-{
-	"operator_stacks"
+	ReallyLoudSpark = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap1.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap2.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap3.vsnd"
-							"vsnd3"		"sounds/ambient/energy/zap7.vsnd"
-							"vsnd4"		"sounds/ambient/energy/zap8.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.899780"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.100000"
-					}
-					"soundlevel"
-					{
-						"value"		"130.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.89978
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.1
+		soundlevel = 130.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+			"sounds/ambient/energy/zap2.vsnd",
+			"sounds/ambient/energy/zap3.vsnd",
+			"sounds/ambient/energy/zap7.vsnd",
+			"sounds/ambient/energy/zap8.vsnd",
+		]
 	}
-}
-"ambient.steam01"
-{
-	"operator_stacks"
+	"ambient.steam01" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/gas/steam_loop1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.399902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.399902
+		pitch = 1.0
+		soundlevel = 70.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/gas/steam_loop1.vsnd",
+		]
 	}
-}
-"PhysicsCannister.ThrusterLoop"
-{
-	"operator_stacks"
+	"PhysicsCannister.ThrusterLoop" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/gas/cannister_loop.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/gas/cannister_loop.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_1"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap1.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_2"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_2" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap2.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_3"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_3" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap3.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap3.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_5"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_5" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap5.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap5.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_6"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_6" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap6.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap6.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_7"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_7" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap7.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap7.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_8"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_8" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap8.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap8.vsnd",
+		]
 	}
-}
-"ambient.electrical_zap_9"
-{
-	"operator_stacks"
+	"ambient.electrical_zap_9" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/ambient/energy/zap9.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap9.vsnd",
+		]
 	}
-}
-"ambient.electrical_random_zap_1"
-{
-	"operator_stacks"
+	"ambient.electrical_random_zap_1" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap1.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap2.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap3.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+			"sounds/ambient/energy/zap2.vsnd",
+			"sounds/ambient/energy/zap3.vsnd",
+		]
 	}
-}
-"ambient.electrical_random_zap_2"
-{
-	"operator_stacks"
+	"ambient.electrical_random_zap_2" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap5.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap6.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap7.vsnd"
-							"vsnd3"		"sounds/ambient/energy/zap8.vsnd"
-							"vsnd4"		"sounds/ambient/energy/zap9.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap5.vsnd",
+			"sounds/ambient/energy/zap6.vsnd",
+			"sounds/ambient/energy/zap7.vsnd",
+			"sounds/ambient/energy/zap8.vsnd",
+			"sounds/ambient/energy/zap9.vsnd",
+		]
 	}
-}
-"ambient.electrical_random_zap_3"
-{
-	"operator_stacks"
+	"ambient.electrical_random_zap_3" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/ambient/energy/zap1.vsnd"
-							"vsnd1"		"sounds/ambient/energy/zap2.vsnd"
-							"vsnd2"		"sounds/ambient/energy/zap3.vsnd"
-							"vsnd3"		"sounds/ambient/energy/zap8.vsnd"
-							"vsnd4"		"sounds/ambient/energy/zap9.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.500000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.275000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.275000"
-					}
-					"pitch"
-					{
-						"value"		"2.275000"
-					}
-					"soundlevel"
-					{
-						"value"		"60.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.5
+		pitch_rand_min = -0.275
+		pitch_rand_max = 0.275
+		pitch = 2.275
+		soundlevel = 60.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/ambient/energy/zap1.vsnd",
+			"sounds/ambient/energy/zap2.vsnd",
+			"sounds/ambient/energy/zap3.vsnd",
+			"sounds/ambient/energy/zap8.vsnd",
+			"sounds/ambient/energy/zap9.vsnd",
+		]
 	}
 }

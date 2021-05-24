@@ -8,7 +8,7 @@
 	{
 		"volume"	"0.4"
 		"pitch"		"100"
-		"wave"		"ambient/wind/crucial_wind_outdoors_1.wav"
+		"wave"		"sounds/ambient/wind/crucial_wind_outdoors_1.vsnd"
 	}
 
 	// underlying area "tone"
@@ -16,7 +16,7 @@
 	{
 		"volume"	".07"
 		"pitch"		"100"
-		"wave"		"ambient/levels/caves/cave_crickets_loop1.wav"
+		"wave"		"sounds/ambient/levels/caves/cave_crickets_loop1.vsnd"
 	}
 
 	//shoreline waves
@@ -24,7 +24,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/water/ShorelineWaves_Loop.wav"
+		"wave"		"sounds/ambient/water/ShorelineWaves_Loop.vsnd"
 		"origin"	"2360.081299, -82.879097, 173.257355;"
 		"soundlevel" 	"SNDLVL_130dB"
 	}
@@ -39,11 +39,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
-			"wave"	"ambient/levels/forest/treewind1.wav"
-			"wave"	"ambient/levels/forest/treewind2.wav"
-			"wave"	"ambient/levels/forest/treewind3.wav"
-			"wave"	"ambient/levels/forest/treewind4.wav"
+			"wave"	"sounds/ambient/nature/wind_leaves_mild_gust_1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind2.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind3.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind4.vsnd"
 		}
 	}
 	// wind gusts with leaves
@@ -56,9 +56,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle01.wav"
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle02.wav"
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle03.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle03.vsnd"
 			
 		}
 	}
@@ -74,12 +74,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull02.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull03.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull04.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull05.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull06.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull04.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull05.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull06.vsnd"
 		}
 	}
 	//distant foghorn
@@ -94,8 +94,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -111,8 +111,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/FogHorn_Close.wav"
-			"wave"	"ambient/Random_Amb_SFX/FogHorn_Close.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/FogHorn_Close.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/FogHorn_Close.vsnd"
 
 		}
 	}
@@ -130,20 +130,20 @@
 	{
 		"volume"	".19"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/crucial_smallroomtone_amb_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_smallroomtone_amb_loop.vsnd"
 	}
 	"playlooping"
 	{
 		"volume"	".03"
 		"pitch"		"100"
-		"wave"		"ambient/levels/caves/cave_crickets_loop1.wav"
+		"wave"		"sounds/ambient/levels/caves/cave_crickets_loop1.vsnd"
 	}
 	//shoreline waves
 	"playlooping"
 	{
 		"volume"	".5"
 		"pitch"		"100"
-		"wave"		"ambient/water/ShorelineWaves_Loop.wav"
+		"wave"		"sounds/ambient/water/ShorelineWaves_Loop.vsnd"
 		"origin"	"2360.081299, -82.879097, 173.257355;"
 		"soundlevel" 	"SNDLVL_130dB"
 	}
@@ -159,8 +159,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/FogHorn_Close.wav"
-			"wave"	"ambient/Random_Amb_SFX/FogHorn_Close.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/FogHorn_Close.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/FogHorn_Close.vsnd"
 
 		}
 	}
@@ -174,12 +174,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/materials/wood_creak1.wav"
-			"wave"	"ambient/materials/wood_creak2.wav"
-			"wave"	"ambient/materials/wood_creak3.wav"
-			"wave"	"ambient/materials/wood_creak4.wav"
-			"wave"	"ambient/materials/wood_creak5.wav"
-			"wave"	"ambient/materials/wood_creak6.wav"
+			"wave"	"sounds/ambient/materials/wood_creak1.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak2.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak3.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak4.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak5.vsnd"
+			"wave"	"sounds/ambient/materials/wood_creak6.vsnd"
 		}
 	}
 
@@ -188,7 +188,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"origin"	"736.468323, -88.491501, 854.333374;"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
@@ -204,8 +204,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -219,11 +219,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
-			"wave"	"ambient/levels/forest/treewind1.wav"
-			"wave"	"ambient/levels/forest/treewind2.wav"
-			"wave"	"ambient/levels/forest/treewind3.wav"
-			"wave"	"ambient/levels/forest/treewind4.wav"
+			"wave"	"sounds/ambient/nature/wind_leaves_mild_gust_1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind2.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind3.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind4.vsnd"
 		}
 	}
 
@@ -236,9 +236,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/materials/shutter6.wav"
-			"wave"	"ambient/materials/shutter8.wav"
-			"wave"	"ambient/materials/shutter7.wav"
+			"wave"	"sounds/ambient/materials/shutter6.vsnd"
+			"wave"	"sounds/ambient/materials/shutter8.vsnd"
+			"wave"	"sounds/ambient/materials/shutter7.vsnd"
 		}
 	}
 }

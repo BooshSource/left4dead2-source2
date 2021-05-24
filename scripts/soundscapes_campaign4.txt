@@ -40,7 +40,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\crucial_surfacerain_light_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_surfacerain_light_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -53,7 +53,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_surfacerain_light_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_surfacerain_light_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -67,7 +67,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_surfacerain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_surfacerain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -80,7 +80,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\crucial_surfacerain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_surfacerain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -94,7 +94,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_surfacerain_hard_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_surfacerain_hard_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -112,7 +112,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\crucial_waterrain_light_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_waterrain_light_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -126,7 +126,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_waterrain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_waterrain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -140,7 +140,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_waterrain_hard_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_waterrain_hard_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -157,7 +157,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\interior_rain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\interior_rain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -170,7 +170,7 @@
 	{
 		"volume"	".65"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\interior_rain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\interior_rain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -184,7 +184,7 @@
 	{
 		"volume"	".85"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\interior_rain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\interior_rain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -197,7 +197,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\interior_rain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\interior_rain_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -211,7 +211,7 @@
 	{
 		"volume"	".85"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\crucial_int_rainverb_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_int_rainverb_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -225,7 +225,7 @@
 	{
 		"volume"	".85"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_int_rainverb_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_int_rainverb_med_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -239,7 +239,7 @@
 	{
 		"volume"	".95"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\rain\crucial_int_rainverb_hard_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_int_rainverb_hard_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -253,7 +253,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_int_rainverb_hard_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_int_rainverb_hard_loop.vsnd"
 		// "position"	"random"
 	}
 }
@@ -274,9 +274,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/ambience/rainscapes/Thunder_Distant01.wav"
-			"wave"	"ambient/ambience/rainscapes/Thunder_Distant02.wav"
-			"wave"	"ambient/ambience/rainscapes/Thunder_Distant03.wav"
+			"wave"	"sounds/ambient/ambience/rainscapes/Thunder_Distant01.vsnd"
+			"wave"	"sounds/ambient/ambience/rainscapes/Thunder_Distant02.vsnd"
+			"wave"	"sounds/ambient/ambience/rainscapes/Thunder_Distant03.vsnd"
 		}
 	}
 
@@ -292,7 +292,7 @@
 	{
 		"volume"	".74"
 		"pitch"		"100"
-		"wave"		"(ambient\ambience\rainscapes\rain\crucial_wind_rain_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\crucial_wind_rain_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -300,7 +300,7 @@
 	{
 		"volume"	".87"
 		"pitch"		"100"
-		"wave"		"(ambient\ambience\rainscapes\rain\whistle_debris_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\whistle_debris_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -316,12 +316,12 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\stereo_gust_01.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_02.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_03.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_04.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_05.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_06.wav"
+			"ambient\ambience\rainscapes\rain\stereo_gust_01.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_02.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_03.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_04.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_05.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_06.vsnd"
 		}
 	}
 
@@ -336,10 +336,10 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\mono_gust_01.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_02.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_03.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_04.wav"
+			"ambient\ambience\rainscapes\rain\mono_gust_01.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_02.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_03.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_04.vsnd"
 
 		}
 	}
@@ -356,12 +356,12 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\debris_07.wav"
-			"ambient\ambience\rainscapes\rain\debris_02.wav"
-			"ambient\ambience\rainscapes\rain\debris_03.wav"
-			"ambient\ambience\rainscapes\rain\debris_04.wav"
-			"ambient\ambience\rainscapes\rain\debris_05.wav"
-			"ambient\ambience\rainscapes\rain\debris_08.wav"
+			"ambient\ambience\rainscapes\rain\debris_07.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_02.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_03.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_04.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_05.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_08.vsnd"
 
 		}
 	}
@@ -381,7 +381,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"(ambient\ambience\rainscapes\rain\whistle_debris_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\whistle_debris_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -397,12 +397,12 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\stereo_gust_01.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_02.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_03.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_04.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_05.wav"
-			"ambient\ambience\rainscapes\rain\stereo_gust_06.wav"
+			"ambient\ambience\rainscapes\rain\stereo_gust_01.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_02.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_03.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_04.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_05.vsnd"
+			"ambient\ambience\rainscapes\rain\stereo_gust_06.vsnd"
 		}
 	}
 
@@ -417,10 +417,10 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\mono_gust_01.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_02.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_03.wav"
-			"ambient\ambience\rainscapes\rain\mono_gust_04.wav"
+			"ambient\ambience\rainscapes\rain\mono_gust_01.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_02.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_03.vsnd"
+			"ambient\ambience\rainscapes\rain\mono_gust_04.vsnd"
 
 		}
 	}
@@ -437,12 +437,12 @@
 
 		"rndwave"
 		{
-			"ambient\ambience\rainscapes\rain\debris_07.wav"
-			"ambient\ambience\rainscapes\rain\debris_02.wav"
-			"ambient\ambience\rainscapes\rain\debris_03.wav"
-			"ambient\ambience\rainscapes\rain\debris_04.wav"
-			"ambient\ambience\rainscapes\rain\debris_05.wav"
-			"ambient\ambience\rainscapes\rain\debris_08.wav"
+			"ambient\ambience\rainscapes\rain\debris_07.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_02.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_03.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_04.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_05.vsnd"
+			"ambient\ambience\rainscapes\rain\debris_08.vsnd"
 
 		}
 	}
@@ -473,7 +473,7 @@
 	{
 		"volume"	".65"
 		"pitch"		"100"
-		"wave"		"ambient/spacial_loops/Dock_close_loop.wav"
+		"wave"		"sounds/ambient/spacial_loops/Dock_close_loop.vsnd"
 		"origin"	"-6996.048828, 7694.168945, 104.273285;"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
@@ -489,14 +489,14 @@
 	{
 		"volume"	"0.3"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/crucial_Empty_street_wind_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_Empty_street_wind_loop.vsnd"
 	}
 
 	"playlooping"
 	{
 		"volume"	"0.48"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Bug_loop.wav"
+		"wave"		"sounds/ambient/ambience/Bug_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -521,7 +521,7 @@
 	{
 		"volume"	".29"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/Cicada_Loop.wav"
+		"wave"		"sounds/ambient/ambience/Cicada_Loop.vsnd"
 		"origin"	"1101.839355, -4786.724121, 170.843399;"
 		"soundlevel" 	"SNDLVL_90dB"
 	}
@@ -573,7 +573,7 @@
 	{
 		"volume" 	".3"	
 		"pitch"	 	"100"
-		"wave"	"ambient/ambience/crucial_medroomtone_amb_loop.wav"
+		"wave"	"sounds/ambient/ambience/crucial_medroomtone_amb_loop.vsnd"
 
 	}
 
@@ -851,7 +851,7 @@
 	{
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/metalrain_med_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/metalrain_med_loop.vsnd"
 		"origin"	"2293.119629, -4461.873047, 324.638214;"
 		"soundlevel" 	"SNDLVL_150dB"
 	}
@@ -860,7 +860,7 @@
 	{
 		"volume"	".4"
 		"pitch"		"80"
-		"wave"		"ambient/ambience/rainscapes/metalrain_hard_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/metalrain_hard_loop.vsnd"
 		"origin"	"2261.497314, -4456.741699, 337.179474;"
 		"soundlevel" 	"SNDLVL_95dB"
 	}
@@ -939,7 +939,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"origin"	" -1542.997925, -9212.446289, 653.329041;"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
@@ -993,7 +993,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/metalrain_med_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/metalrain_med_loop.vsnd"
 		"origin"	"-1002.705139, -13536.689453, 122.281250;"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
@@ -1103,7 +1103,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/hail_hard_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/hail_hard_loop.vsnd"
 		"origin"	"-738.015930, -13595.808594, 308.401886;"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
@@ -1136,7 +1136,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"origin"	" -1519.608887, -9211.798828, 653.287354;"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
@@ -1210,7 +1210,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/metal_rainverb_med_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/metal_rainverb_med_loop.vsnd"
 		"origin"	"1433.376343, -5728.898926, 228.281250;"
 		"soundlevel" 	"SNDLVL_130dB"
 	}
@@ -1219,7 +1219,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/hail_hard_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/hail_hard_loop.vsnd"
 		"origin"	"1587.594727, -5395.587402, 228.281250;"
 		"soundlevel" 	"SNDLVL_130dB"
 	}
@@ -1269,7 +1269,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"(ambient\ambience\rainscapes\rain\heavy_wind01.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\rain\heavy_wind01.vsnd"
 		"position"	"random"
 	}
 
@@ -1419,7 +1419,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/rainscapes/distinctrain_hard_loop.wav"
+		"wave"		"sounds/ambient/ambience/rainscapes/distinctrain_hard_loop.vsnd"
 		"origin"	"-5584.859863, 7324.334961, 193.970917;"
 		"soundlevel" 	"SNDLVL_90dB"
 	}
@@ -1464,7 +1464,7 @@
 	{
 		"volume"	".66"
 		"pitch"		"100"
-		"wave"		"ambient\ambience\rainscapes\crucial_waterrain_med_loop.wav"
+		"wave"		"sounds/ambient\ambience\rainscapes\crucial_waterrain_med_loop.vsnd"
 		"origin"	"4039.707275, 705.359985, 163.031250;"
 		"soundlevel" 	"SNDLVL_65dB"
 	}

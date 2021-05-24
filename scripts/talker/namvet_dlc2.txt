@@ -4074,7 +4074,7 @@ Response PlayerTransitionCloseNamVet
 	scene "scenes/NamVet/TransitionClose02.vcd"  //We've done better
 	scene "scenes/NamVet/TransitionClose03.vcd"  //Thank god that's over
 	scene "scenes/NamVet/TransitionClose04.vcd"  //Thank god that's over
-	scene "scenes/NamVet/gamespeech01.vcd" odds 1 //I'll see peace back on earth if I gotta murder everyone of these animals with my own bare hands. Ownbare_09.wav
+	scene "scenes/NamVet/gamespeech01.vcd" odds 1 //I'll see peace back on earth if I gotta murder everyone of these animals with my own bare hands. Ownbare_09.vsnd
 }
 Rule PlayerTransitionCloseNamVet
 {

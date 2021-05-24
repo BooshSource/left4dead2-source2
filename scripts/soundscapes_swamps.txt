@@ -19,17 +19,17 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/by_frog_01.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_02.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_03.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_04.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_05.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_06.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_07.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_08.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_long_01.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_long_02.wav"
-			"wave"	"ambient/random_animals/frog_groups/by_frog_long_03.wav"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_02.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_03.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_04.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_05.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_06.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_07.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_08.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_long_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_long_02.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/by_frog_long_03.vsnd"
 		}
 	}
 
@@ -49,9 +49,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/small_frog_01a.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_01b.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_01c.wav"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_01a.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_01b.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_01c.vsnd"
 		}
 	}
 
@@ -71,8 +71,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/small_frog_03a.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_03b.wav"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_03a.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_03b.vsnd"
 		}
 	}
 
@@ -92,9 +92,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/small_frog_04a.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_04b.wav"							"wave"	"ambient/random_animals/frog_groups/small_frog_04c.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_04d.wav"	
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_04a.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_04b.vsnd"							"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_04c.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_04d.vsnd"	
 		}
 	}
 
@@ -114,9 +114,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/small_frog_05a.wav"
-			"wave"	"ambient/random_animals/frog_groups/small_frog_05b.wav"	
-			"wave"	"ambient/random_animals/frog_groups/small_frog_05c.wav"							"wave"	"ambient/random_animals/frog_groups/small_frog_05c.wav"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_05a.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_05b.vsnd"	
+			"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_05c.vsnd"							"wave"	"sounds/ambient/random_animals/frog_groups/small_frog_05c.vsnd"
 			
 		}
 	}
@@ -137,8 +137,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/frog_long_01.wav"
-			"wave"	"ambient/random_animals/frog_groups/frog_long_02.wav"							"wave"	"ambient/random_animals/frog_groups/frog_long_03.wav"	
+			"wave"	"sounds/ambient/random_animals/frog_groups/frog_long_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/frog_long_02.vsnd"							"wave"	"sounds/ambient/random_animals/frog_groups/frog_long_03.vsnd"	
 		}
 	}
 
@@ -158,8 +158,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/frog_groups/bullfrog_01.wav"
-			"wave"	"ambient/random_animals/frog_groups/bullfrog_02.wav"		
+			"wave"	"sounds/ambient/random_animals/frog_groups/bullfrog_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/frog_groups/bullfrog_02.vsnd"		
 		}
 	}
 
@@ -179,10 +179,10 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/fly_buzz_01.wav"
-			"wave"	"ambient/random_animals/fly_buzz_02.wav"
-			"wave"	"ambient/random_animals/fly_buzz_03.wav"
-			"wave"	"ambient/random_animals/fly_buzz_04.wav"		
+			"wave"	"sounds/ambient/random_animals/fly_buzz_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/fly_buzz_02.vsnd"
+			"wave"	"sounds/ambient/random_animals/fly_buzz_03.vsnd"
+			"wave"	"sounds/ambient/random_animals/fly_buzz_04.vsnd"		
 		}
 	}
 
@@ -202,10 +202,10 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_animals/gator_01.wav"
-			"wave"	"ambient/random_animals/gator_02.wav"
-			"wave"	"ambient/random_animals/gator_03.wav"
-			"wave"	"ambient/random_animals/gator_04.wav"		
+			"wave"	"sounds/ambient/random_animals/gator_01.vsnd"
+			"wave"	"sounds/ambient/random_animals/gator_02.vsnd"
+			"wave"	"sounds/ambient/random_animals/gator_03.vsnd"
+			"wave"	"sounds/ambient/random_animals/gator_04.vsnd"		
 		}
 	}
 
@@ -222,7 +222,7 @@
 	{
 		"volume"	"0.3"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_cricket_amb_01.wav"
+		"wave"		"sounds/ambient/swamps/crucial_cricket_amb_01.vsnd"
 		"position"	"random"
 	}
 
@@ -239,7 +239,7 @@
 	{
 		"volume"	"0.3"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_cricket_amb_01.wav"
+		"wave"		"sounds/ambient/swamps/crucial_cricket_amb_01.vsnd"
 		"position"	"random"
 	}
 	// underlying area "tone"
@@ -247,7 +247,7 @@
 	{
 		"volume"	".45"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -263,7 +263,7 @@
 	{
 		"volume"		".98"
 		"pitch"			"110"
-		"wave"			"ambient/swamps/water_Lap_loop_st.wav"
+		"wave"			"ambient/swamps/water_Lap_loop_st.vsnd"
 		"position"		"0"
 		"soundlevel" 		"SNDLVL_85dB"
 	}
@@ -277,8 +277,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect02.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect02.vsnd"
 			
 		}
 	
@@ -299,7 +299,7 @@
 	{
 		"volume"	".55"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -307,7 +307,7 @@
 	{
 		"volume"	"0.33"
 		"pitch"		"103"
-		"wave"		"(ambient/ambience/mosquito_loop_st.wav"
+		"wave"		"sounds/ambient/ambience/mosquito_loop_st.vsnd"
 		"position"	"random"
 
 	}
@@ -317,7 +317,7 @@
 	{
 		"volume"	".85"
 		"pitch"		"110"
-		"wave"		"ambient/swamps/water_Lap_loop_st.wav"
+		"wave"		"sounds/ambient/swamps/water_Lap_loop_st.vsnd"
 		"position"	"0"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
@@ -338,7 +338,7 @@
 	{
 		"volume"		".25"
 		"pitch"			"100"
-		"wave"			"ambient/ambience/Cicada_loop.wav"
+		"wave"			"ambient/ambience/Cicada_loop.vsnd"
 		"position"		"2"
 		"soundlevel" 		"SNDLVL_85dB"
 	}
@@ -348,7 +348,7 @@
 	{
 		"volume"		".22"
 		"pitch"			"119"
-		"wave"			"ambient/ambience/Cicada_loop.wav"
+		"wave"			"ambient/ambience/Cicada_loop.vsnd"
 		"position"		"3"
 		"soundlevel" 		"SNDLVL_85dB"
 	}
@@ -386,8 +386,8 @@
 
 		"rndwave"
 		{
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect01.wav"
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect02.wav"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect01.vsnd"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect02.vsnd"
 			
 		}
 	}
@@ -404,7 +404,7 @@
 	{
 		"volume"	".3"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -449,8 +449,8 @@
 
 		"rndwave"
 		{
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect01.wav"
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect02.wav"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect01.vsnd"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect02.vsnd"
 			
 		}
 	}
@@ -466,7 +466,7 @@
 	{
 		"volume"	".3"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -510,7 +510,7 @@
 	{
 		"volume"	".1"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -518,7 +518,7 @@
 	{
 		"volume"	".2"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_02_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_02_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -555,7 +555,7 @@
 	{
 		"volume"	".27"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_frog_cricket_01_loop.wav"
+		"wave"		"sounds/ambient/swamps/crucial_frog_cricket_01_loop.vsnd"
 		"position"	"random"
 	}
 	
@@ -563,7 +563,7 @@
 	{
 		"volume"	".2"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_cricket_amb_01.wav"
+		"wave"		"sounds/ambient/swamps/crucial_cricket_amb_01.vsnd"
 		"position"	"random"
 	}
 
@@ -595,7 +595,7 @@
 	{
 		"volume"	".52"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_cricket_amb_02.wav"
+		"wave"		"sounds/ambient/swamps/crucial_cricket_amb_02.vsnd"
 		"position"	"random"
 	}
 
@@ -603,7 +603,7 @@
 	{
 		"volume"	".65"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/Bug_loop.wav"
+		"wave"		"sounds/ambient/ambience/Bug_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -617,8 +617,8 @@
 
 		"rndwave"
 		{
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect01.wav"
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect02.wav"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect01.vsnd"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect02.vsnd"
 			
 		}
 	}
@@ -634,7 +634,7 @@
 	{
 		"volume"	".6"
 		"pitch"		"100"
-		"wave"		"(ambient/ambience/crucial_orchard_bird_cricket_01.wav"
+		"wave"		"sounds/ambient/ambience/crucial_orchard_bird_cricket_01.vsnd"
 		"position"	"random"
 	}
 
@@ -642,7 +642,7 @@
 	{
 		"volume"	".55"
 		"pitch"		"100"
-		"wave"		"(ambient/swamps/crucial_cricket_amb_02.wav"
+		"wave"		"sounds/ambient/swamps/crucial_cricket_amb_02.vsnd"
 		"position"	"random"
 	}
 
@@ -656,8 +656,8 @@
 
 		"rndwave"
 		{
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect01.wav"
-					"wave"	"ambient/Random_Amb_SFX/RUR_Random_Insect02.wav"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect01.vsnd"
+					"wave"	"sounds/ambient/Random_Amb_SFX/RUR_Random_Insect02.vsnd"
 			
 		}
 	}
@@ -679,13 +679,13 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle2.wav"
-			"wave"	"ambient/levels/streetwar/city_battle3.wav"
-			"wave"	"ambient/levels/streetwar/city_battle4.wav"
-			"wave"	"ambient/levels/streetwar/city_battle5.wav"
-			"wave"	"ambient/levels/streetwar/city_battle8.wav"
-			"wave"	"ambient/levels/streetwar/city_battle9.wav"
-			"wave"	"ambient/levels/streetwar/city_battle12.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle2.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle3.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle4.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle5.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle8.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle9.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle12.vsnd"
 		}
 		
 	}
@@ -699,9 +699,9 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle15.wav"
-			"wave"	"ambient/levels/streetwar/city_battle17.wav"
-			"wave"	"ambient/levels/streetwar/city_battle19.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle15.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle17.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle19.vsnd"
 		}
 		
 	}
@@ -719,13 +719,13 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle2.wav"
-			"wave"	"ambient/levels/streetwar/city_battle3.wav"
-			"wave"	"ambient/levels/streetwar/city_battle4.wav"
-			"wave"	"ambient/levels/streetwar/city_battle5.wav"
-			"wave"	"ambient/levels/streetwar/city_battle8.wav"
-			"wave"	"ambient/levels/streetwar/city_battle9.wav"
-			"wave"	"ambient/levels/streetwar/city_battle12.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle2.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle3.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle4.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle5.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle8.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle9.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle12.vsnd"
 		}
 		
 	}
@@ -739,9 +739,9 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle15.wav"
-			"wave"	"ambient/levels/streetwar/city_battle17.wav"
-			"wave"	"ambient/levels/streetwar/city_battle19.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle15.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle17.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle19.vsnd"
 		}
 		
 	}
@@ -759,13 +759,13 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle2.wav"
-			"wave"	"ambient/levels/streetwar/city_battle3.wav"
-			"wave"	"ambient/levels/streetwar/city_battle4.wav"
-			"wave"	"ambient/levels/streetwar/city_battle5.wav"
-			"wave"	"ambient/levels/streetwar/city_battle8.wav"
-			"wave"	"ambient/levels/streetwar/city_battle9.wav"
-			"wave"	"ambient/levels/streetwar/city_battle12.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle2.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle3.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle4.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle5.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle8.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle9.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle12.vsnd"
 		}
 		
 	}
@@ -779,9 +779,9 @@
 		"position" "0"
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/city_battle15.wav"
-			"wave"	"ambient/levels/streetwar/city_battle17.wav"
-			"wave"	"ambient/levels/streetwar/city_battle19.wav"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle15.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle17.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/city_battle19.vsnd"
 		}
 		
 	}

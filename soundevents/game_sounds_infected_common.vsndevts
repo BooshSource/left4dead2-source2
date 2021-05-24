@@ -1,1490 +1,629 @@
-"Zombie.Sleeping"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	"Zombie.Sleeping" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/idle/breathing/breathing01.vsnd"
-							"vsnd1"		"sounds/npc/infected/idle/breathing/breathing08.vsnd"
-							"vsnd2"		"sounds/npc/infected/idle/breathing/breathing09.vsnd"
-							"vsnd3"		"sounds/npc/infected/idle/breathing/breathing10.vsnd"
-							"vsnd4"		"sounds/npc/infected/idle/breathing/breathing13.vsnd"
-							"vsnd5"		"sounds/npc/infected/idle/breathing/breathing16.vsnd"
-							"vsnd6"		"sounds/npc/infected/idle/breathing/breathing18.vsnd"
-							"vsnd7"		"sounds/npc/infected/idle/breathing/breathing25.vsnd"
-							"vsnd8"		"sounds/npc/infected/idle/breathing/breathing26.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.750000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.75
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 65.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/idle/breathing/breathing01.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing08.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing09.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing10.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing13.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing16.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing18.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing25.vsnd",
+			"sounds/npc/infected/idle/breathing/breathing26.vsnd",
+		]
 	}
-}
-"Zombie.Wander"
-{
-	"operator_stacks"
+	"Zombie.Wander" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/idle/breathing/idle_breath_01.vsnd"
-							"vsnd1"		"sounds/npc/infected/idle/breathing/idle_breath_02.vsnd"
-							"vsnd2"		"sounds/npc/infected/idle/breathing/idle_breath_03.vsnd"
-							"vsnd3"		"sounds/npc/infected/idle/breathing/idle_breath_04.vsnd"
-							"vsnd4"		"sounds/npc/infected/idle/breathing/idle_breath_06.vsnd"
-							"vsnd5"		"sounds/npc/infected/idle/moaning/moan01.vsnd"
-							"vsnd6"		"sounds/npc/infected/idle/moaning/moan02.vsnd"
-							"vsnd7"		"sounds/npc/infected/idle/moaning/moan03.vsnd"
-							"vsnd8"		"sounds/npc/infected/idle/moaning/moan04.vsnd"
-							"vsnd9"		"sounds/npc/infected/idle/moaning/moan05.vsnd"
-							"vsnd10"		"sounds/npc/infected/idle/moaning/moan06.vsnd"
-							"vsnd11"		"sounds/npc/infected/idle/moaning/moan07.vsnd"
-							"vsnd12"		"sounds/npc/infected/idle/moaning/moan08.vsnd"
-							"vsnd13"		"sounds/npc/infected/idle/moaning/moan09.vsnd"
-							"vsnd14"		"sounds/npc/infected/idle/mumbling/mumbling01.vsnd"
-							"vsnd15"		"sounds/npc/infected/idle/mumbling/mumbling02.vsnd"
-							"vsnd16"		"sounds/npc/infected/idle/mumbling/mumbling03.vsnd"
-							"vsnd17"		"sounds/npc/infected/idle/mumbling/mumbling04.vsnd"
-							"vsnd18"		"sounds/npc/infected/idle/mumbling/mumbling05.vsnd"
-							"vsnd19"		"sounds/npc/infected/idle/mumbling/mumbling06.vsnd"
-							"vsnd20"		"sounds/npc/infected/idle/mumbling/mumbling07.vsnd"
-							"vsnd21"		"sounds/npc/infected/idle/mumbling/mumbling08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/idle/breathing/idle_breath_01.vsnd",
+			"sounds/npc/infected/idle/breathing/idle_breath_02.vsnd",
+			"sounds/npc/infected/idle/breathing/idle_breath_03.vsnd",
+			"sounds/npc/infected/idle/breathing/idle_breath_04.vsnd",
+			"sounds/npc/infected/idle/breathing/idle_breath_06.vsnd",
+			"sounds/npc/infected/idle/moaning/moan01.vsnd",
+			"sounds/npc/infected/idle/moaning/moan02.vsnd",
+			"sounds/npc/infected/idle/moaning/moan03.vsnd",
+			"sounds/npc/infected/idle/moaning/moan04.vsnd",
+			"sounds/npc/infected/idle/moaning/moan05.vsnd",
+			"sounds/npc/infected/idle/moaning/moan06.vsnd",
+			"sounds/npc/infected/idle/moaning/moan07.vsnd",
+			"sounds/npc/infected/idle/moaning/moan08.vsnd",
+			"sounds/npc/infected/idle/moaning/moan09.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling01.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling02.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling03.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling04.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling05.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling06.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling07.vsnd",
+			"sounds/npc/infected/idle/mumbling/mumbling08.vsnd",
+		]
 	}
-}
-"Zombie.BecomeAlert"
-{
-	"operator_stacks"
+	"Zombie.BecomeAlert" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/alert/becomealert/hiss01.vsnd"
-							"vsnd1"		"sounds/npc/infected/alert/becomealert/recognize01.vsnd"
-							"vsnd2"		"sounds/npc/infected/alert/becomealert/recognize02.vsnd"
-							"vsnd3"		"sounds/npc/infected/alert/becomealert/recognize03.vsnd"
-							"vsnd4"		"sounds/npc/infected/alert/becomealert/recognize04.vsnd"
-							"vsnd5"		"sounds/npc/infected/alert/becomealert/recognize05.vsnd"
-							"vsnd6"		"sounds/npc/infected/alert/becomealert/recognize06.vsnd"
-							"vsnd7"		"sounds/npc/infected/alert/becomealert/recognize07.vsnd"
-							"vsnd8"		"sounds/npc/infected/alert/becomealert/recognize08.vsnd"
-							"vsnd9"		"sounds/npc/infected/alert/becomealert/shout01.vsnd"
-							"vsnd10"		"sounds/npc/infected/alert/becomealert/shout02.vsnd"
-							"vsnd11"		"sounds/npc/infected/alert/becomealert/shout03.vsnd"
-							"vsnd12"		"sounds/npc/infected/alert/becomealert/shout04.vsnd"
-							"vsnd13"		"sounds/npc/infected/alert/becomealert/shout06.vsnd"
-							"vsnd14"		"sounds/npc/infected/alert/becomealert/shout07.vsnd"
-							"vsnd15"		"sounds/npc/infected/alert/becomealert/shout08.vsnd"
-							"vsnd16"		"sounds/npc/infected/alert/becomealert/shout09.vsnd"
-							"vsnd17"		"sounds/npc/infected/alert/becomealert/howl01.vsnd"
-							"vsnd18"		"sounds/npc/infected/alert/becomealert/become_alert01.vsnd"
-							"vsnd19"		"sounds/npc/infected/alert/becomealert/become_alert04.vsnd"
-							"vsnd20"		"sounds/npc/infected/alert/becomealert/become_alert09.vsnd"
-							"vsnd21"		"sounds/npc/infected/alert/becomealert/become_alert11.vsnd"
-							"vsnd22"		"sounds/npc/infected/alert/becomealert/become_alert12.vsnd"
-							"vsnd23"		"sounds/npc/infected/alert/becomealert/become_alert14.vsnd"
-							"vsnd24"		"sounds/npc/infected/alert/becomealert/become_alert17.vsnd"
-							"vsnd25"		"sounds/npc/infected/alert/becomealert/become_alert18.vsnd"
-							"vsnd26"		"sounds/npc/infected/alert/becomealert/become_alert21.vsnd"
-							"vsnd27"		"sounds/npc/infected/alert/becomealert/become_alert23.vsnd"
-							"vsnd28"		"sounds/npc/infected/alert/becomealert/become_alert25.vsnd"
-							"vsnd29"		"sounds/npc/infected/alert/becomealert/become_alert26.vsnd"
-							"vsnd30"		"sounds/npc/infected/alert/becomealert/become_alert29.vsnd"
-							"vsnd31"		"sounds/npc/infected/alert/becomealert/become_alert38.vsnd"
-							"vsnd32"		"sounds/npc/infected/alert/becomealert/become_alert41.vsnd"
-							"vsnd33"		"sounds/npc/infected/alert/becomealert/become_alert54.vsnd"
-							"vsnd34"		"sounds/npc/infected/alert/becomealert/become_alert55.vsnd"
-							"vsnd35"		"sounds/npc/infected/alert/becomealert/become_alert56.vsnd"
-							"vsnd36"		"sounds/npc/infected/alert/becomealert/become_alert57.vsnd"
-							"vsnd37"		"sounds/npc/infected/alert/becomealert/become_alert58.vsnd"
-							"vsnd38"		"sounds/npc/infected/alert/becomealert/become_alert59.vsnd"
-							"vsnd39"		"sounds/npc/infected/alert/becomealert/become_alert25.vsnd"
-							"vsnd40"		"sounds/npc/infected/alert/becomealert/$gender/become_alert60.vsnd"
-							"vsnd41"		"sounds/npc/infected/alert/becomealert/$gender/become_alert61.vsnd"
-							"vsnd42"		"sounds/npc/infected/alert/becomealert/$gender/become_alert62.vsnd"
-							"vsnd43"		"sounds/npc/infected/alert/becomealert/$gender/become_alert63.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/alert/becomealert/hiss01.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize01.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize02.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize03.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize04.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize05.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize06.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize07.vsnd",
+			"sounds/npc/infected/alert/becomealert/recognize08.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout01.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout02.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout03.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout04.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout06.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout07.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout08.vsnd",
+			"sounds/npc/infected/alert/becomealert/shout09.vsnd",
+			"sounds/npc/infected/alert/becomealert/howl01.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert01.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert04.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert09.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert11.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert12.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert14.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert17.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert18.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert21.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert23.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert25.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert26.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert29.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert38.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert41.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert54.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert55.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert56.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert57.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert58.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert59.vsnd",
+			"sounds/npc/infected/alert/becomealert/become_alert25.vsnd",
+			"sounds/npc/infected/alert/becomealert/$gender/become_alert60.vsnd",
+			"sounds/npc/infected/alert/becomealert/$gender/become_alert61.vsnd",
+			"sounds/npc/infected/alert/becomealert/$gender/become_alert62.vsnd",
+			"sounds/npc/infected/alert/becomealert/$gender/become_alert63.vsnd",
+		]
 	}
-}
-"Zombie.Alert"
-{
-	"operator_stacks"
+	"Zombie.Alert" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/alert/alert/alert13.vsnd"
-							"vsnd1"		"sounds/npc/infected/alert/alert/alert16.vsnd"
-							"vsnd2"		"sounds/npc/infected/alert/alert/alert23.vsnd"
-							"vsnd3"		"sounds/npc/infected/alert/alert/alert22.vsnd"
-							"vsnd4"		"sounds/npc/infected/alert/alert/alert25.vsnd"
-							"vsnd5"		"sounds/npc/infected/alert/alert/alert26.vsnd"
-							"vsnd6"		"sounds/npc/infected/alert/alert/alert27.vsnd"
-							"vsnd7"		"sounds/npc/infected/alert/alert/alert36.vsnd"
-							"vsnd8"		"sounds/npc/infected/alert/alert/alert37.vsnd"
-							"vsnd9"		"sounds/npc/infected/alert/alert/alert38.vsnd"
-							"vsnd10"		"sounds/npc/infected/alert/alert/alert39.vsnd"
-							"vsnd11"		"sounds/npc/infected/alert/alert/alert40.vsnd"
-							"vsnd12"		"sounds/npc/infected/alert/alert/alert41.vsnd"
-							"vsnd13"		"sounds/npc/infected/alert/alert/alert42.vsnd"
-							"vsnd14"		"sounds/npc/infected/alert/alert/alert43.vsnd"
-							"vsnd15"		"sounds/npc/infected/alert/alert/alert44.vsnd"
-							"vsnd16"		"sounds/npc/infected/alert/alert/$gender/alert50.vsnd"
-							"vsnd17"		"sounds/npc/infected/alert/alert/$gender/alert51.vsnd"
-							"vsnd18"		"sounds/npc/infected/alert/alert/$gender/alert52.vsnd"
-							"vsnd19"		"sounds/npc/infected/alert/alert/$gender/alert53.vsnd"
-							"vsnd20"		"sounds/npc/infected/alert/alert/$gender/alert54.vsnd"
-							"vsnd21"		"sounds/npc/infected/alert/alert/$gender/alert55.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.899902
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/alert/alert/alert13.vsnd",
+			"sounds/npc/infected/alert/alert/alert16.vsnd",
+			"sounds/npc/infected/alert/alert/alert23.vsnd",
+			"sounds/npc/infected/alert/alert/alert22.vsnd",
+			"sounds/npc/infected/alert/alert/alert25.vsnd",
+			"sounds/npc/infected/alert/alert/alert26.vsnd",
+			"sounds/npc/infected/alert/alert/alert27.vsnd",
+			"sounds/npc/infected/alert/alert/alert36.vsnd",
+			"sounds/npc/infected/alert/alert/alert37.vsnd",
+			"sounds/npc/infected/alert/alert/alert38.vsnd",
+			"sounds/npc/infected/alert/alert/alert39.vsnd",
+			"sounds/npc/infected/alert/alert/alert40.vsnd",
+			"sounds/npc/infected/alert/alert/alert41.vsnd",
+			"sounds/npc/infected/alert/alert/alert42.vsnd",
+			"sounds/npc/infected/alert/alert/alert43.vsnd",
+			"sounds/npc/infected/alert/alert/alert44.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert50.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert51.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert52.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert53.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert54.vsnd",
+			"sounds/npc/infected/alert/alert/$gender/alert55.vsnd",
+		]
 	}
-}
-"Zombie.BecomeEnraged"
-{
-	"operator_stacks"
+	"Zombie.BecomeEnraged" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/alert/becomeenraged/alert24.vsnd"
-							"vsnd1"		"sounds/npc/infected/alert/becomeenraged/become_enraged01.vsnd"
-							"vsnd2"		"sounds/npc/infected/alert/becomeenraged/become_enraged02.vsnd"
-							"vsnd3"		"sounds/npc/infected/alert/becomeenraged/become_enraged03.vsnd"
-							"vsnd4"		"sounds/npc/infected/alert/becomeenraged/become_enraged06.vsnd"
-							"vsnd5"		"sounds/npc/infected/alert/becomeenraged/become_enraged07.vsnd"
-							"vsnd6"		"sounds/npc/infected/alert/becomeenraged/become_enraged09.vsnd"
-							"vsnd7"		"sounds/npc/infected/alert/becomeenraged/become_enraged10.vsnd"
-							"vsnd8"		"sounds/npc/infected/alert/becomeenraged/become_enraged11.vsnd"
-							"vsnd9"		"sounds/npc/infected/alert/becomeenraged/become_enraged30.vsnd"
-							"vsnd10"		"sounds/npc/infected/alert/becomeenraged/become_enraged50.vsnd"
-							"vsnd11"		"sounds/npc/infected/alert/becomeenraged/become_enraged51.vsnd"
-							"vsnd12"		"sounds/npc/infected/alert/becomeenraged/become_enraged52.vsnd"
-							"vsnd13"		"sounds/npc/infected/alert/becomeenraged/become_enraged53.vsnd"
-							"vsnd14"		"sounds/npc/infected/alert/becomeenraged/become_enraged54.vsnd"
-							"vsnd15"		"sounds/npc/infected/alert/becomeenraged/become_enraged55.vsnd"
-							"vsnd16"		"sounds/npc/infected/alert/becomeenraged/become_enraged56.vsnd"
-							"vsnd17"		"sounds/npc/infected/alert/becomeenraged/become_enraged57.vsnd"
-							"vsnd18"		"sounds/npc/infected/alert/becomeenraged/become_enraged58.vsnd"
-							"vsnd19"		"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged40.vsnd"
-							"vsnd20"		"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged41.vsnd"
-							"vsnd21"		"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged42.vsnd"
-							"vsnd22"		"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged43.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.699707
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/alert/becomeenraged/alert24.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged01.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged02.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged03.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged06.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged07.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged09.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged10.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged11.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged30.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged50.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged51.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged52.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged53.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged54.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged55.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged56.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged57.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/become_enraged58.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged40.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged41.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged42.vsnd",
+			"sounds/npc/infected/alert/becomeenraged/$gender/become_enraged43.vsnd",
+		]
 	}
-}
-"Zombie.Rage"
-{
-	"operator_stacks"
+	"Zombie.Rage" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/rage/$gender/rage_50.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/rage/$gender/rage_51.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/rage/$gender/rage_52.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/rage/$gender/rage_53.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/rage/$gender/rage_54.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/rage/$gender/rage_55.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/rage/$gender/rage_56.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/rage/$gender/rage_57.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/rage/$gender/rage_58.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/rage/$gender/rage_59.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/rage/$gender/rage_60.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/rage/$gender/rage_61.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/rage/$gender/rage_62.vsnd"
-							"vsnd13"		"sounds/npc/infected/action/rage/$gender/rage_64.vsnd"
-							"vsnd14"		"sounds/npc/infected/action/rage/$gender/rage_65.vsnd"
-							"vsnd15"		"sounds/npc/infected/action/rage/$gender/rage_66.vsnd"
-							"vsnd16"		"sounds/npc/infected/action/rage/$gender/rage_67.vsnd"
-							"vsnd17"		"sounds/npc/infected/action/rage/$gender/rage_68.vsnd"
-							"vsnd18"		"sounds/npc/infected/action/rage/$gender/rage_69.vsnd"
-							"vsnd19"		"sounds/npc/infected/action/rage/$gender/rage_70.vsnd"
-							"vsnd20"		"sounds/npc/infected/action/rage/$gender/rage_71.vsnd"
-							"vsnd21"		"sounds/npc/infected/action/rage/$gender/rage_72.vsnd"
-							"vsnd22"		"sounds/npc/infected/action/rage/$gender/rage_73.vsnd"
-							"vsnd23"		"sounds/npc/infected/action/rage/$gender/rage_74.vsnd"
-							"vsnd24"		"sounds/npc/infected/action/rage/$gender/rage_75.vsnd"
-							"vsnd25"		"sounds/npc/infected/action/rage/$gender/rage_76.vsnd"
-							"vsnd26"		"sounds/npc/infected/action/rage/$gender/rage_77.vsnd"
-							"vsnd27"		"sounds/npc/infected/action/rage/$gender/rage_78.vsnd"
-							"vsnd28"		"sounds/npc/infected/action/rage/$gender/rage_79.vsnd"
-							"vsnd29"		"sounds/npc/infected/action/rage/$gender/rage_80.vsnd"
-							"vsnd30"		"sounds/npc/infected/action/rage/$gender/rage_81.vsnd"
-							"vsnd31"		"sounds/npc/infected/action/rage/$gender/rage_82.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.849609"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"85.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.849609
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 85.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/rage/$gender/rage_50.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_51.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_52.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_53.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_54.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_55.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_56.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_57.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_58.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_59.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_60.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_61.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_62.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_64.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_65.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_66.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_67.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_68.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_69.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_70.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_71.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_72.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_73.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_74.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_75.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_76.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_77.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_78.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_79.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_80.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_81.vsnd",
+			"sounds/npc/infected/action/rage/$gender/rage_82.vsnd",
+		]
 	}
-}
-"Zombie.RageAtVictim"
-{
-	"operator_stacks"
+	"Zombie.RageAtVictim" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/rageat/rage_at_victim25.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/rageat/rage_at_victim35.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/rageat/rage_at_victim02.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/rageat/rage_at_victim34.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/rageat/rage_at_victim26.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/rageat/rage_at_victim01.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/rageat/rage_at_victim22.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/rageat/rage_at_victim21.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/rageat/snarl_4.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim20.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim21.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim22.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim23.vsnd"
-							"vsnd13"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim24.vsnd"
-							"vsnd14"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim25.vsnd"
-							"vsnd15"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim26.vsnd"
-							"vsnd16"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim27.vsnd"
-							"vsnd17"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim28.vsnd"
-							"vsnd18"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim29.vsnd"
-							"vsnd19"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim30.vsnd"
-							"vsnd20"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim31.vsnd"
-							"vsnd21"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim32.vsnd"
-							"vsnd22"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim33.vsnd"
-							"vsnd23"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim34.vsnd"
-							"vsnd24"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim35.vsnd"
-							"vsnd25"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim36.vsnd"
-							"vsnd26"		"sounds/npc/infected/action/rageat/$gender/rage_at_victim37.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/rageat/rage_at_victim25.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim35.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim02.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim34.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim26.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim01.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim22.vsnd",
+			"sounds/npc/infected/action/rageat/rage_at_victim21.vsnd",
+			"sounds/npc/infected/action/rageat/snarl_4.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim20.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim21.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim22.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim23.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim24.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim25.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim26.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim27.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim28.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim29.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim30.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim31.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim32.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim33.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim34.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim35.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim36.vsnd",
+			"sounds/npc/infected/action/rageat/$gender/rage_at_victim37.vsnd",
+		]
 	}
-}
-"Zombie.Shoved"
-{
-	"operator_stacks"
+	"Zombie.Shoved" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/shoved/mp/shoved_long_1.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/shoved/mp/shoved_long_2.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/shoved/mp/shoved_long_3.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/shoved/mp/shoved_01.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/shoved/mp/shoved_02.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/shoved/mp/shoved_03.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/shoved/mp/shoved_04.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/shoved/mp/shoved_05.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/shoved/mp/shoved_06.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/shoved/mp/shoved_07.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/shoved/mp/shoved_08.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/shoved/mp/shoved_09.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/shoved/mp/shoved_10.vsnd"
-							"vsnd13"		"sounds/npc/infected/action/shoved/mp/shoved_11.vsnd"
-							"vsnd14"		"sounds/npc/infected/action/shoved/mp/shoved_12.vsnd"
-							"vsnd15"		"sounds/npc/infected/action/shoved/mp/shoved_13.vsnd"
-							"vsnd16"		"sounds/npc/infected/action/shoved/mp/shoved_14.vsnd"
-							"vsnd17"		"sounds/npc/infected/action/shoved/mp/shoved_15.vsnd"
-							"vsnd18"		"sounds/npc/infected/action/shoved/mp/shoved_16.vsnd"
-							"vsnd19"		"sounds/npc/infected/action/shoved/mp/shoved_17.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.899902
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/shoved/mp/shoved_long_1.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_long_2.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_long_3.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_01.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_02.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_03.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_04.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_05.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_06.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_07.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_08.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_09.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_10.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_11.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_12.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_13.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_14.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_15.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_16.vsnd",
+			"sounds/npc/infected/action/shoved/mp/shoved_17.vsnd",
+		]
 	}
-}
-"Zombie.Shot"
-{
-	"operator_stacks"
+	"Zombie.Shot" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/been_shot/been_shot_01.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/been_shot/been_shot_02.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/been_shot/been_shot_04.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/been_shot/been_shot_05.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/been_shot/been_shot_06.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/been_shot/been_shot_08.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/been_shot/been_shot_09.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/been_shot/been_shot_12.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/been_shot/been_shot_13.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/been_shot/been_shot_14.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/been_shot/been_shot_18.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/been_shot/been_shot_19.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/been_shot/been_shot_20.vsnd"
-							"vsnd13"		"sounds/npc/infected/action/been_shot/been_shot_21.vsnd"
-							"vsnd14"		"sounds/npc/infected/action/been_shot/been_shot_22.vsnd"
-							"vsnd15"		"sounds/npc/infected/action/been_shot/been_shot_24.vsnd"
-							"vsnd16"		"sounds/npc/infected/action/been_shot/$gender/been_shot_30.vsnd"
-							"vsnd17"		"sounds/npc/infected/action/been_shot/$gender/been_shot_31.vsnd"
-							"vsnd18"		"sounds/npc/infected/action/been_shot/$gender/been_shot_32.vsnd"
-							"vsnd19"		"sounds/npc/infected/action/been_shot/$gender/been_shot_33.vsnd"
-							"vsnd20"		"sounds/npc/infected/action/been_shot/$gender/been_shot_34.vsnd"
-							"vsnd21"		"sounds/npc/infected/action/been_shot/$gender/been_shot_35.vsnd"
-							"vsnd22"		"sounds/npc/infected/action/been_shot/$gender/been_shot_36.vsnd"
-							"vsnd23"		"sounds/npc/infected/action/been_shot/$gender/been_shot_37.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 65.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/been_shot/been_shot_01.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_02.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_04.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_05.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_06.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_08.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_09.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_12.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_13.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_14.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_18.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_19.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_20.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_21.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_22.vsnd",
+			"sounds/npc/infected/action/been_shot/been_shot_24.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_30.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_31.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_32.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_33.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_34.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_35.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_36.vsnd",
+			"sounds/npc/infected/action/been_shot/$gender/been_shot_37.vsnd",
+		]
 	}
-}
-"Zombie.Die"
-{
-	"operator_stacks"
+	"Zombie.Die" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/die/mp/odd_2.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/die/mp/odd_3.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/die/mp/odd_4.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/die/mp/odd_5.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/die/mp/squeal_1.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/die/mp/squeal_2.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/die/mp/squeal_3.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/die/mp/squeal_4.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/die/death_14.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/die/death_17.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/die/death_18.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/die/death_19.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/die/death_22.vsnd"
-							"vsnd13"		"sounds/npc/infected/action/die/death_23.vsnd"
-							"vsnd14"		"sounds/npc/infected/action/die/death_24.vsnd"
-							"vsnd15"		"sounds/npc/infected/action/die/death_25.vsnd"
-							"vsnd16"		"sounds/npc/infected/action/die/death_26.vsnd"
-							"vsnd17"		"sounds/npc/infected/action/die/death_27.vsnd"
-							"vsnd18"		"sounds/npc/infected/action/die/death_28.vsnd"
-							"vsnd19"		"sounds/npc/infected/action/die/death_29.vsnd"
-							"vsnd20"		"sounds/npc/infected/action/die/death_30.vsnd"
-							"vsnd21"		"sounds/npc/infected/action/die/death_32.vsnd"
-							"vsnd22"		"sounds/npc/infected/action/die/death_33.vsnd"
-							"vsnd23"		"sounds/npc/infected/action/die/death_34.vsnd"
-							"vsnd24"		"sounds/npc/infected/action/die/death_35.vsnd"
-							"vsnd25"		"sounds/npc/infected/action/die/death_36.vsnd"
-							"vsnd26"		"sounds/npc/infected/action/die/death_37.vsnd"
-							"vsnd27"		"sounds/npc/infected/action/die/death_38.vsnd"
-							"vsnd28"		"sounds/npc/infected/action/die/$gender/death_40.vsnd"
-							"vsnd29"		"sounds/npc/infected/action/die/$gender/death_41.vsnd"
-							"vsnd30"		"sounds/npc/infected/action/die/$gender/death_42.vsnd"
-							"vsnd31"		"sounds/npc/infected/action/die/$gender/death_43.vsnd"
-							"vsnd32"		"sounds/npc/infected/action/die/$gender/death_44.vsnd"
-							"vsnd33"		"sounds/npc/infected/action/die/$gender/death_45.vsnd"
-							"vsnd34"		"sounds/npc/infected/action/die/$gender/death_46.vsnd"
-							"vsnd35"		"sounds/npc/infected/action/die/$gender/death_47.vsnd"
-							"vsnd36"		"sounds/npc/infected/action/die/$gender/death_48.vsnd"
-							"vsnd37"		"sounds/npc/infected/action/die/$gender/death_49.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 65.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/die/mp/odd_2.vsnd",
+			"sounds/npc/infected/action/die/mp/odd_3.vsnd",
+			"sounds/npc/infected/action/die/mp/odd_4.vsnd",
+			"sounds/npc/infected/action/die/mp/odd_5.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_1.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_2.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_3.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_4.vsnd",
+			"sounds/npc/infected/action/die/death_14.vsnd",
+			"sounds/npc/infected/action/die/death_17.vsnd",
+			"sounds/npc/infected/action/die/death_18.vsnd",
+			"sounds/npc/infected/action/die/death_19.vsnd",
+			"sounds/npc/infected/action/die/death_22.vsnd",
+			"sounds/npc/infected/action/die/death_23.vsnd",
+			"sounds/npc/infected/action/die/death_24.vsnd",
+			"sounds/npc/infected/action/die/death_25.vsnd",
+			"sounds/npc/infected/action/die/death_26.vsnd",
+			"sounds/npc/infected/action/die/death_27.vsnd",
+			"sounds/npc/infected/action/die/death_28.vsnd",
+			"sounds/npc/infected/action/die/death_29.vsnd",
+			"sounds/npc/infected/action/die/death_30.vsnd",
+			"sounds/npc/infected/action/die/death_32.vsnd",
+			"sounds/npc/infected/action/die/death_33.vsnd",
+			"sounds/npc/infected/action/die/death_34.vsnd",
+			"sounds/npc/infected/action/die/death_35.vsnd",
+			"sounds/npc/infected/action/die/death_36.vsnd",
+			"sounds/npc/infected/action/die/death_37.vsnd",
+			"sounds/npc/infected/action/die/death_38.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_40.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_41.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_42.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_43.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_44.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_45.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_46.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_47.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_48.vsnd",
+			"sounds/npc/infected/action/die/$gender/death_49.vsnd",
+		]
 	}
-}
-"Zombie.IgniteScream"
-{
-	"operator_stacks"
+	"Zombie.IgniteScream" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/die/mp/squeal_1.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/die/mp/squeal_2.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/die/mp/squeal_3.vsnd"
-							"vsnd3"		"sounds/npc/infected/action/die/mp/squeal_4.vsnd"
-							"vsnd4"		"sounds/npc/infected/action/ignite/ignite01.vsnd"
-							"vsnd5"		"sounds/npc/infected/action/ignite/ignite07.vsnd"
-							"vsnd6"		"sounds/npc/infected/action/ignite/ignite08.vsnd"
-							"vsnd7"		"sounds/npc/infected/action/ignite/ignite09.vsnd"
-							"vsnd8"		"sounds/npc/infected/action/ignite/$gender/ignite11.vsnd"
-							"vsnd9"		"sounds/npc/infected/action/ignite/$gender/ignite12.vsnd"
-							"vsnd10"		"sounds/npc/infected/action/ignite/$gender/ignite13.vsnd"
-							"vsnd11"		"sounds/npc/infected/action/ignite/$gender/ignite14.vsnd"
-							"vsnd12"		"sounds/npc/infected/action/ignite/$gender/ignite10.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.799805"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.799805
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/die/mp/squeal_1.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_2.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_3.vsnd",
+			"sounds/npc/infected/action/die/mp/squeal_4.vsnd",
+			"sounds/npc/infected/action/ignite/ignite01.vsnd",
+			"sounds/npc/infected/action/ignite/ignite07.vsnd",
+			"sounds/npc/infected/action/ignite/ignite08.vsnd",
+			"sounds/npc/infected/action/ignite/ignite09.vsnd",
+			"sounds/npc/infected/action/ignite/$gender/ignite11.vsnd",
+			"sounds/npc/infected/action/ignite/$gender/ignite12.vsnd",
+			"sounds/npc/infected/action/ignite/$gender/ignite13.vsnd",
+			"sounds/npc/infected/action/ignite/$gender/ignite14.vsnd",
+			"sounds/npc/infected/action/ignite/$gender/ignite10.vsnd",
+		]
 	}
-}
-"Zombie.HeadlessCough"
-{
-	"operator_stacks"
+	"Zombie.HeadlessCough" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/gore/headless/headless_1.vsnd"
-							"vsnd1"		"sounds/npc/infected/gore/headless/headless_2.vsnd"
-							"vsnd2"		"sounds/npc/infected/gore/headless/headless_3.vsnd"
-							"vsnd3"		"sounds/npc/infected/gore/headless/headless_4.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.750000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.100000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.100000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"60.000000"
-					}
-					"event_type"
-					{
-						"value"		"2.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.75
+		pitch_rand_min = -0.1
+		pitch_rand_max = 0.1
+		pitch = 1.0
+		soundlevel = 60.0
+		event_type = 2.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/gore/headless/headless_1.vsnd",
+			"sounds/npc/infected/gore/headless/headless_2.vsnd",
+			"sounds/npc/infected/gore/headless/headless_3.vsnd",
+			"sounds/npc/infected/gore/headless/headless_4.vsnd",
+		]
 	}
-}
-"Zombie.AttackMiss"
-{
-	"operator_stacks"
+	"Zombie.AttackMiss" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/miss/claw_miss_1.vsnd"
-							"vsnd1"		"sounds/npc/infected/miss/claw_miss_2.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"event_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		event_type = 1.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/miss/claw_miss_1.vsnd",
+			"sounds/npc/infected/miss/claw_miss_2.vsnd",
+		]
 	}
-}
-"Zombie.BulletImpact"
-{
-	"operator_stacks"
+	"Zombie.BulletImpact" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/gore/bullets/bullet_impact_01.vsnd"
-							"vsnd1"		"sounds/npc/infected/gore/bullets/bullet_impact_02.vsnd"
-							"vsnd2"		"sounds/npc/infected/gore/bullets/bullet_impact_03.vsnd"
-							"vsnd3"		"sounds/npc/infected/gore/bullets/bullet_impact_04.vsnd"
-							"vsnd4"		"sounds/npc/infected/gore/bullets/bullet_impact_05.vsnd"
-							"vsnd5"		"sounds/npc/infected/gore/bullets/bullet_impact_06.vsnd"
-							"vsnd6"		"sounds/npc/infected/gore/bullets/bullet_impact_07.vsnd"
-							"vsnd7"		"sounds/npc/infected/gore/bullets/bullet_impact_08.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.039978"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.039978"
-					}
-					"volume"
-					{
-						"value"		"0.589783"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.039978
+		volume_rand_max = 0.039978
+		volume = 0.589783
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 1.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/gore/bullets/bullet_impact_01.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_02.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_03.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_04.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_05.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_06.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_07.vsnd",
+			"sounds/npc/infected/gore/bullets/bullet_impact_08.vsnd",
+		]
 	}
-}
-"Zombie.ClawScrape"
-{
-	"operator_stacks"
+	"Zombie.ClawScrape" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/hit/claw_scrape_1.vsnd"
-							"vsnd1"		"sounds/npc/infected/hit/claw_scrape_2.vsnd"
-							"vsnd2"		"sounds/npc/infected/hit/claw_scrape_3.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"65.000000"
-					}
-					"event_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 65.0
+		event_type = 1.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/hit/claw_scrape_1.vsnd",
+			"sounds/npc/infected/hit/claw_scrape_2.vsnd",
+			"sounds/npc/infected/hit/claw_scrape_3.vsnd",
+		]
 	}
-}
-"Zombie.Punch"
-{
-	"operator_stacks"
+	"Zombie.Punch" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/hit/punch_boxing_bodyhit03.vsnd"
-							"vsnd1"		"sounds/npc/infected/hit/punch_boxing_bodyhit04.vsnd"
-							"vsnd2"		"sounds/npc/infected/hit/punch_boxing_facehit4.vsnd"
-							"vsnd3"		"sounds/npc/infected/hit/punch_boxing_facehit5.vsnd"
-							"vsnd4"		"sounds/npc/infected/hit/punch_boxing_facehit6.vsnd"
-							"vsnd5"		"sounds/npc/infected/hit/hit_punch_01.vsnd"
-							"vsnd6"		"sounds/npc/infected/hit/hit_punch_02.vsnd"
-							"vsnd7"		"sounds/npc/infected/hit/hit_punch_03.vsnd"
-							"vsnd8"		"sounds/npc/infected/hit/hit_punch_04.vsnd"
-							"vsnd9"		"sounds/npc/infected/hit/hit_punch_05.vsnd"
-							"vsnd10"		"sounds/npc/infected/hit/hit_punch_06.vsnd"
-							"vsnd11"		"sounds/npc/infected/hit/hit_punch_07.vsnd"
-							"vsnd12"		"sounds/npc/infected/hit/hit_punch_08.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"75.000000"
-					}
-					"event_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_type"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_max"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_entity"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_match_this"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 75.0
+		event_type = 1.0
+		limiter_on = 1.0
+		limiter_match_type = 1.0
+		limiter_max = 1.0
+		limiter_match_entity = 1.0
+		limiter_match_this = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/hit/punch_boxing_bodyhit03.vsnd",
+			"sounds/npc/infected/hit/punch_boxing_bodyhit04.vsnd",
+			"sounds/npc/infected/hit/punch_boxing_facehit4.vsnd",
+			"sounds/npc/infected/hit/punch_boxing_facehit5.vsnd",
+			"sounds/npc/infected/hit/punch_boxing_facehit6.vsnd",
+			"sounds/npc/infected/hit/hit_punch_01.vsnd",
+			"sounds/npc/infected/hit/hit_punch_02.vsnd",
+			"sounds/npc/infected/hit/hit_punch_03.vsnd",
+			"sounds/npc/infected/hit/hit_punch_04.vsnd",
+			"sounds/npc/infected/hit/hit_punch_05.vsnd",
+			"sounds/npc/infected/hit/hit_punch_06.vsnd",
+			"sounds/npc/infected/hit/hit_punch_07.vsnd",
+			"sounds/npc/infected/hit/hit_punch_08.vsnd",
+		]
 	}
-}
-"MegaMobIncoming"
-{
-	"operator_stacks"
+	MegaMobIncoming = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/npc/mega_mob/mega_mob_incoming.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.599609"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 0.599609
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 1.0
+		soundlevel = 70.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/mega_mob/mega_mob_incoming.vsnd",
+		]
 	}
-}
-"CEDA.suit.deflate"
-{
-	"operator_stacks"
+	"CEDA.suit.deflate" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/npc/infected/action/die/ceda_suit_deflate.vsnd"
-							"vsnd1"		"sounds/npc/infected/action/die/ceda_suit_deflate_02.vsnd"
-							"vsnd2"		"sounds/npc/infected/action/die/ceda_suit_deflate_03.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.049988"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.049988"
-					}
-					"volume"
-					{
-						"value"		"0.699890"
-					}
-					"pitch_rand_min"
-					{
-						"value"		"-0.050000"
-					}
-					"pitch_rand_max"
-					{
-						"value"		"0.050000"
-					}
-					"pitch"
-					{
-						"value"		"0.950000"
-					}
-					"soundlevel"
-					{
-						"value"		"70.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume_rand_min = -0.049988
+		volume_rand_max = 0.049988
+		volume = 0.69989
+		pitch_rand_min = -0.05
+		pitch_rand_max = 0.05
+		pitch = 0.95
+		soundlevel = 70.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/npc/infected/action/die/ceda_suit_deflate.vsnd",
+			"sounds/npc/infected/action/die/ceda_suit_deflate_02.vsnd",
+			"sounds/npc/infected/action/die/ceda_suit_deflate_03.vsnd",
+		]
 	}
 }

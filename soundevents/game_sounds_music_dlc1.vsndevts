@@ -1,1434 +1,531 @@
-"Event.MissionStart_DeadLight"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"operator_stacks"
+	"Event.MissionStart_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/stmusic/deadlightdistrict.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/stmusic/deadlightdistrict.vsnd",
+		]
 	}
-}
-"Event.MissionStart_BaseLoop_DeadLight"
-{
-	"operator_stacks"
+	"Event.MissionStart_BaseLoop_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/cpmusic/prayfordeath.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.699707
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/cpmusic/prayfordeath.vsnd",
+		]
 	}
-}
-"Event.CheckPointIntro_DeadLight"
-{
-	"operator_stacks"
+	"Event.CheckPointIntro_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/stmusic/youhadbetterpray.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/stmusic/youhadbetterpray.vsnd",
+		]
 	}
-}
-"Event.CheckPointBaseLoop_DeadLight"
-{
-	"operator_stacks"
+	"Event.CheckPointBaseLoop_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/cpmusic/prayfordeath.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.699707
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/cpmusic/prayfordeath.vsnd",
+		]
 	}
-}
-"Event.LeavingSafety_DeadLight"
-{
-	"operator_stacks"
+	"Event.LeavingSafety_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/deadlightgermm1a.vsnd"
-							"vsnd1"		"sounds/music/mob/deadlightgerms1a.vsnd"
-							"vsnd2"		"sounds/music/mob/deadlightgerml1a.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/deadlightgermm1a.vsnd",
+			"sounds/music/mob/deadlightgerms1a.vsnd",
+			"sounds/music/mob/deadlightgerml1a.vsnd",
+		]
 	}
-}
-"Event.StartAtmosphere_DeadLight"
-{
-	"operator_stacks"
+	"Event.StartAtmosphere_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/quarantine_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/quarantine_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/quarantine_03.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/quarantine_01.vsnd",
+			"sounds/music/contagion/quarantine_02.vsnd",
+			"sounds/music/contagion/quarantine_03.vsnd",
+		]
 	}
-}
-"Event.Zombat2_Intro_DeadLight"
-{
-	"operator_stacks"
+	"Event.Zombat2_Intro_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/zombat/slayer/lectric/slayer_01a.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.899902
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/slayer/lectric/slayer_01a.vsnd",
+		]
 	}
-}
-"Event.Zombat3_Intro_DeadLight"
-{
-	"operator_stacks"
+	"Event.Zombat3_Intro_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd"
-							"vsnd6"		"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd"
-							"vsnd7"		"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd",
+		]
 	}
-}
-"Event.Zombat3_A_DeadLight"
-{
-	"operator_stacks"
+	"Event.Zombat3_A_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_02_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_02_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_02_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_02_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_03_01b.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_03_01e.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_02_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_03_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_03_01e.vsnd",
+		]
 	}
-}
-"Event.Zombat3_B_DeadLight"
-{
-	"operator_stacks"
+	"Event.Zombat3_B_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd"
-							"vsnd6"		"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd"
-							"vsnd7"		"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd",
+		]
 	}
-}
-"Event.MobSignal1_DeadLight"
-{
-	"operator_stacks"
+	"Event.MobSignal1_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/deadlightgerms1a.vsnd"
-							"vsnd1"		"sounds/music/mob/deadlightgerms1b.vsnd"
-							"vsnd2"		"sounds/music/mob/deadlightgerms1c.vsnd"
-							"vsnd3"		"sounds/music/mob/deadlightgermm1a.vsnd"
-							"vsnd4"		"sounds/music/mob/deadlightgermm1b.vsnd"
-							"vsnd5"		"sounds/music/mob/deadlightgermm1c.vsnd"
-							"vsnd6"		"sounds/music/mob/deadlightgerml1a.vsnd"
-							"vsnd7"		"sounds/music/mob/deadlightgerml1b.vsnd"
-							"vsnd8"		"sounds/music/mob/deadlightgerml1c.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/deadlightgerms1a.vsnd",
+			"sounds/music/mob/deadlightgerms1b.vsnd",
+			"sounds/music/mob/deadlightgerms1c.vsnd",
+			"sounds/music/mob/deadlightgermm1a.vsnd",
+			"sounds/music/mob/deadlightgermm1b.vsnd",
+			"sounds/music/mob/deadlightgermm1c.vsnd",
+			"sounds/music/mob/deadlightgerml1a.vsnd",
+			"sounds/music/mob/deadlightgerml1b.vsnd",
+			"sounds/music/mob/deadlightgerml1c.vsnd",
+		]
 	}
-}
-"Event.MobSignal2_DeadLight"
-{
-	"operator_stacks"
+	"Event.MobSignal2_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/deadlightgerms2a.vsnd"
-							"vsnd1"		"sounds/music/mob/deadlightgerms2b.vsnd"
-							"vsnd2"		"sounds/music/mob/deadlightgerms2c.vsnd"
-							"vsnd3"		"sounds/music/mob/deadlightgermm2a.vsnd"
-							"vsnd4"		"sounds/music/mob/deadlightgermm2b.vsnd"
-							"vsnd5"		"sounds/music/mob/deadlightgermm2c.vsnd"
-							"vsnd6"		"sounds/music/mob/deadlightgerml2a.vsnd"
-							"vsnd7"		"sounds/music/mob/deadlightgerml2b.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/deadlightgerms2a.vsnd",
+			"sounds/music/mob/deadlightgerms2b.vsnd",
+			"sounds/music/mob/deadlightgerms2c.vsnd",
+			"sounds/music/mob/deadlightgermm2a.vsnd",
+			"sounds/music/mob/deadlightgermm2b.vsnd",
+			"sounds/music/mob/deadlightgermm2c.vsnd",
+			"sounds/music/mob/deadlightgerml2a.vsnd",
+			"sounds/music/mob/deadlightgerml2b.vsnd",
+		]
 	}
-}
-"Event.SafeAtmosphere_DeadLight"
-{
-	"operator_stacks"
+	"Event.SafeAtmosphere_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/quarantine_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/quarantine_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/quarantine_03.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/quarantine_01.vsnd",
+			"sounds/music/contagion/quarantine_02.vsnd",
+			"sounds/music/contagion/quarantine_03.vsnd",
+		]
 	}
-}
-"Event.DangerAtmosphere_DeadLight"
-{
-	"operator_stacks"
+	"Event.DangerAtmosphere_DeadLight" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/c6rabies_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/c6rabies_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/c6rabies_03.vsnd"
-							"vsnd3"		"sounds/music/contagion/c6rabies_04.vsnd"
-							"vsnd4"		"sounds/music/contagion/c6rabies_05.vsnd"
-							"vsnd5"		"sounds/music/contagion/c6rabies_06.vsnd"
-							"vsnd6"		"sounds/music/contagion/c6rabies_07.vsnd"
-							"vsnd7"		"sounds/music/contagion/c6rabies_08.vsnd"
-							"vsnd8"		"sounds/music/contagion/c6rabies_09.vsnd"
-							"vsnd9"		"sounds/music/contagion/c6rabies_10.vsnd"
-							"vsnd10"		"sounds/music/contagion/l4d2_rabies_01.vsnd"
-							"vsnd11"		"sounds/music/contagion/l4d2_rabies_02.vsnd"
-							"vsnd12"		"sounds/music/contagion/l4d2_rabies_03.vsnd"
-							"vsnd13"		"sounds/music/contagion/l4d2_rabies_04.vsnd"
-							"vsnd14"		"sounds/music/contagion/l4d2_rabies_05.vsnd"
-							"vsnd15"		"sounds/music/contagion/l4d2_rabies_06.vsnd"
-							"vsnd16"		"sounds/music/contagion/l4d2_rabies_07.vsnd"
-							"vsnd17"		"sounds/music/contagion/l4d2_rabies_08.vsnd"
-							"vsnd18"		"sounds/music/contagion/l4d2_rabies_09.vsnd"
-							"vsnd19"		"sounds/music/contagion/l4d2_rabies_10.vsnd"
-							"vsnd20"		"sounds/music/contagion/l4d2_rabies_11.vsnd"
-							"vsnd21"		"sounds/music/contagion/l4d2_rabies_12.vsnd"
-							"vsnd22"		"sounds/music/contagion/l4d2_rabies_13.vsnd"
-							"vsnd23"		"sounds/music/contagion/l4d2_rabies_14.vsnd"
-							"vsnd24"		"sounds/music/contagion/l4d2_rabies_15.vsnd"
-							"vsnd25"		"sounds/music/contagion/l4d2_rabies_16.vsnd"
-							"vsnd26"		"sounds/music/contagion/l4d2_rabies_17.vsnd"
-							"vsnd27"		"sounds/music/contagion/l4d2_rabies_18.vsnd"
-							"vsnd28"		"sounds/music/contagion/l4d2_rabies_19.vsnd"
-							"vsnd29"		"sounds/music/contagion/l4d2_rabies_20.vsnd"
-							"vsnd30"		"sounds/music/contagion/l4d2_rabies_21.vsnd"
-							"vsnd31"		"sounds/music/contagion/l4d2_rabies_22.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/c6rabies_01.vsnd",
+			"sounds/music/contagion/c6rabies_02.vsnd",
+			"sounds/music/contagion/c6rabies_03.vsnd",
+			"sounds/music/contagion/c6rabies_04.vsnd",
+			"sounds/music/contagion/c6rabies_05.vsnd",
+			"sounds/music/contagion/c6rabies_06.vsnd",
+			"sounds/music/contagion/c6rabies_07.vsnd",
+			"sounds/music/contagion/c6rabies_08.vsnd",
+			"sounds/music/contagion/c6rabies_09.vsnd",
+			"sounds/music/contagion/c6rabies_10.vsnd",
+			"sounds/music/contagion/l4d2_rabies_01.vsnd",
+			"sounds/music/contagion/l4d2_rabies_02.vsnd",
+			"sounds/music/contagion/l4d2_rabies_03.vsnd",
+			"sounds/music/contagion/l4d2_rabies_04.vsnd",
+			"sounds/music/contagion/l4d2_rabies_05.vsnd",
+			"sounds/music/contagion/l4d2_rabies_06.vsnd",
+			"sounds/music/contagion/l4d2_rabies_07.vsnd",
+			"sounds/music/contagion/l4d2_rabies_08.vsnd",
+			"sounds/music/contagion/l4d2_rabies_09.vsnd",
+			"sounds/music/contagion/l4d2_rabies_10.vsnd",
+			"sounds/music/contagion/l4d2_rabies_11.vsnd",
+			"sounds/music/contagion/l4d2_rabies_12.vsnd",
+			"sounds/music/contagion/l4d2_rabies_13.vsnd",
+			"sounds/music/contagion/l4d2_rabies_14.vsnd",
+			"sounds/music/contagion/l4d2_rabies_15.vsnd",
+			"sounds/music/contagion/l4d2_rabies_16.vsnd",
+			"sounds/music/contagion/l4d2_rabies_17.vsnd",
+			"sounds/music/contagion/l4d2_rabies_18.vsnd",
+			"sounds/music/contagion/l4d2_rabies_19.vsnd",
+			"sounds/music/contagion/l4d2_rabies_20.vsnd",
+			"sounds/music/contagion/l4d2_rabies_21.vsnd",
+			"sounds/music/contagion/l4d2_rabies_22.vsnd",
+		]
 	}
-}
-"Event.CheckPointIntro_ThePassing"
-{
-	"operator_stacks"
+	"Event.CheckPointIntro_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/stmusic/youhadbetterpray.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/stmusic/youhadbetterpray.vsnd",
+		]
 	}
-}
-"Event.CheckPointBaseLoop_ThePassing"
-{
-	"operator_stacks"
+	"Event.CheckPointBaseLoop_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/cpmusic/prayforpassing.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.699707"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.699707
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/cpmusic/prayforpassing.vsnd",
+		]
 	}
-}
-"Event.LeavingSafety_ThePassing"
-{
-	"operator_stacks"
+	"Event.LeavingSafety_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/germm1a.vsnd"
-							"vsnd1"		"sounds/music/mob/germs1a.vsnd"
-							"vsnd2"		"sounds/music/mob/germl1a.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/germm1a.vsnd",
+			"sounds/music/mob/germs1a.vsnd",
+			"sounds/music/mob/germl1a.vsnd",
+		]
 	}
-}
-"Event.StartAtmosphere_ThePassing"
-{
-	"operator_stacks"
+	"Event.StartAtmosphere_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/l4d1_quarantine_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/l4d1_quarantine_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/l4d1_quarantine_03.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/l4d1_quarantine_01.vsnd",
+			"sounds/music/contagion/l4d1_quarantine_02.vsnd",
+			"sounds/music/contagion/l4d1_quarantine_03.vsnd",
+		]
 	}
-}
-"Event.Zombat2_Intro_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat2_Intro_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/slayer/lectric/slayer_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/slayer/hordeslayer_01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.899902
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/slayer/lectric/slayer_01a.vsnd",
+			"sounds/music/zombat/slayer/hordeslayer_01.vsnd",
+		]
 	}
-}
-"Event.Zombat3_Intro_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat3_Intro_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd"
-							"vsnd6"		"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd"
-							"vsnd7"		"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd",
+		]
 	}
-}
-"Event.Zombat3_A_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat3_A_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_02_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_02_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_02_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_02_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_03_01b.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_03_01e.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_02_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_02_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_03_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_03_01e.vsnd",
+		]
 	}
-}
-"Event.Zombat3_B_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat3_B_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd"
-							"vsnd1"		"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd"
-							"vsnd2"		"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd"
-							"vsnd3"		"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd"
-							"vsnd4"		"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd"
-							"vsnd5"		"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd"
-							"vsnd6"		"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd"
-							"vsnd7"		"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.769531"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.769531
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/danger/internalorgans/organ_01_01a.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01b.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01c.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01d.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01e.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01f.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01g.vsnd",
+			"sounds/music/zombat/danger/internalorgans/organ_01_01h.vsnd",
+		]
 	}
-}
-"Event.MobSignal1_ThePassing"
-{
-	"operator_stacks"
+	"Event.MobSignal1_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/germs1a.vsnd"
-							"vsnd1"		"sounds/music/mob/germs1b.vsnd"
-							"vsnd2"		"sounds/music/mob/germm1a.vsnd"
-							"vsnd3"		"sounds/music/mob/germm1b.vsnd"
-							"vsnd4"		"sounds/music/mob/germl1a.vsnd"
-							"vsnd5"		"sounds/music/mob/germl1b.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/germs1a.vsnd",
+			"sounds/music/mob/germs1b.vsnd",
+			"sounds/music/mob/germm1a.vsnd",
+			"sounds/music/mob/germm1b.vsnd",
+			"sounds/music/mob/germl1a.vsnd",
+			"sounds/music/mob/germl1b.vsnd",
+		]
 	}
-}
-"Event.MobSignal2_ThePassing"
-{
-	"operator_stacks"
+	"Event.MobSignal2_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/mob/germs2a.vsnd"
-							"vsnd1"		"sounds/music/mob/germs2b.vsnd"
-							"vsnd2"		"sounds/music/mob/germm2a.vsnd"
-							"vsnd3"		"sounds/music/mob/germm2b.vsnd"
-							"vsnd4"		"sounds/music/mob/germl2a.vsnd"
-							"vsnd5"		"sounds/music/mob/germl2b.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.024994"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.024994"
-					}
-					"volume"
-					{
-						"value"		"0.324799"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.024994
+		volume_rand_max = 0.024994
+		volume = 0.324799
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/mob/germs2a.vsnd",
+			"sounds/music/mob/germs2b.vsnd",
+			"sounds/music/mob/germm2a.vsnd",
+			"sounds/music/mob/germm2b.vsnd",
+			"sounds/music/mob/germl2a.vsnd",
+			"sounds/music/mob/germl2b.vsnd",
+		]
 	}
-}
-"Event.SafeAtmosphere_ThePassing"
-{
-	"operator_stacks"
+	"Event.SafeAtmosphere_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/l4d1_quarantine_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/l4d1_quarantine_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/l4d1_quarantine_03.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/l4d1_quarantine_01.vsnd",
+			"sounds/music/contagion/l4d1_quarantine_02.vsnd",
+			"sounds/music/contagion/l4d1_quarantine_03.vsnd",
+		]
 	}
-}
-"Event.DangerAtmosphere_ThePassing"
-{
-	"operator_stacks"
+	"Event.DangerAtmosphere_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/contagion/c6rabies_01.vsnd"
-							"vsnd1"		"sounds/music/contagion/c6rabies_02.vsnd"
-							"vsnd2"		"sounds/music/contagion/c6rabies_03.vsnd"
-							"vsnd3"		"sounds/music/contagion/c6rabies_04.vsnd"
-							"vsnd4"		"sounds/music/contagion/c6rabies_05.vsnd"
-							"vsnd5"		"sounds/music/contagion/c6rabies_06.vsnd"
-							"vsnd6"		"sounds/music/contagion/c6rabies_07.vsnd"
-							"vsnd7"		"sounds/music/contagion/c6rabies_08.vsnd"
-							"vsnd8"		"sounds/music/contagion/c6rabies_09.vsnd"
-							"vsnd9"		"sounds/music/contagion/c6rabies_10.vsnd"
-							"vsnd10"		"sounds/music/contagion/l4d2_rabies_01.vsnd"
-							"vsnd11"		"sounds/music/contagion/l4d2_rabies_02.vsnd"
-							"vsnd12"		"sounds/music/contagion/l4d2_rabies_03.vsnd"
-							"vsnd13"		"sounds/music/contagion/l4d2_rabies_04.vsnd"
-							"vsnd14"		"sounds/music/contagion/l4d2_rabies_05.vsnd"
-							"vsnd15"		"sounds/music/contagion/l4d2_rabies_06.vsnd"
-							"vsnd16"		"sounds/music/contagion/l4d2_rabies_07.vsnd"
-							"vsnd17"		"sounds/music/contagion/l4d2_rabies_08.vsnd"
-							"vsnd18"		"sounds/music/contagion/l4d2_rabies_09.vsnd"
-							"vsnd19"		"sounds/music/contagion/l4d2_rabies_10.vsnd"
-							"vsnd20"		"sounds/music/contagion/l4d2_rabies_11.vsnd"
-							"vsnd21"		"sounds/music/contagion/l4d2_rabies_12.vsnd"
-							"vsnd22"		"sounds/music/contagion/l4d2_rabies_13.vsnd"
-							"vsnd23"		"sounds/music/contagion/l4d2_rabies_14.vsnd"
-							"vsnd24"		"sounds/music/contagion/l4d2_rabies_15.vsnd"
-							"vsnd25"		"sounds/music/contagion/l4d2_rabies_16.vsnd"
-							"vsnd26"		"sounds/music/contagion/l4d2_rabies_17.vsnd"
-							"vsnd27"		"sounds/music/contagion/l4d2_rabies_18.vsnd"
-							"vsnd28"		"sounds/music/contagion/l4d2_rabies_19.vsnd"
-							"vsnd29"		"sounds/music/contagion/l4d2_rabies_20.vsnd"
-							"vsnd30"		"sounds/music/contagion/l4d2_rabies_21.vsnd"
-							"vsnd31"		"sounds/music/contagion/l4d2_rabies_22.vsnd"
-						}
-					}
-					"volume_rand_min"
-					{
-						"value"		"-0.099976"
-					}
-					"volume_rand_max"
-					{
-						"value"		"0.099976"
-					}
-					"volume"
-					{
-						"value"		"0.699585"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume_rand_min = -0.099976
+		volume_rand_max = 0.099976
+		volume = 0.699585
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/contagion/c6rabies_01.vsnd",
+			"sounds/music/contagion/c6rabies_02.vsnd",
+			"sounds/music/contagion/c6rabies_03.vsnd",
+			"sounds/music/contagion/c6rabies_04.vsnd",
+			"sounds/music/contagion/c6rabies_05.vsnd",
+			"sounds/music/contagion/c6rabies_06.vsnd",
+			"sounds/music/contagion/c6rabies_07.vsnd",
+			"sounds/music/contagion/c6rabies_08.vsnd",
+			"sounds/music/contagion/c6rabies_09.vsnd",
+			"sounds/music/contagion/c6rabies_10.vsnd",
+			"sounds/music/contagion/l4d2_rabies_01.vsnd",
+			"sounds/music/contagion/l4d2_rabies_02.vsnd",
+			"sounds/music/contagion/l4d2_rabies_03.vsnd",
+			"sounds/music/contagion/l4d2_rabies_04.vsnd",
+			"sounds/music/contagion/l4d2_rabies_05.vsnd",
+			"sounds/music/contagion/l4d2_rabies_06.vsnd",
+			"sounds/music/contagion/l4d2_rabies_07.vsnd",
+			"sounds/music/contagion/l4d2_rabies_08.vsnd",
+			"sounds/music/contagion/l4d2_rabies_09.vsnd",
+			"sounds/music/contagion/l4d2_rabies_10.vsnd",
+			"sounds/music/contagion/l4d2_rabies_11.vsnd",
+			"sounds/music/contagion/l4d2_rabies_12.vsnd",
+			"sounds/music/contagion/l4d2_rabies_13.vsnd",
+			"sounds/music/contagion/l4d2_rabies_14.vsnd",
+			"sounds/music/contagion/l4d2_rabies_15.vsnd",
+			"sounds/music/contagion/l4d2_rabies_16.vsnd",
+			"sounds/music/contagion/l4d2_rabies_17.vsnd",
+			"sounds/music/contagion/l4d2_rabies_18.vsnd",
+			"sounds/music/contagion/l4d2_rabies_19.vsnd",
+			"sounds/music/contagion/l4d2_rabies_20.vsnd",
+			"sounds/music/contagion/l4d2_rabies_21.vsnd",
+			"sounds/music/contagion/l4d2_rabies_22.vsnd",
+		]
 	}
-}
-"Event.LoneSurvivor"
-{
-	"operator_stacks"
+	"Event.LoneSurvivor" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/terror/walkingdead.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"100.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 100.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/terror/walkingdead.vsnd",
+		]
 	}
-}
-"c6m1.SaveMeSomeSugar"
-{
-	"operator_stacks"
+	"c6m1.SaveMeSomeSugar" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/flu/jukebox/save_me_some_sugar_mono.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"95.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 95.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/flu/jukebox/save_me_some_sugar_mono.vsnd",
+		]
 	}
-}
-"Jukebox.SaveMeSomeSugar"
-{
-	"operator_stacks"
+	"Jukebox.SaveMeSomeSugar" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_3d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/flu/jukebox/save_me_some_sugar_mono.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"soundlevel"
-					{
-						"value"		"80.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_3d"
+		volume = 1.0
+		pitch = 1.0
+		soundlevel = 80.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/flu/jukebox/save_me_some_sugar_mono.vsnd",
+		]
 	}
-}
-"Event.WitchRageBride"
-{
-	"operator_stacks"
+	"Event.WitchRageBride" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd"		"sounds/music/witch/witchencroacher_bride.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"1.000000"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 1.0
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/witch/witchencroacher_bride.vsnd",
+		]
 	}
-}
-"Event.Zombat_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/horde/horde_02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.899902
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/horde/horde_02.vsnd",
+		]
 	}
-}
-"Event.Zombat_A_1_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat_A_1_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/horde/horde_01.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.899902
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/horde/horde_01.vsnd",
+		]
 	}
-}
-"Event.Zombat_B_1_ThePassing"
-{
-	"operator_stacks"
+	"Event.Zombat_B_1_ThePassing" = 
 	{
-		"update_stack"
-		{
-			"reference_operator"
-			{
-				"operator"		"sos_reference_stack"
-				"reference_stack"		"src1_2d"
-				"operator_variables"
-				{
-					"vsnd_files"
-					{
-						"value"
-						{
-							"vsnd0"		"sounds/music/zombat/horde/horde_02.vsnd"
-						}
-					}
-					"volume"
-					{
-						"value"		"0.899902"
-					}
-					"pitch"
-					{
-						"value"		"1.000000"
-					}
-					"limiter_on"
-					{
-						"value"		"0.000000"
-					}
-				}
-			}
-		}
+		type = "src1_2d"
+		volume = 0.899902
+		pitch = 1.0
+		limiter_on = 0.0
+		vsnd_files = 
+		[
+			"sounds/music/zombat/horde/horde_02.vsnd",
+		]
 	}
 }

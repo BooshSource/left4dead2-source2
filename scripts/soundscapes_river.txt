@@ -22,7 +22,7 @@
 	{
 		"volume"	"0.8"
 		"pitch"		"100"
-		"wave"		"ambient/atmosphere/crucial_town_ambience.wav"
+		"wave"		"sounds/ambient/atmosphere/crucial_town_ambience.vsnd"
 	}
 
 	// wind gusts
@@ -34,8 +34,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/wind/wind_med1.wav"
-			"wave"	"ambient/wind/wind_med2.wav"
+			"wave"	"sounds/ambient/wind/wind_med1.vsnd"
+			"wave"	"sounds/ambient/wind/wind_med2.vsnd"
 		}
 	}
 	"playsoundscape"
@@ -55,7 +55,7 @@
 	{
 		"volume"	".15"
 		"pitch"		"100"
-		"wave"		"ambient/water/dock_close_loop.wav"
+		"wave"		"sounds/ambient/water/dock_close_loop.vsnd"
 	
 	}
 
@@ -71,12 +71,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull02.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull03.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull04.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull05.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull06.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull04.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull05.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull06.vsnd"
 		}
 	}
 	//foghorn
@@ -91,8 +91,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -113,12 +113,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak01.wav"
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak02.wav"
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak03.wav"
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak04.wav"
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak05.wav"
-			"wave"	"ambient/random_amb_sfx/wood_floor_squeak06.wav"										
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/wood_floor_squeak06.vsnd"										
 		}
 	}
 	
@@ -132,10 +132,10 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/bridgeropesqueak01.wav"
-			"wave"	"ambient/random_amb_sfx/bridgeropesqueak02.wav"
-			"wave"	"ambient/random_amb_sfx/bridgeropesqueak03.wav"
-			"wave"	"ambient/random_amb_sfx/bridgeropesqueak04.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/bridgeropesqueak01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/bridgeropesqueak02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/bridgeropesqueak03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/bridgeropesqueak04.vsnd"
 		}
 	}
 
@@ -150,7 +150,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/wind/crucial_wind_outdoors_1.wav"
+		"wave"		"sounds/ambient/wind/crucial_wind_outdoors_1.vsnd"
 	}
 
 	// underlying area "tone"
@@ -158,7 +158,7 @@
 	{
 		"volume"	".3"
 		"pitch"		"100"
-		"wave"		"ambient/levels/caves/cave_crickets_loop1.wav"
+		"wave"		"sounds/ambient/levels/caves/cave_crickets_loop1.vsnd"
 	}
 
 
@@ -172,11 +172,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/nature/wind_leaves_mild_gust_1.wav"
-			"wave"	"ambient/levels/forest/treewind1.wav"
-			"wave"	"ambient/levels/forest/treewind2.wav"
-			"wave"	"ambient/levels/forest/treewind3.wav"
-			"wave"	"ambient/levels/forest/treewind4.wav"
+			"wave"	"sounds/ambient/nature/wind_leaves_mild_gust_1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind1.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind2.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind3.vsnd"
+			"wave"	"sounds/ambient/levels/forest/treewind4.vsnd"
 		}
 	}
 	// wind gusts with leaves
@@ -189,9 +189,9 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle01.wav"
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle02.wav"
-			"wave"	"ambient/Random_Amb_SFX/Leaves_Rustle03.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Leaves_Rustle03.vsnd"
 			
 		}
 	}
@@ -208,8 +208,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -226,12 +226,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull02.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull03.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull04.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull05.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull06.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull04.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull05.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull06.vsnd"
 		}
 	}
 }
@@ -244,7 +244,7 @@
 	{
 		"volume"	"0.6"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/crucial_Urban_Rooftop_AmbLoop01.wav"
+		"wave"		"sounds/ambient/Ambience/crucial_Urban_Rooftop_AmbLoop01.vsnd"
 	}
 
 	// underlying area "tone"
@@ -252,7 +252,7 @@
 	{
 		"volume"	"0.8"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/crucial_AirportAmbWindOutside.wav"
+		"wave"		"sounds/ambient/ambience/crucial_AirportAmbWindOutside.vsnd"
 	}
 
 	//foghorn
@@ -267,8 +267,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -291,7 +291,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -300,7 +300,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -309,7 +309,7 @@
 		"position"	"2"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -325,7 +325,7 @@
 	"playlooping"
 	{
 		"position"		"4"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -349,7 +349,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
 
@@ -358,7 +358,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -367,7 +367,7 @@
 		"position"	"2"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"		
 	}
 
@@ -383,7 +383,7 @@
 	"playlooping"
 	{
 		"position"		"4"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -409,8 +409,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/Blowing_papers01.wav"
-			"wave"	"ambient/Random_Amb_SFX/Blowing_papers02.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Blowing_papers01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/Blowing_papers02.vsnd"
 			
 		}
 	}
@@ -419,7 +419,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/StreetWind01_loop.wav"
+		"wave"		"sounds/ambient/Ambience/StreetWind01_loop.vsnd"
 		"position"	"random"
 	}
 
@@ -435,12 +435,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull02.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull03.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull04.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull05.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull06.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull04.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull05.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull06.vsnd"
 		}
 	}
 	
@@ -456,8 +456,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -467,7 +467,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -476,7 +476,7 @@
 		"position"	"1"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 
@@ -493,7 +493,7 @@
 		"position"	"3"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 
@@ -502,14 +502,14 @@
 		"position"	"4"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 		// flare
 	"playlooping"
 	{
 		"position"		"5"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -538,12 +538,12 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull01.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull02.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull03.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull04.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull05.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_Seagull06.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull01.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull02.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull03.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull04.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull05.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_Seagull06.vsnd"
 		}
 	}
 		//foghorn
@@ -558,8 +558,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
-			"wave"	"ambient/Random_Amb_SFX/RUR5b_DistFoghorn.wav"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
+			"wave"	"sounds/ambient/Random_Amb_SFX/RUR5b_DistFoghorn.vsnd"
 
 		}
 	}
@@ -568,7 +568,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
 
@@ -586,7 +586,7 @@
 		"position"	"2"
 		"volume"	".7"
 		"pitch"		"120"
-		"wave"		"ambient/gas/steam_loop1.wav"
+		"wave"		"sounds/ambient/gas/steam_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_50dB"
 		
 	}
@@ -596,7 +596,7 @@
 		"position"	"3"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 	
@@ -605,7 +605,7 @@
 		"position"	"4"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -614,7 +614,7 @@
 		"position"	"5"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
 	
@@ -622,7 +622,7 @@
 	"playlooping"
 	{
 		"position"		"6"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -644,7 +644,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -662,7 +662,7 @@
 		"position"	"2"
 		"volume"	".7"
 		"pitch"		"120"
-		"wave"		"ambient/gas/steam_loop1.wav"
+		"wave"		"sounds/ambient/gas/steam_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_50dB"			
 	}
 
@@ -671,7 +671,7 @@
 		"position"	"3"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
 	
@@ -679,7 +679,7 @@
 	"playlooping"
 	{
 		"position"		"4"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -689,7 +689,7 @@
 	"playlooping"
 	{
 		"position"		"5"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -704,7 +704,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/crucial_bigwarehouseamb_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_bigwarehouseamb_loop.vsnd"
 	}
 	
 		"playrandom"
@@ -717,11 +717,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/building_rubble1.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble2.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble3.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble4.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble5.wav"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble1.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble2.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble3.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble4.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble5.vsnd"
 		}
 	}
 
@@ -731,7 +731,7 @@
 		"position"	"0"
 		"volume"	".7"
 		"pitch"		"120"
-		"wave"		"ambient/gas/steam_loop1.wav"
+		"wave"		"sounds/ambient/gas/steam_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_50dB"
 		
 	}
@@ -751,7 +751,7 @@
 		"position"	"2"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"vehicles/v8/van_idle_loop1.wav"
+		"wave"		"sounds/vehicles/v8/van_idle_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_90dB"
 	}
 	
@@ -759,7 +759,7 @@
 	"playlooping"
 	{
 		"position"		"3"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -769,7 +769,7 @@
 	"playlooping"
 	{
 		"position"		"4"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -779,7 +779,7 @@
 	"playlooping"
 	{
 		"position"		"5"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -801,7 +801,7 @@
 	"playlooping"
 	{
 		"position"		"0"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -813,7 +813,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"vehicles/v8/van_idle_loop1.wav"
+		"wave"		"sounds/vehicles/v8/van_idle_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
 	
@@ -821,7 +821,7 @@
 	"playlooping"
 	{
 		"position"		"2"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -831,7 +831,7 @@
 	"playlooping"
 	{
 		"position"		"3"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -852,7 +852,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}	
 		"playlooping"
@@ -860,7 +860,7 @@
 		"position"	"1"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 
@@ -869,7 +869,7 @@
 		"position"	"2"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}	
 	
@@ -878,7 +878,7 @@
 		"position"	"3"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 	
@@ -887,7 +887,7 @@
 		"position"	"4"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 }
@@ -908,7 +908,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"vehicles/v8/van_idle_loop1.wav"
+		"wave"		"sounds/vehicles/v8/van_idle_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
 	
@@ -916,7 +916,7 @@
 	"playlooping"
 	{
 		"position"		"1"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -954,7 +954,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -963,7 +963,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -972,7 +972,7 @@
 		"position"	"2"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 	
@@ -981,7 +981,7 @@
 		"position"	"3"
 		"volume"	".7"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/rur5b_cricket_loopl.wav"
+		"wave"		"sounds/ambient/Ambience/rur5b_cricket_loopl.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"			
 	}
 	
@@ -1005,7 +1005,7 @@
 		"position"	"6"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}	
 }
@@ -1037,11 +1037,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/cable_rattle01.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle02.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle03.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle04.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle05.wav"									
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle05.vsnd"									
 		}
 	}
 	
@@ -1055,16 +1055,16 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx01.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx02.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx03.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx04.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx05.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx06.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx07.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx08.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx09.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx10.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx10.vsnd"
 		}
 	}
 	
@@ -1078,16 +1078,16 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb01.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb02.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb03.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb04.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb05.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb06.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb07.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb08.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb09.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb10.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb10.vsnd"
 		}
 	}
 
@@ -1096,7 +1096,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 	
@@ -1105,7 +1105,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 	
@@ -1114,7 +1114,7 @@
 		"position"	"2"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/RUR5b_WatersEdgeAmb.wav"
+		"wave"		"sounds/ambient/Ambience/RUR5b_WatersEdgeAmb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 	
@@ -1122,7 +1122,7 @@
 	"playlooping"
 	{
 		"position"		"3"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -1132,7 +1132,7 @@
 	"playlooping"
 	{
 		"position"		"4"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -1147,7 +1147,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/Ambience/urb_3b_seweramb.wav"
+		"wave"		"sounds/ambient/Ambience/urb_3b_seweramb.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}
 
@@ -1161,11 +1161,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/cable_rattle01.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle02.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle03.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle04.wav"
-			"wave"	"ambient/random_amb_sfx/cable_rattle05.wav"									
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/cable_rattle05.vsnd"									
 		}
 	}
 	
@@ -1179,16 +1179,16 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx01.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx02.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx03.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx04.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx05.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx06.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx07.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx08.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx09.wav"
-			"wave"	"ambient/random_amb_sfx/rur5b_dockedboat_sfx10.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/rur5b_dockedboat_sfx10.vsnd"
 		}
 	}
 	
@@ -1201,8 +1201,8 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/wind/wind_med1.wav"
-			"wave"	"ambient/wind/wind_med2.wav"
+			"wave"	"sounds/ambient/wind/wind_med1.vsnd"
+			"wave"	"sounds/ambient/wind/wind_med2.vsnd"
 		}
 	}
 
@@ -1236,16 +1236,16 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb01.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb02.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb03.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb04.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb05.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb06.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb07.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb08.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb09.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb10.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb10.vsnd"
 		}
 	}
 	
@@ -1259,16 +1259,16 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb01.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb02.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb03.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb04.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb05.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb06.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb07.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb08.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb09.wav"
-			"wave"	"ambient/random_amb_sfx/metalscrapeverb10.wav"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb01.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb02.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb03.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb04.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb05.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb06.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb07.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb08.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb09.vsnd"
+			"wave"	"sounds/ambient/random_amb_sfx/metalscrapeverb10.vsnd"
 		}
 	}
 }
@@ -1287,7 +1287,7 @@
 	"playlooping"
 	{
 		"position"		"0"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
@@ -1299,7 +1299,7 @@
 		"position"	"1"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"vehicles/v8/van_idle_loop1.wav"
+		"wave"		"sounds/vehicles/v8/van_idle_loop1.vsnd"
 		"soundlevel" 	"SNDLVL_85dB"
 	}
 	
@@ -1307,7 +1307,7 @@
 	"playlooping"
 	{
 		"position"		"2"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"100"
@@ -1317,7 +1317,7 @@
 	"playlooping"
 	{
 		"position"		"3"
-		"wave"		"ambient/Spacial_Loops/4b_hospatrium_waterleak.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/4b_hospatrium_waterleak.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"80"
@@ -1328,7 +1328,7 @@
 		"position"	"4"
 		"volume"	"1"
 		"pitch"		"110"
-		"wave"		"ambient/Spacial_Loops/MediumFire_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/MediumFire_Loop.vsnd"
 		"soundlevel" 	"SNDLVL_80dB"
 	}	
 	
@@ -1336,7 +1336,7 @@
 	"playlooping"
 	{
 		"position"		"5"
-		"wave"		"ambient/fire/fire_small_loop2.wav"
+		"wave"		"sounds/ambient/fire/fire_small_loop2.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"120"
@@ -1351,7 +1351,7 @@
 	{
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/ambience/crucial_bigwarehouseamb_loop.wav"
+		"wave"		"sounds/ambient/ambience/crucial_bigwarehouseamb_loop.vsnd"
 	}
 	
 		"playrandom"
@@ -1364,11 +1364,11 @@
 
 		"rndwave"
 		{
-			"wave"	"ambient/levels/streetwar/building_rubble1.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble2.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble3.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble4.wav"
-			"wave"	"ambient/levels/streetwar/building_rubble5.wav"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble1.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble2.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble3.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble4.vsnd"
+			"wave"	"sounds/ambient/levels/streetwar/building_rubble5.vsnd"
 		}
 	}
 
@@ -1378,7 +1378,7 @@
 		"position"	"0"
 		"volume"	"1"
 		"pitch"		"100"
-		"wave"		"ambient/water/waterfountain_loop.wav"
+		"wave"		"sounds/ambient/water/waterfountain_loop.vsnd"
 		"soundlevel" 	"SNDLVL_70dB"
 	}
 	
@@ -1386,7 +1386,7 @@
 	"playlooping"
 	{
 		"position"		"1"
-		"wave"		"ambient/Spacial_Loops/VendingMachineHum_Loop.wav"
+		"wave"		"sounds/ambient/Spacial_Loops/VendingMachineHum_Loop.vsnd"
 		"soundlevel"	"SNDLVL_65dB"
 		"volume" 	"1"
 		"pitch"		"110"
