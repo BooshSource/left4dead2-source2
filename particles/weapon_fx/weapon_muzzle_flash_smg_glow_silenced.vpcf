@@ -1,0 +1,249 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 25
+	m_BoundingBoxMin = [ -64.0, -64.0, -64.0 ]
+	m_BoundingBoxMax = [ 64.0, 64.0, 64.0 ]
+	m_ConstantColor = [ 237, 237, 237, null ]
+	m_flMaximumSimTime = 0.015
+	m_flMinimumSimTime = 0.015
+	m_nMinimumFrames = 1
+	m_bShouldSort = false
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_nSequenceCombineMode = "SEQUENCE_COMBINE_MODE_USE_SEQUENCE_0"
+			m_flStartFadeSize = 0.4
+			m_flEndFadeSize = 0.65
+			m_bBlendFramesSeq0 = false
+			m_hTexture = resource:"materials/particle/smoke1/smoke1.vtex"
+			m_flAnimationRate = 30.0
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_PositionLock"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flEndScale = 1.25
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_bLocalCoords = true
+		},
+		{
+			_class = "C_INIT_RemapScalarToVector"
+			m_flInputMax = 0.011
+			m_vecOutputMin = [ -1.0, 0.0, 0.0 ]
+			m_vecOutputMax = [ 12.0, 0.0, 0.0 ]
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RemapScalar"
+			m_flStartTime = 0.0035
+			m_flEndTime = 0.01
+			m_flInputMax = 0.01
+			m_flOutputMin = 5.0
+			m_flOutputMax = 2.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RemapScalar"
+			m_flStartTime = 0.0
+			m_flEndTime = 0.0035
+			m_flInputMax = 0.0035
+			m_flOutputMin = 3.0
+			m_flOutputMax = 5.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RemapScalar"
+			m_flOutputMax = 0.0325
+			m_flOutputMin = 0.0425
+			m_nFieldOutput = 1
+			m_flInputMax = 0.01
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 50, 50, 50 ]
+			m_ColorMax = [ 59, 59, 59 ]
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 3
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+			m_nAlphaMax = 190
+			m_nAlphaMin = 180
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomYawFlip"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmitRate = 400.0
+			m_flEmissionDuration = 0.01
+		},
+	]
+}

@@ -1,0 +1,250 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 64
+	m_flMaxDrawDistance = 3000.0
+	m_flMinimumTimeStep = 0.07
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			VisibilityInputs = 
+			{
+				m_flDistanceInputMax = 2400.0
+				m_flDistanceInputMin = 2800.0
+				m_flRadiusScaleMin = 0.0
+				m_flInputMin = 1.0
+				m_nCPin = 0
+			}
+			m_nSequenceCombineMode = "SEQUENCE_COMBINE_MODE_USE_SEQUENCE_0"
+			m_flStartFadeSize = 0.21
+			m_flEndFadeSize = 0.325
+			m_flMaxSize = 0.21
+			m_flOverbrightFactor = 5.0
+			m_flAddSelfAmount = 1.0
+			m_bSaturateColorPreAlphaBlend = false
+			m_hTexture = resource:"materials/particle/fire_burning_character/fire_burning_character.vtex"
+			m_bAnimateInFPS = true
+			m_flAnimationRate = 16.0
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_Gravity = [ 0.0, 0.0, 128.0 ]
+			m_fDrag = 0.01
+		},
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_FadeOut"
+		},
+		{
+			_class = "C_OP_ColorInterpolate"
+			m_ColorFade = [ 57, 57, 57, null ]
+			m_flFadeStartTime = 0.4
+		},
+		{
+			_class = "C_OP_FadeIn"
+		},
+		{
+			_class = "C_OP_InterpolateRadius"
+			m_flStartScale = 0.6
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flRadiusMin = 32.0
+			m_flRadiusMax = 48.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+			m_nAlphaMin = 128
+			m_nAlphaMax = 150
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flDegreesMin = -8.0
+			m_flDegreesMax = 8.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_LocalCoordinateSystemSpeedMin = [ 60.0, 0.0, 10.0 ]
+			m_LocalCoordinateSystemSpeedMax = [ 110.0, 0.0, 35.0 ]
+			m_bUseHighestEndCP = true
+			m_fRadiusMax = 18.0
+			m_vecDistanceBias = [ 1.0, 1.0, 0.0 ]
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMax = [ 218, 218, 218 ]
+			m_ColorMin = [ 155, 155, 155 ]
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 4
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ 0.0, 0.0, 0.5 ]
+			m_OffsetMax = [ 0.0, 0.0, 0.5 ]
+			m_bLocalCoords = true
+			m_bProportional = true
+		},
+		{
+			_class = "C_INIT_InitialVelocityNoise"
+			m_flNoiseScale = 2.0
+			m_flNoiseScaleLoc = 1.0
+			m_vecOutputMin = [ -16.0, -16.0, 16.0 ]
+			m_vecOutputMax = [ 16.0, 16.0, 28.0 ]
+		},
+		{
+			_class = "C_INIT_SequenceLifeTime"
+			m_flFramerate = 15.0
+		},
+		{
+			_class = "C_INIT_RandomYawFlip"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_bLocalCoords = true
+			m_OffsetMax = [ 0.0, 22.0, 0.0 ]
+			m_OffsetMin = [ 0.0, -22.0, 0.0 ]
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+			m_flEmissionScale = 1.0
+			m_flEmitRate = 32.0
+		},
+	]
+	m_ForceGenerators = 
+	[
+		{
+			_class = "C_OP_RandomForce"
+			m_MinForce = [ -16.0, -16.0, -16.0 ]
+			m_MaxForce = [ 16.0, 16.0, 16.0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/fire_01l4d/fire_window_hotel_jet.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/fire_01l4d/fire_window_glow_hotel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/fire_01l4d/fire_window_flames_hotel.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/fire_01l4d/fire_window_embers.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/fire_01l4d/fire_window_smoke_hotel_2.vpcf"
+		},
+	]
+}

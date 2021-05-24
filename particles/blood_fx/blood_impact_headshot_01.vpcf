@@ -1,0 +1,251 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 32
+	m_flAggregateRadius = 256.0
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			m_nSequenceCombineMode = "SEQUENCE_COMBINE_MODE_USE_SEQUENCE_0"
+			m_bBlendFramesSeq0 = false
+			m_hTexture = resource:"materials/particle/headshot/headshot.vtex"
+			m_flOpTimeOffsetMax = 1.0
+			m_flAnimationRate = 2.0
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_flOpTimeOffsetMax = 1.0
+			m_Gravity = [ 0.0, 0.0, -405.0 ]
+			m_fDrag = 0.005125
+		},
+		{
+			_class = "C_OP_Decay"
+			m_flOpTimeOffsetMax = 1.0
+		},
+		{
+			_class = "C_OP_FadeOut"
+			m_flOpTimeOffsetMax = 1.0
+			m_bProportional = false
+		},
+		{
+			_class = "C_OP_OscillateScalar"
+			m_flOpTimeOffsetMax = 1.0
+			m_nField = "4"
+			m_RateMin = -0.035
+			m_RateMax = 0.035
+			m_FrequencyMin = 0.2
+			m_FrequencyMax = 0.4
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomAlpha"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_fLifetimeMin = 0.5
+			m_fLifetimeMax = 1.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_flOpTimeOffsetMax = 1.0
+			m_fRadiusMax = 4.0
+			m_fSpeedMax = 50.0
+			m_LocalCoordinateSystemSpeedMin = [ -120.0, 0.0, 80.0 ]
+			m_LocalCoordinateSystemSpeedMax = [ -50.0, 0.0, 170.0 ]
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomRadius"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_flRadiusMax = 2.5
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_nSequenceMin = 5
+			m_nSequenceMax = 9
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_TintMax = [ 56, 0, 0 ]
+			m_ColorMin = [ 12, 0, 0 ]
+			m_ColorMax = [ 36, 22, 22 ]
+			m_flTintPerc = 0.25
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_flOpTimeOffsetMax = 1.0
+			m_OffsetMin = [ 0.0, 0.0, 8.0 ]
+			m_OffsetMax = [ 0.0, 0.0, 8.0 ]
+			m_bLocalCoords = true
+		},
+		{
+			_class = "C_INIT_RandomYawFlip"
+			m_flOpStrengthMinScale = 0.0
+			m_flOpTimeOffsetMax = 1.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_flOpTimeOffsetMax = 1.0
+			m_nMaxEmittedPerFrame = 100
+			m_nParticlesToEmit = 12
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_headshot_01b.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_red_01_chunk.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_red_01_backspray.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_red_01_chunk.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_headshot_01e.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_headshot_01c.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_headshot_01d.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_impact_headshot_01g.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/blood_fx/blood_drops_c.vpcf"
+		},
+	]
+}

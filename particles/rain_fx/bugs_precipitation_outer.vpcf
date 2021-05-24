@@ -1,0 +1,274 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 40
+	m_nInitialParticles = 40
+	m_BoundingBoxMin = [ -30.0, -30.0, -30.0 ]
+	m_BoundingBoxMax = [ 30.0, 30.0, 30.0 ]
+	m_flConstantRadius = 0.7
+	m_ConstantColor = [ 0, 0, 0, null ]
+	m_flMaxDrawDistance = 1700.0
+	m_Renderers = 
+	[
+		{
+			_class = "C_OP_RenderSprites"
+			VisibilityInputs = 
+			{
+				m_flAlphaScaleMin = 1.0
+				m_flInputMin = 1.0
+			}
+			m_nSequenceCombineMode = "SEQUENCE_COMBINE_MODE_USE_SEQUENCE_0"
+			m_flMinSize = 0.0015
+			m_flMaxSize = 0.04
+			m_bBlendFramesSeq0 = false
+			m_hTexture = resource:"materials/particle/moth/moth.vtex"
+		},
+	]
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_Decay"
+		},
+		{
+			_class = "C_OP_BasicMovement"
+			m_fDrag = 0.02
+		},
+		{
+			_class = "C_OP_FadeOut"
+			m_bProportional = false
+			m_flFadeOutTimeMax = 1.0
+			m_flFadeOutTimeMin = 1.0
+		},
+		{
+			_class = "C_OP_FadeIn"
+			m_flFadeInTimeMin = 1.0
+			m_flFadeInTimeMax = 1.0
+			m_bProportional = false
+		},
+		{
+			_class = "C_OP_VelocityMatchingForce"
+			m_flSpdScale = 0.0025
+			m_flDirScale = 0.01525
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_RateMin = [ -0.5, -0.5, -0.31 ]
+			m_RateMax = [ 0.5, 0.5, 0.31 ]
+			m_FrequencyMin = [ 2.0, 2.0, 2.0 ]
+			m_FrequencyMax = [ 3.0, 3.0, 3.0 ]
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_RateMin = [ -0.5, -0.5, -0.25 ]
+			m_RateMax = [ 0.5, 0.5, 0.25 ]
+			m_FrequencyMin = [ 0.25, 0.25, 0.25 ]
+			m_FrequencyMax = [ 0.5, 0.5, 0.5 ]
+		},
+		{
+			_class = "C_OP_SetControlPointToCenter"
+			m_vecCP1Pos = [ 0.0, 0.0, -16.0 ]
+			m_nCP1 = 4
+		},
+		{
+			_class = "C_OP_OscillateScalar"
+			m_bProportional = false
+			m_FrequencyMin = 0.1
+			m_RateMax = 3.0
+			m_RateMin = -3.0
+			m_nField = "4"
+		},
+		{
+			_class = "C_OP_OscillateVector"
+			m_bProportional = false
+			m_FrequencyMin = [ 0.5, 0.5, 0.5 ]
+			m_RateMax = [ 5.0, 5.0, 5.0 ]
+			m_RateMin = [ -5.0, -5.0, -5.0 ]
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_CreateWithinSphere"
+			m_nControlPointNumber = 1
+			m_vecDistanceBias = [ 1.0, 1.0, 0.0 ]
+			m_fRadiusMax = 128.0
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMax = 16.0
+			m_fLifetimeMin = 6.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_PositionOffset"
+			m_OffsetMin = [ -100.0, -100.0, -180.0 ]
+			m_OffsetMax = [ 100.0, 100.0, 0.0 ]
+		},
+		{
+			_class = "C_INIT_RandomColor"
+			m_ColorMin = [ 0, 0, 0 ]
+			m_ColorMax = [ 30, 34, 26 ]
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomSequence"
+			m_nSequenceMax = 5
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomRotation"
+			m_flDegreesMax = 45.0
+			m_flDegreesMin = -45.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomAlpha"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomYawFlip"
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_ContinuousEmitter"
+		},
+	]
+	m_ForceGenerators = 
+	[
+		{
+			_class = "C_OP_RandomForce"
+			m_MinForce = [ -400.0, -400.0, -25.0 ]
+			m_MaxForce = [ 400.0, 400.0, 25.0 ]
+		},
+		{
+			_class = "C_OP_AttractToControlPoint"
+			m_fFalloffPower = -0.3
+			m_fForceAmount = 10.0
+		},
+		{
+			_class = "C_OP_AttractToControlPoint"
+			m_nControlPointNumber = 4
+			m_fFalloffPower = -0.05
+			m_fForceAmount = 50.0
+		},
+		{
+			_class = "C_OP_AttractToControlPoint"
+			m_fForceAmount = -100.0
+			m_fFalloffPower = 0.25
+			m_nControlPointNumber = 1
+		},
+		{
+			_class = "C_OP_TwistAroundAxis"
+			m_fForceAmount = 15.0
+		},
+	]
+	m_Constraints = 
+	[
+		{
+			_class = "C_OP_ConstrainDistance"
+			m_fMinDistance = 48.0
+			m_fMaxDistance = 400.0
+			m_nControlPointNumber = 1
+			m_CenterOffset = [ 0.0, 0.0, -180.0 ]
+		},
+		{
+			_class = "C_OP_PlanarConstraint"
+			m_nControlPointNumber = 1
+			m_PointOnPlane = [ 0.0, 0.0, -200.0 ]
+		},
+	]
+}

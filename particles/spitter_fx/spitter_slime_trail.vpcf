@@ -1,0 +1,131 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 16
+	m_nSkipRenderControlPoint = 0
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_BasicMovement"
+			m_fDrag = 0.2
+		},
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_nCP4 = 3
+			m_nCP2 = 3
+			m_vecCP1Pos = [ 3.0, 0.0, -3.0 ]
+			m_nCP1 = 2
+		},
+		{
+			_class = "C_OP_SetControlPointToImpactPoint"
+			m_CollisionGroupName = "DEBRIS"
+			m_flUpdateRate = 0.1
+			m_vecTraceDir = [ 0.0, 0.0, -1.0 ]
+			m_nCPIn = 2
+			m_nCPOut = 5
+		},
+	]
+	m_Initializers = 
+	[
+		{
+			_class = "C_INIT_RandomColor"
+			m_TintMax = [ 34, 119, 20 ]
+			m_flTintPerc = 0.5
+			m_ColorMax = [ 96, 225, 0 ]
+			m_ColorMin = [ 96, 225, 0 ]
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_RandomLifeTime"
+			m_fLifetimeMax = 9999.0
+			m_fLifetimeMin = 9999.0
+			m_flOpStartFadeInTime = 0.0
+			m_flOpEndFadeInTime = 0.0
+			m_flOpStartFadeOutTime = 0.0
+			m_flOpEndFadeOutTime = 0.0
+			m_flOpFadeOscillatePeriod = 0.0
+			m_bNormalizeToStopTime = false
+			m_flOpTimeOffsetMin = 0.0
+			m_flOpTimeOffsetMax = 0.0
+			m_nOpTimeOffsetSeed = 0
+			m_nOpTimeScaleSeed = 0
+			m_flOpTimeScaleMin = 1.0
+			m_flOpTimeScaleMax = 1.0
+			m_bDisableOperator = false
+			m_nOpEndCapState = -1
+			m_flOpStrength = "1.0"
+			m_Notes = ""
+		},
+		{
+			_class = "C_INIT_CreateWithinSphere"
+		},
+	]
+	m_Emitters = 
+	[
+		{
+			_class = "C_OP_InstantaneousEmitter"
+			m_nParticlesToEmit = 1
+		},
+	]
+	m_ForceGenerators = 
+	[
+		{
+			_class = "C_OP_RandomForce"
+			m_MaxForce = [ 80.0, 80.0, 0.0 ]
+			m_MinForce = [ -80.0, -80.0, -900.0 ]
+		},
+	]
+	m_Constraints = 
+	[
+		{
+			_class = "C_OP_ConstrainDistance"
+			m_fMaxDistance = 32.0
+			m_fMinDistance = 16.0
+		},
+		{
+			_class = "C_OP_PlanarConstraint"
+			m_PlaneNormal = [ 0.0, 1.0, 0.0 ]
+			m_PointOnPlane = [ 0.0, -1.0, 0.0 ]
+		},
+		{
+			_class = "C_OP_PlanarConstraint"
+			m_PlaneNormal = [ 0.0, 0.0, -1.0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/spitter_fx/spitter_drool.vpcf"
+		},
+		{
+			m_flDelay = 1.0
+			m_ChildRef = resource:"particles/spitter_fx/spitter_drool_droplets.vpcf"
+		},
+		{
+			m_flDelay = 1.2
+			m_ChildRef = resource:"particles/spitter_fx/spitter_drool.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/spitter_fx/spitter_slime_spot.vpcf"
+		},
+		{
+			m_ChildRef = resource:"particles/spitter_fx/spitter_drool_foam.vpcf"
+		},
+	]
+}

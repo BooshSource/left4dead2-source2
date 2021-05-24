@@ -1,0 +1,24 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	_class = "CParticleSystemDefinition"
+	m_bShouldHitboxesFallbackToRenderBounds = false
+	m_nMaxParticles = 0
+	m_hFallback = resource:"particles/weapon_fx/weapon_muzzle_flash_assaultrifle_fallback.vpcf"
+	m_nFallbackMaxCount = 3
+	m_flMaximumSimTime = 0.01
+	m_flMinimumSimTime = 0.01
+	m_flAggregateRadius = 64.0
+	m_Operators = 
+	[
+		{
+			_class = "C_OP_SetControlPointPositions"
+			m_vecCP1Pos = [ 17.5, 0.0, 0.0 ]
+		},
+	]
+	m_Children = 
+	[
+		{
+			m_ChildRef = resource:"particles/weapon_fx/weapon_muzzle_flash_assaultrifle_vent.vpcf"
+		},
+	]
+}
