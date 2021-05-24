@@ -1,0 +1,2536 @@
+"HudChat.Message"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/talk.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"VGUI_button.release"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/buttonclickrelease.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"VGUI_button.rollover"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/buttonrollover.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.Select"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/menu_horror01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.Cancel"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/buttonclickrelease.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.Scroll"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/menu_click04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.PopupScroll"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/buttonrollover.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.SideScroll"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/menu_click01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.StartGame"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/critical_event_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Menu.Timer"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/beep07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BaseCombatCharacter.StopWeaponSounds"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BaseCombatCharacter.AmmoPickup"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/items/itempickup.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.Swim"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/footsteps/survivor/run/wade1.vsnd"
+							"vsnd1"		"sounds/player/footsteps/survivor/run/wade2.vsnd"
+							"vsnd2"		"sounds/player/footsteps/survivor/run/wade3.vsnd"
+							"vsnd3"		"sounds/player/footsteps/survivor/run/wade4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.399902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.DrownContinue"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/footsteps/survivor/run/wade1.vsnd"
+							"vsnd1"		"sounds/player/footsteps/survivor/run/wade2.vsnd"
+							"vsnd2"		"sounds/player/footsteps/survivor/run/wade3.vsnd"
+							"vsnd3"		"sounds/player/footsteps/survivor/run/wade4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.PickupWeapon"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/items/itempickup.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.WeaponSelected"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/wpn_hudoff.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.WeaponSelectionOpen"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/wpn_hudoff.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.WeaponSelectionClose"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/wpn_hudoff.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.FallDamage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/damage1.vsnd"
+							"vsnd1"		"sounds/player/damage2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.FlashlightOn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/items/flashlight1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.FlashlightOff"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/items/flashlight1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SprayCan.Paint"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/sprayer.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Fire.Plasma"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/nature/fire/fire_small1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"fire_large"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/fire/fire_big_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"fire_medium"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/fire/fire_med_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.DenyWeaponSelection"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/wpn_hudoff.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.WeaponSelectionMoveSlot"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/wpn_hudoff.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"General.BurningFlesh"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/headcrab/headcrab_burning_loop2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"General.BurningObject"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/fire/fire_small_loop2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"General.StopBurning"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Splash.SplashSound"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/ambient/water/water_spray1.vsnd"
+							"vsnd1"		"sounds/ambient/water/water_spray2.vsnd"
+							"vsnd2"		"sounds/ambient/water/water_spray3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"0.950000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BaseCombatCharacter.CorpseGib"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/physics/flesh/flesh_squishy_impact_hard2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.FallGib"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/physics/flesh/flesh_bloody_break.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.PlasmaDamage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.SonicDamage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.DrownStart"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/footsteps/survivor/walk/wade1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.Wade"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/footsteps/survivor/run/wade1.vsnd"
+							"vsnd1"		"sounds/player/footsteps/survivor/run/wade2.vsnd"
+							"vsnd2"		"sounds/player/footsteps/survivor/run/wade3.vsnd"
+							"vsnd3"		"sounds/player/footsteps/survivor/run/wade4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.659668"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Player.AmbientUnderWater"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/water/underwater.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.299805"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Default.Reload"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Default.RearRight"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/rearright.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Default.Right"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/right.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.blank"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/blank.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"94.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Achievement.Earned"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/pickup_misc42.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"94.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Christmas.GiftDrop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/gift_drop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Christmas.GiftPickup"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/littlereward.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}

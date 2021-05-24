@@ -1,0 +1,211 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	SurfacePropertiesList = 
+	[
+		{
+			surfacePropertyName = "default"
+			gamematerial = "D"
+			jumpfactor = 1.0
+			maxspeedfactor = 1.0
+			climbable = false
+		},
+		{
+			surfacePropertyName = "solidmetal"
+			gamematerial = "M"
+		},
+		{
+			surfacePropertyName = "metalvehicle"
+			gamematerial = "M"
+		},
+		{
+			surfacePropertyName = "metalgrate"
+			gamematerial = "M"
+		},
+		{
+			surfacePropertyName = "metalvent"
+			gamematerial = "V"
+		},
+		{
+			surfacePropertyName = "metalpanel"
+			gamematerial = "V"
+		},
+		{
+			surfacePropertyName = "dirt"
+			gamematerial = "D"
+		},
+		{
+			surfacePropertyName = "mud"
+			gamematerial = "K"
+		},
+		{
+			surfacePropertyName = "slipperyslime"
+			jumpfactor = 0.7
+		},
+		{
+			surfacePropertyName = "grass"
+			gamematerial = "J"
+		},
+		{
+			surfacePropertyName = "sugarcane"
+			gamematerial = "J"
+		},
+		{
+			surfacePropertyName = "tile"
+			gamematerial = "T"
+		},
+		{
+			surfacePropertyName = "Wood"
+			gamematerial = "W"
+		},
+		{
+			surfacePropertyName = "water"
+			gamematerial = "S"
+		},
+		{
+			surfacePropertyName = "wet"
+			gamematerial = "S"
+		},
+		{
+			surfacePropertyName = "puddle"
+			gamematerial = "10"
+		},
+		{
+			surfacePropertyName = "slime"
+			gamematerial = "S"
+		},
+		{
+			surfacePropertyName = "wade"
+			gamematerial = "X"
+		},
+		{
+			surfacePropertyName = "ladder"
+			gamematerial = "X"
+			climbable = true
+		},
+		{
+			surfacePropertyName = "woodladder"
+			gamematerial = "X"
+			climbable = true
+		},
+		{
+			surfacePropertyName = "glass"
+			gamematerial = "Y"
+		},
+		{
+			surfacePropertyName = "computer"
+			gamematerial = "P"
+		},
+		{
+			surfacePropertyName = "concrete"
+			gamematerial = "C"
+		},
+		{
+			surfacePropertyName = "asphalt"
+			gamematerial = "Q"
+		},
+		{
+			surfacePropertyName = "rock"
+			gamematerial = "3"
+		},
+		{
+			surfacePropertyName = "boulder"
+			gamematerial = "3"
+		},
+		{
+			surfacePropertyName = "brick"
+			gamematerial = "R"
+		},
+		{
+			surfacePropertyName = "chainlink"
+			gamematerial = "G"
+		},
+		{
+			surfacePropertyName = "chain"
+			gamematerial = "G"
+		},
+		{
+			surfacePropertyName = "flesh"
+			gamematerial = "F"
+		},
+		{
+			surfacePropertyName = "bloodyflesh"
+			gamematerial = "B"
+		},
+		{
+			surfacePropertyName = "alienflesh"
+			gamematerial = "H"
+		},
+		{
+			surfacePropertyName = "armorflesh"
+			gamematerial = "M"
+		},
+		{
+			surfacePropertyName = "carpet"
+			gamematerial = "7"
+		},
+		{
+			surfacePropertyName = "upholstery"
+			gamematerial = "9"
+		},
+		{
+			surfacePropertyName = "plaster"
+			gamematerial = "2"
+		},
+		{
+			surfacePropertyName = "sheetrock"
+			gamematerial = "5"
+		},
+		{
+			surfacePropertyName = "cardboard"
+			gamematerial = "U"
+		},
+		{
+			surfacePropertyName = "plastic_barrel"
+			gamematerial = "L"
+		},
+		{
+			surfacePropertyName = "Plastic_Box"
+			gamematerial = "L"
+		},
+		{
+			surfacePropertyName = "rubber"
+			gamematerial = "4"
+		},
+		{
+			surfacePropertyName = "rubbertire"
+			gamematerial = "4"
+		},
+		{
+			surfacePropertyName = "jeeptire"
+			gamematerial = "4"
+		},
+		{
+			surfacePropertyName = "pottery"
+			gamematerial = "1"
+		},
+		{
+			surfacePropertyName = "clay"
+			gamematerial = "1"
+		},
+		{
+			surfacePropertyName = "default_silent"
+			gamematerial = "X"
+		},
+		{
+			surfacePropertyName = "player_control_clip"
+			gamematerial = "I"
+		},
+		{
+			surfacePropertyName = "no_decal"
+			gamematerial = "I"
+		},
+		{
+			surfacePropertyName = "foliage"
+			gamematerial = "O"
+		},
+		{
+			surfacePropertyName = "slipperyslide"
+			jumpfactor = 0.7
+		},
+	]
+}

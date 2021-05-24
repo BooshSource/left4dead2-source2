@@ -1,0 +1,3122 @@
+"water_flood_finished_loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/water/water_flow_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.149902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"stirrer_loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/vehicles/airboat/pontoon_fast_water_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"65.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"floodgate_move_short"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/machines/floodgate_move_short1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"floodgate_stop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/machines/floodgate_stop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"floodgate_klaxon"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/alarms/klaxon1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.799805"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"floodgate_alarmbell_loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/alarms/alarm1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.399902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"diesel_generator"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/vehicles/diesel_loop2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"wood_creak1"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/ambient/materials/wood_creak1.vsnd"
+							"vsnd1"		"sounds/ambient/materials/wood_creak2.vsnd"
+							"vsnd2"		"sounds/ambient/materials/wood_creak3.vsnd"
+							"vsnd3"		"sounds/ambient/materials/wood_creak6.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"140.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"catwalkgroan01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/materials/metal_stress1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"train_move"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/machines/train_freight_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"130.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"train_crossing_bell"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/alarms/train_crossing_bell_loop1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"rope_creak"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/materials/metal_stress5.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.799805"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"boxcar_door_stop1"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/doors/door_metal_thin_open1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"boxcar_door_stop2"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/doors/door_metal_thin_close2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"heli_pass"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/machines/heli_pass_quick1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"substation_generators"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/atmosphere/indoor2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.399902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"drivein_movie"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"120.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.HighScore"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/highscore.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.StartUp"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/startwam.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"65.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.CountDown"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/countdown.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.LowScore"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/lowscore.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.PointScored"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/pointscored.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.popUp"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/popup.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.TimerBell"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/timer_bell.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.Music"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/music/wam_music.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.GameOver"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/wamover.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WAM.Attract"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/moustachio/whackpopup01.vsnd"
+							"vsnd1"		"sounds/npc/moustachio/whackpopup02.vsnd"
+							"vsnd2"		"sounds/npc/moustachio/whackpopup09.vsnd"
+							"vsnd3"		"sounds/npc/moustachio/whackpopup13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.150000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.ImpactAdrenaline"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/adrenaline_impact.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.Bell"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/bell_normal.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.BellBreakawy"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/bell_break.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.BellImpact"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/bell_impact.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.PuckSlide_up"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/puck_slide_up.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.PuckSlide_down"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/puck_slide_down.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.PuckImpact"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/puck_impact.vsnd"
+						}
+					}
+					"volume_rand_min"
+					{
+						"value"		"-0.099976"
+					}
+					"volume_rand_max"
+					{
+						"value"		"0.099976"
+					}
+					"volume"
+					{
+						"value"		"0.899780"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.puck_fail"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/puck_fail.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.puck_tick"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/buttons/button22.vsnd"
+						}
+					}
+					"volume_rand_min"
+					{
+						"value"		"-0.049988"
+					}
+					"volume_rand_max"
+					{
+						"value"		"0.049988"
+					}
+					"volume"
+					{
+						"value"		"0.549988"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Strongman.LightsOn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/light_on.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.StartLoop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/start_and_loop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Stop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/gallery_stop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Music"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/music/gallery_music.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.GnomeFTW"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/gnomeftw.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.PointScored"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/scoreregular.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.PointScored100"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/scoreregular.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.250000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Win"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/gallery_win.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Climber"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/climber.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.500000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Moustachio"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/moustachio/whackpopup01.vsnd"
+							"vsnd1"		"sounds/npc/moustachio/whackpopup02.vsnd"
+							"vsnd2"		"sounds/npc/moustachio/whackpopup03.vsnd"
+							"vsnd3"		"sounds/npc/moustachio/whackpopup04.vsnd"
+							"vsnd4"		"sounds/npc/moustachio/whackpopup05.vsnd"
+							"vsnd5"		"sounds/npc/moustachio/whackpopup06.vsnd"
+							"vsnd6"		"sounds/npc/moustachio/whackpopup07.vsnd"
+							"vsnd7"		"sounds/npc/moustachio/whackpopup08.vsnd"
+							"vsnd8"		"sounds/npc/moustachio/whackpopup09.vsnd"
+							"vsnd9"		"sounds/npc/moustachio/whackpopup10.vsnd"
+							"vsnd10"		"sounds/npc/moustachio/whackpopup11.vsnd"
+							"vsnd11"		"sounds/npc/moustachio/whackpopup12.vsnd"
+							"vsnd12"		"sounds/npc/moustachio/whackpopup13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gallery.Moustachio_hit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/moustachio/whacksmash01.vsnd"
+							"vsnd1"		"sounds/npc/moustachio/whacksmash02.vsnd"
+							"vsnd2"		"sounds/npc/moustachio/whacksmash03.vsnd"
+							"vsnd3"		"sounds/npc/moustachio/whacksmash04.vsnd"
+							"vsnd4"		"sounds/npc/moustachio/whacksmash05.vsnd"
+							"vsnd5"		"sounds/npc/moustachio/whacksmash06.vsnd"
+							"vsnd6"		"sounds/npc/moustachio/whacksmash07.vsnd"
+							"vsnd7"		"sounds/npc/moustachio/whacksmash08.vsnd"
+							"vsnd8"		"sounds/npc/moustachio/whacksmash09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/coaster_loop01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Loop2"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/coaster_loop02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Loop3"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/coaster_loop03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.DownShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/downhill01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.DownLong"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/downhill02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Climb_Loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/climb_loop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Climb_End"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/climb_end.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Stop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/loud/coaster_stop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"110.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Coaster.Crash"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"120.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"scavenge.generator_on_loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/generator_start_loop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"scavenge.generator_sputter_loop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/generator_sputter.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"scavenge.generator_turnoff"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/generator_stop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Jukebox.NeedleScratch"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/level/record_changer.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"3.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Jukebox.RecordStart"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}

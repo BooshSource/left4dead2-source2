@@ -1,0 +1,9060 @@
+"npc.bridge04a-01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04a-07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04a-07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.bridge04b-07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/05_military/bridge04b-07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast09"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast11"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast12"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast13"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast14"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast15"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast16"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast16.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast17"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast17.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast18"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast18.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast19"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast19.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton108"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton108.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton110"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton110.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton123"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton123.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton124"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton124.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInTransit01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiointransit01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInTransit03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiointransit03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInTransit06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiointransit06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInTransit07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiointransit07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInTransit08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiointransit08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioInitialBroadCast07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioinitialbroadcast07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton111"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton111.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioNag04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radionag04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton201"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton201.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton205"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton205.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton207"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton207.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioButton212"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radiobutton212.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.boatman_RadioArrived08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/boatman/radioarrived08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.639648"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.599609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast24"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast24.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast14"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast15"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast16"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast16.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.939941"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast17"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast17.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.889648"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast18"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast18.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton101"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton101.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton105"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton105.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton106"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton106.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton107"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton107.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton109"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton109.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton110"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton110.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton113"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton113.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.819824"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended11"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended12"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended16"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended16.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.819824"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended18"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended18.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended19"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended19.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.729980"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended20"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended20.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.919922"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended23"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended23.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.799805"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended25"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended25.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended28"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended28.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended31"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended31.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended32"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended32.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.819824"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended34"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended34.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended35"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended35.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended40"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended40.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended43"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended43.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioCombatColor01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiocombatcolor01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioCombatColor02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiocombatcolor02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.399902"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast09"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.689941"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast11"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.439941"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast12"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.689941"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast13"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton114"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton114.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast20"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast20.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast22"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast22.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.849609"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended13"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.689941"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioButton1Extended21"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiobutton1extended21.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioCombatColor03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiocombatcolor03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioCombatColor04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiocombatcolor04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioCombatColor05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radiocombatcolor05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast26"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast26.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast27"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast27.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast28"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast28.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.churchguy_RadioInitialBroadCast29"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/churchguy/radioinitialbroadcast29.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.639648"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInitialBroadCast06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioinitialbroadcast06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInitialBroadCast07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioinitialbroadcast07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInitialBroadCast09"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioinitialbroadcast09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInitialBroadCast10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioinitialbroadcast10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInitialBroadCast18"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioinitialbroadcast18.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioNag04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radionag04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioButton203"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiobutton203.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioButton205"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiobutton205.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioCombatColor08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiocombatcolor08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioCombatColor28"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiocombatcolor28.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInTransit01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiointransit01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInTransit02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiointransit02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInTransit03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiointransit03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInTransit04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiointransit04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioArrived01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioarrived01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioArrived10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radioarrived10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioButton104"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiobutton104.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioButton105"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiobutton105.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioCombatColor29"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiocombatcolor29.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.planepilot_RadioInTransit05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/planepilot/radiointransit05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioInitialBroadCast01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radioinitialbroadcast01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioInitialBroadCast06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radioinitialbroadcast06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton101"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton101.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton105"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton105.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton108"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton108.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton109"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton109.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton110"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton110.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton113"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton113.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioNag01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radionag01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton201"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton201.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton202"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton202.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton205"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton205.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton206"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton206.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton207"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton207.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton208"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton208.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton209"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton209.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioButton210"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radiobutton210.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"npc.soldier_RadioNag02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier/radionag02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}

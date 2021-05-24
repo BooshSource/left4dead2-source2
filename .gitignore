@@ -1,0 +1,51 @@
+# Compiled Content
+
+# *.vpk
+# *.los
+# *.ain
+*.vagrp_c
+*.vanim_c
+*.vmdl_c
+*.vmesh_c
+*.vphys_c
+*.vseq_c
+*.vmat_c
+*.vtex_c
+*.vsnd_c
+*.vsndevts_c
+*.vpcf_c
+*.vanmgrph_c
+# *.vpost_c
+# *.vrman_c
+*.bin
+# *.vxml_c
+# *.vjs_c
+# *.vcss_c
+
+# Blender and Other files
+
+*.blend
+*.blend1
+*.spp
+*.sbs
+
+# Source 1 Content
+
+*.vtf
+*.vmt
+*.qc
+*.smd
+
+# Images
+
+# *.tga
+# *.psd
+# *.png
+
+# Directories
+
+/materials/
+/models/
+/particles/
+/sounds/
+/models/decompiled/

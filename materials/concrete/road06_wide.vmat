@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/concrete/road06_wide.tga"
+	TextureNormal "materials/concrete/pavement_height_low-ssbump.tga"
+}

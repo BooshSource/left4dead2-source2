@@ -1,0 +1,1916 @@
+"Soldier2_CHATTER01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER09"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER11"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_CHATTER12"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/chatter12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag04"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag05"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag06"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag07"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag08"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag09"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag10"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag11"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag12"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag13"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag14"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag15"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_ChopperNag16"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_2d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/choppernag16.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_NAGS01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/nags01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_NAGS02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/nags02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_NAGS03"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/nags03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_SURVIVORTALK01"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/survivortalk01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Soldier2_SURVIVORTALK02"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/soldier2/survivortalk02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,248 @@
+"Coach.MeleeSwing"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/survivor/voice/coach/meleeswing01.vsnd"
+							"vsnd1"		"sounds/player/survivor/voice/coach/meleeswing02.vsnd"
+							"vsnd2"		"sounds/player/survivor/voice/coach/meleeswing03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.589844"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Gambler.MeleeSwing"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/survivor/voice/gambler/meleeswing01.vsnd"
+							"vsnd1"		"sounds/player/survivor/voice/gambler/meleeswing02.vsnd"
+							"vsnd2"		"sounds/player/survivor/voice/gambler/meleeswing03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.529785"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Mechanic.MeleeSwing"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/survivor/voice/mechanic/meleeswing01.vsnd"
+							"vsnd1"		"sounds/player/survivor/voice/mechanic/meleeswing02.vsnd"
+							"vsnd2"		"sounds/player/survivor/voice/mechanic/meleeswing03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.669922"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Producer.MeleeSwing"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/survivor/voice/producer/meleeswing01.vsnd"
+							"vsnd1"		"sounds/player/survivor/voice/producer/meleeswing02.vsnd"
+							"vsnd2"		"sounds/player/survivor/voice/producer/meleeswing03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.659668"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}

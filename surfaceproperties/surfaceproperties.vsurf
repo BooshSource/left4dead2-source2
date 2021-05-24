@@ -1,0 +1,1193 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	SurfacePropertiesList = 
+	[
+		{
+			surfacePropertyName = "default"
+			physics = 
+			{
+				density = 2000.0
+				elasticity = 0.25
+				friction = 0.8
+				dampening = 0.0
+				thickness = -1.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Default.BulletImpact"
+				scraperough = "Default.ScrapeRough"
+				scrapesmooth = "Default.ScrapeSmooth"
+				impacthard = "Default.ImpactHard"
+				impactsoft = "Default.ImpactSoft"
+				rolling = ""
+				break = ""
+				strain = ""
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.66
+				audiohardnessfactor = 1.0
+				audioroughnessfactor = 1.0
+				scrapeRoughThreshold = 0.5
+				impactHardThreshold = 0.5
+			}
+		},
+		{
+			surfacePropertyName = "solidmetal"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.1
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "SolidMetal.BulletImpact"
+				scraperough = "SolidMetal.ScrapeRough"
+				scrapesmooth = "SolidMetal.ScrapeSmooth"
+				impacthard = "SolidMetal.ImpactHard"
+				impactsoft = "SolidMetal.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.83
+			}
+		},
+		{
+			surfacePropertyName = "Metal_Box"
+			base = "solidmetal"
+			physics = 
+			{
+				thickness = 0.1
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Metal_Box.BulletImpact"
+				scraperough = "Metal_Box.ScrapeRough"
+				scrapesmooth = "Metal_Box.ScrapeSmooth"
+				impacthard = "Metal_Box.ImpactHard"
+				impactsoft = "Metal_Box.ImpactSoft"
+				break = "Metal_Box.Break"
+			}
+		},
+		{
+			surfacePropertyName = "metal"
+			base = "solidmetal"
+			physics = 
+			{
+				elasticity = 0.25
+				thickness = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "metalvehicle"
+			base = "metal"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.2
+				friction = 0.8
+				thickness = 0.1
+			}
+			audiosounds = 
+			{
+				scraperough = "SolidMetal.ScrapeRough"
+				scrapesmooth = "SolidMetal.ScrapeSmooth"
+				impacthard = "SolidMetal.ImpactHard"
+				impactsoft = "SolidMetal.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audioroughnessfactor = 0.1
+				impactHardThreshold = 0.5
+			}
+		},
+		{
+			surfacePropertyName = "metal_bouncy"
+			base = "solidmetal"
+			physics = 
+			{
+				density = 10000.0
+				elasticity = 1000.0
+				friction = 0.0
+			}
+		},
+		{
+			surfacePropertyName = "slipperymetal"
+			base = "metal"
+			physics = 
+			{
+				elasticity = 0.15
+				friction = 0.1
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.83
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "metalgrate"
+			physics = 
+			{
+				density = 1600.0
+				elasticity = 0.25
+				friction = 0.8
+				thickness = 0.5
+			}
+			audiosounds = 
+			{
+				bulletimpact = "MetalGrate.BulletImpact"
+				scraperough = "MetalGrate.ScrapeRough"
+				scrapesmooth = "MetalGrate.ScrapeSmooth"
+				impacthard = "MetalGrate.ImpactHard"
+				impactsoft = "MetalGrate.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.83
+			}
+		},
+		{
+			surfacePropertyName = "grate"
+			base = "metalgrate"
+		},
+		{
+			surfacePropertyName = "metalvent"
+			base = "metal_box"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.1
+				friction = 0.8
+				thickness = 0.04
+			}
+			audiosounds = 
+			{
+				impacthard = "MetalVent.ImpactHard"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "metalpanel"
+			base = "metal"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.2
+				friction = 0.8
+				thickness = 0.1
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "dirt"
+			physics = 
+			{
+				density = 1600.0
+				elasticity = 0.01
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Dirt.BulletImpact"
+				scraperough = "Dirt.Scrape"
+				impacthard = "Dirt.Impact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.03
+				audiohardnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "mud"
+			base = "dirt"
+			physics = 
+			{
+				friction = 0.6
+				dampening = 6.0
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "slipperyslime"
+			base = "dirt"
+			physics = 
+			{
+				friction = 0.1
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "grass"
+			base = "dirt"
+		},
+		{
+			surfacePropertyName = "sugarcane"
+			base = "dirt"
+		},
+		{
+			surfacePropertyName = "tile"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.3
+				friction = 0.8
+				thickness = 0.5
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Tile.BulletImpact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.99
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "Wood"
+			physics = 
+			{
+				density = 700.0
+				elasticity = 0.1
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Wood.BulletImpact"
+				scraperough = "Wood.ScrapeRough"
+				scrapesmooth = "Wood.ScrapeSmooth"
+				impacthard = "Wood.ImpactHard"
+				impactsoft = "Wood.ImpactSoft"
+				break = "Wood.Break"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audiohardnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "Wood_lowdensity"
+			base = "wood"
+			physics = 
+			{
+				density = 300.0
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Box"
+			base = "Wood"
+			audiosounds = 
+			{
+				bulletimpact = "Wood_Box.BulletImpact"
+				scraperough = "Wood_Box.ScrapeRough"
+				scrapesmooth = "Wood_Box.ScrapeSmooth"
+				impacthard = "Wood_Box.ImpactHard"
+				impactsoft = "Wood_Box.ImpactSoft"
+				break = "Wood_Box.Break"
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Crate"
+			base = "Wood"
+			audiosounds = 
+			{
+				scraperough = "Wood_Crate.ScrapeRough"
+				scrapesmooth = "Wood_Crate.ScrapeSmooth"
+				impacthard = "Wood_Crate.ImpactHard"
+				impactsoft = "Wood_Crate.ImpactSoft"
+				break = "Wood_Crate.Break"
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Plank"
+			base = "Wood_Box"
+			audiosounds = 
+			{
+				bulletimpact = "Wood_Plank.BulletImpact"
+				scraperough = "Wood_Plank.ScrapeRough"
+				scrapesmooth = "Wood_Plank.ScrapeSmooth"
+				impacthard = "Wood_Plank.ImpactHard"
+				impactsoft = "Wood_Plank.ImpactSoft"
+				break = "Wood_Plank.Break"
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Solid"
+			base = "Wood"
+			audiosounds = 
+			{
+				bulletimpact = "Wood_Solid.BulletImpact"
+				scraperough = "Wood_Solid.ScrapeRough"
+				scrapesmooth = "Wood_Solid.ScrapeSmooth"
+				impacthard = "Wood_Solid.ImpactHard"
+				impactsoft = "Wood_Solid.ImpactSoft"
+				break = "Wood_Solid.Break"
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Furniture"
+			base = "Wood_Box"
+			audiosounds = 
+			{
+				impactsoft = "Wood_Furniture.ImpactSoft"
+				break = "Wood_Furniture.Break"
+			}
+		},
+		{
+			surfacePropertyName = "Wood_Panel"
+			base = "Wood_Crate"
+			physics = 
+			{
+				thickness = 1.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Wood_Panel.BulletImpact"
+				scraperough = "Wood_Panel.ScrapeRough"
+				scrapesmooth = "Wood_Panel.ScrapeSmooth"
+				impacthard = "Wood_Panel.ImpactHard"
+				impactsoft = "Wood_Panel.ImpactSoft"
+				break = "Wood_Panel.Break"
+			}
+		},
+		{
+			surfacePropertyName = "water"
+			physics = 
+			{
+				density = 1000.0
+				elasticity = 0.1
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Water.BulletImpact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "wet"
+		},
+		{
+			surfacePropertyName = "puddle"
+		},
+		{
+			surfacePropertyName = "slime"
+			physics = 
+			{
+				density = 2000.0
+				elasticity = 0.1
+				friction = 0.9
+				dampening = 200.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Water.BulletImpact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "quicksand"
+			physics = 
+			{
+				density = 600.0
+				elasticity = 2.0
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 1.0
+			}
+		},
+		{
+			surfacePropertyName = "wade"
+			base = "water"
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+			}
+		},
+		{
+			surfacePropertyName = "ladder"
+			base = "metal"
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+			}
+		},
+		{
+			surfacePropertyName = "woodladder"
+			base = "wood"
+			audioparams = 
+			{
+				audioreflectivity = 0.33
+			}
+		},
+		{
+			surfacePropertyName = "glass"
+			physics = 
+			{
+				density = 2700.0
+				elasticity = 0.2
+				friction = 0.5
+				thickness = 0.5
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Glass.BulletImpact"
+				scraperough = "Glass.ScrapeRough"
+				scrapesmooth = "Glass.ScrapeSmooth"
+				impacthard = "Glass.ImpactHard"
+				impactsoft = "Glass.ImpactSoft"
+				break = "Glass.Break"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.66
+				audiohardnessfactor = 1.0
+				audioroughnessfactor = 0.0
+			}
+		},
+		{
+			surfacePropertyName = "computer"
+			base = "metal_box"
+			audiosounds = 
+			{
+				bulletimpact = "Computer.BulletImpact"
+				impacthard = "Computer.ImpactHard"
+				impactsoft = "Computer.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "concrete"
+			physics = 
+			{
+				density = 2400.0
+				elasticity = 0.2
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Concrete.BulletImpact"
+				scraperough = "Concrete.ScrapeRough"
+				scrapesmooth = "Concrete.ScrapeSmooth"
+				impacthard = "Concrete.ImpactHard"
+				impactsoft = "Concrete.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.66
+			}
+		},
+		{
+			surfacePropertyName = "asphalt"
+			base = "concrete"
+		},
+		{
+			surfacePropertyName = "rock"
+			base = "concrete"
+			audiosounds = 
+			{
+				scraperough = "Rock.ImpactHard"
+				scrapesmooth = "Rock.ImpactSoft"
+				impacthard = "Rock.ImpactHard"
+				impactsoft = "Rock.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "porcelain"
+			base = "rock"
+		},
+		{
+			surfacePropertyName = "boulder"
+			base = "rock"
+			audiosounds = 
+			{
+				scraperough = "Boulder.ScrapeRough"
+				scrapesmooth = "Boulder.ScrapeSmooth"
+				impacthard = "Boulder.ImpactHard"
+				impactsoft = "Boulder.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "gravel"
+			base = "dirt"
+		},
+		{
+			surfacePropertyName = "brick"
+			base = "rock"
+		},
+		{
+			surfacePropertyName = "concrete_block"
+			base = "concrete"
+			audiosounds = 
+			{
+				impacthard = "Concrete_Block.ImpactHard"
+			}
+		},
+		{
+			surfacePropertyName = "chainlink"
+			physics = 
+			{
+				density = 1600.0
+				elasticity = 0.25
+				friction = 0.8
+				thickness = 0.5
+			}
+			audiosounds = 
+			{
+				bulletimpact = "ChainLink.BulletImpact"
+				scraperough = "ChainLink.ScrapeRough"
+				scrapesmooth = "ChainLink.ScrapeSmooth"
+				impacthard = "ChainLink.ImpactHard"
+				impactsoft = "ChainLink.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "chain"
+			base = "chainlink"
+			audiosounds = 
+			{
+				bulletimpact = "ChainLink.BulletImpact"
+				scraperough = "ChainLink.ScrapeRough"
+				scrapesmooth = "ChainLink.ScrapeSmooth"
+				impacthard = "ChainLink.ImpactHard"
+				impactsoft = "ChainLink.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "flesh"
+			physics = 
+			{
+				density = 900.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Flesh.BulletImpact"
+				scraperough = "Flesh.ScrapeRough"
+				scrapesmooth = "Flesh.ScrapeSmooth"
+				impacthard = "Flesh.ImpactHard"
+				impactsoft = "Flesh.ImpactSoft"
+				break = "Flesh.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "bloodyflesh"
+			base = "flesh"
+			audiosounds = 
+			{
+				impacthard = "Flesh_Bloody.ImpactHard"
+			}
+		},
+		{
+			surfacePropertyName = "alienflesh"
+			base = "flesh"
+		},
+		{
+			surfacePropertyName = "armorflesh"
+			base = "flesh"
+			audiosounds = 
+			{
+				bulletimpact = "ArmorFlesh.BulletImpact"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 1.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "snow"
+			base = "dirt"
+			physics = 
+			{
+				density = 800.0
+				friction = 0.35
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "ice"
+			physics = 
+			{
+				density = 917.0
+				elasticity = 0.1
+				friction = 0.1
+			}
+			audioparams = 
+			{
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "carpet"
+			base = "dirt"
+			physics = 
+			{
+				density = 500.0
+				elasticity = 0.01
+				friction = 0.8
+				thickness = 0.1
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Carpet.BulletImpact"
+				scraperough = "Carpet.Scrape"
+				impacthard = "Carpet.Impact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.03
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "upholstery"
+			base = "dirt"
+			physics = 
+			{
+				density = 500.0
+				elasticity = 0.01
+				friction = 0.8
+				thickness = 0.1
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Carpet.BulletImpact"
+				scraperough = "Carpet.Scrape"
+				impacthard = "Carpet.Impact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.03
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "plaster"
+			base = "dirt"
+			audiosounds = 
+			{
+				bulletimpact = "drywall.ImpactHard"
+				scraperough = "ceiling_tile.ScrapeRough"
+				scrapesmooth = "ceiling_tile.ScrapeSmooth"
+				impacthard = "drywall.ImpactHard"
+				impactsoft = "drywall.ImpactSoft"
+				break = "Cardboard.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.5
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "sheetrock"
+			base = "dirt"
+			audiosounds = 
+			{
+				bulletimpact = "drywall.ImpactHard"
+				scraperough = "ceiling_tile.ScrapeRough"
+				scrapesmooth = "ceiling_tile.ScrapeSmooth"
+				impacthard = "drywall.ImpactHard"
+				impactsoft = "drywall.ImpactSoft"
+				break = "Cardboard.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.5
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "cardboard"
+			base = "dirt"
+			physics = 
+			{
+				density = 500.0
+				thickness = 0.25
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Cardboard.BulletImpact"
+				scraperough = "Cardboard.ScrapeRough"
+				scrapesmooth = "Cardboard.ScrapeSmooth"
+				impacthard = "Cardboard.ImpactHard"
+				impactsoft = "Cardboard.ImpactSoft"
+				break = "Cardboard.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "plastic_barrel"
+			physics = 
+			{
+				density = 500.0
+				elasticity = 0.01
+				friction = 0.8
+				thickness = 0.25
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Plastic_Barrel.BulletImpact"
+				scraperough = "Plastic_Barrel.ScrapeRough"
+				scrapesmooth = "Plastic_Barrel.ScrapeSmooth"
+				impacthard = "Plastic_Barrel.ImpactHard"
+				impactsoft = "Plastic_Barrel.ImpactSoft"
+				break = "Plastic_Barrel.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "Plastic_Box"
+			physics = 
+			{
+				density = 500.0
+				elasticity = 0.01
+				friction = 0.8
+				thickness = 0.25
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Plastic_Box.BulletImpact"
+				scraperough = "Plastic_Box.ScrapeRough"
+				scrapesmooth = "Plastic_Box.ScrapeSmooth"
+				impacthard = "Plastic_Box.ImpactHard"
+				impactsoft = "Plastic_Box.ImpactSoft"
+				break = "Plastic_Box.Break"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.25
+				audioroughnessfactor = 0.25
+			}
+		},
+		{
+			surfacePropertyName = "plastic"
+			base = "Plastic_Box"
+			audiosounds = 
+			{
+				bulletimpact = "Plastic_Box.ImpactHard"
+			}
+			audioparams = 
+			{
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "item"
+			base = "Plastic_Box"
+			physics = 
+			{
+				density = 600.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Plastic_Box.ImpactHard"
+			}
+		},
+		{
+			surfacePropertyName = "floatingstandable"
+			base = "dirt"
+			physics = 
+			{
+				density = 800.0
+			}
+		},
+		{
+			surfacePropertyName = "sand"
+			base = "dirt"
+			audiosounds = 
+			{
+				bulletimpact = "Sand.BulletImpact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.03
+			}
+		},
+		{
+			surfacePropertyName = "rubber"
+			base = "dirt"
+			physics = 
+			{
+				elasticity = 0.2
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Rubber.BulletImpact"
+				impacthard = "Rubber.ImpactHard"
+				impactsoft = "Rubber.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.2
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "rubbertire"
+			base = "rubber"
+			physics = 
+			{
+				friction = 1.0
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Rubber_Tire.BulletImpact"
+				impacthard = "Rubber_Tire.ImpactHard"
+				impactsoft = "Rubber_Tire.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "jeeptire"
+			base = "rubber"
+			physics = 
+			{
+				friction = 1.337
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Rubber_Tire.BulletImpact"
+				impacthard = "Rubber_Tire.ImpactHard"
+				impactsoft = "Rubber_Tire.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "slidingrubbertire"
+			base = "rubber"
+			physics = 
+			{
+				friction = 0.2
+			}
+		},
+		{
+			surfacePropertyName = "brakingrubbertire"
+			base = "rubber"
+			physics = 
+			{
+				friction = 0.6
+			}
+		},
+		{
+			surfacePropertyName = "slidingrubbertire_front"
+			base = "rubber"
+			physics = 
+			{
+				friction = 0.2
+			}
+		},
+		{
+			surfacePropertyName = "slidingrubbertire_rear"
+			base = "rubber"
+			physics = 
+			{
+				friction = 0.2
+			}
+		},
+		{
+			surfacePropertyName = "glassbottle"
+			base = "glass"
+			physics = 
+			{
+				elasticity = 0.3
+				friction = 0.4
+			}
+			audiosounds = 
+			{
+				bulletimpact = "GlassBottle.BulletImpact"
+				scraperough = "GlassBottle.ScrapeRough"
+				scrapesmooth = "GlassBottle.ScrapeSmooth"
+				impacthard = "GlassBottle.ImpactHard"
+				impactsoft = "GlassBottle.ImpactSoft"
+				break = "GlassBottle.Break"
+			}
+		},
+		{
+			surfacePropertyName = "pottery"
+			base = "glassbottle"
+			physics = 
+			{
+				elasticity = 0.3
+				friction = 0.4
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Pottery.BulletImpact"
+				impacthard = "Pottery.ImpactHard"
+				impactsoft = "Pottery.ImpactSoft"
+				break = "Pottery.Break"
+			}
+		},
+		{
+			surfacePropertyName = "clay"
+			base = "tile"
+		},
+		{
+			surfacePropertyName = "grenade"
+			base = "metalpanel"
+			physics = 
+			{
+				elasticity = 0.01
+				friction = 0.9
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Grenade.ImpactHard"
+				scraperough = "Grenade.ScrapeRough"
+				scrapesmooth = "Grenade.ScrapeSmooth"
+				impacthard = "Grenade.ImpactHard"
+				impactsoft = "Grenade.ImpactSoft"
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 1.0
+				audioroughnessfactor = 0.4
+			}
+		},
+		{
+			surfacePropertyName = "canister"
+			base = "metalpanel"
+			audiosounds = 
+			{
+				scraperough = "Canister.ScrapeRough"
+				scrapesmooth = "Canister.ScrapeSmooth"
+				impacthard = "Canister.ImpactHard"
+				impactsoft = "Canister.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "metal_barrel"
+			base = "metal_box"
+			audiosounds = 
+			{
+				bulletimpact = "Metal_Barrel.BulletImpact"
+				impacthard = "Metal_Barrel.ImpactHard"
+				impactsoft = "Metal_Barrel.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "floating_metal_barrel"
+			base = "metal_barrel"
+			physics = 
+			{
+				density = 500.0
+			}
+		},
+		{
+			surfacePropertyName = "plastic_barrel_buoyant"
+			base = "plastic_barrel"
+			physics = 
+			{
+				density = 150.0
+			}
+		},
+		{
+			surfacePropertyName = "roller"
+			base = "metalpanel"
+			physics = 
+			{
+				elasticity = 0.3
+				friction = 0.7
+			}
+			audiosounds = 
+			{
+				impacthard = "Roller.Impact"
+			}
+		},
+		{
+			surfacePropertyName = "popcan"
+			base = "metal_box"
+			physics = 
+			{
+				elasticity = 0.99
+				friction = 0.3
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Popcan.BulletImpact"
+				scraperough = "Popcan.ScrapeRough"
+				scrapesmooth = "Popcan.ScrapeSmooth"
+				impacthard = "Popcan.ImpactHard"
+				impactsoft = "Popcan.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "paintcan"
+			base = "popcan"
+			physics = 
+			{
+				elasticity = 0.99
+				friction = 0.3
+			}
+			audiosounds = 
+			{
+				impacthard = "Paintcan.ImpactHard"
+				impactsoft = "Paintcan.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "paper"
+			base = "cardboard"
+		},
+		{
+			surfacePropertyName = "papercup"
+			base = "paper"
+			physics = 
+			{
+				elasticity = 0.1
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				scraperough = "Popcan.ScrapeRough"
+				impacthard = "Papercup.Impact"
+			}
+		},
+		{
+			surfacePropertyName = "ceiling_tile"
+			base = "cardboard"
+			audiosounds = 
+			{
+				bulletimpact = "ceiling_tile.BulletImpact"
+				scraperough = "ceiling_tile.ScrapeRough"
+				scrapesmooth = "ceiling_tile.ScrapeSmooth"
+				impacthard = "ceiling_tile.ImpactHard"
+				impactsoft = "ceiling_tile.ImpactSoft"
+				break = "ceiling_tile.Break"
+			}
+		},
+		{
+			surfacePropertyName = "weapon"
+			base = "metal"
+			audiosounds = 
+			{
+				bulletimpact = "weapon.BulletImpact"
+				scraperough = "weapon.ScrapeRough"
+				scrapesmooth = "weapon.ScrapeSmooth"
+				impacthard = "weapon.ImpactHard"
+				impactsoft = "weapon.ImpactSoft"
+			}
+		},
+		{
+			surfacePropertyName = "default_silent"
+		},
+		{
+			surfacePropertyName = "player"
+			physics = 
+			{
+				density = 1000.0
+				elasticity = 0.001
+				friction = 0.5
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.0
+			}
+		},
+		{
+			surfacePropertyName = "player_control_clip"
+		},
+		{
+			surfacePropertyName = "no_decal"
+			physics = 
+			{
+				density = 900.0
+			}
+		},
+		{
+			surfacePropertyName = "foliage"
+			base = "Wood_Solid"
+			physics = 
+			{
+				density = 700.0
+				elasticity = 0.1
+				friction = 0.8
+			}
+		},
+		{
+			surfacePropertyName = "slipperyslide"
+			base = "solidmetal"
+			physics = 
+			{
+				friction = 0.1
+			}
+			audioparams = 
+			{
+				audiohardnessfactor = 0.0
+				audioroughnessfactor = 0.1
+			}
+		},
+		{
+			surfacePropertyName = "strongman_bell"
+			base = "solidmetal"
+			physics = 
+			{
+				friction = 0.8
+			}
+			audiosounds = 
+			{
+				bulletimpact = "Strongman.BellImpact"
+				scraperough = "SolidMetal.ScrapeRough"
+				scrapesmooth = "SolidMetal.ScrapeSmooth"
+				impacthard = "Strongman.BellImpact"
+				impactsoft = "Strongman.BellImpact"
+			}
+			audioparams = 
+			{
+				audioreflectivity = 0.83
+			}
+		},
+	]
+}

@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/concrete/road01turn_wet.tga"
+	TextureNormal "materials/concrete/road01turn_wet_normal.tga"
+}

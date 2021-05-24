@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/concrete/concrete_floor_02.tga"
+	TextureNormal "materials/concrete/sidewalk_01_ssb-ssbump.tga"
+}

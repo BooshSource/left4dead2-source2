@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Concrete/sidewalk.tga"
+	g_vColorTint "[ .8 .8 .8 ]"
+	TextureNormal "materials/Concrete/sidewalk_height-ssbump_wet.tga"
+}

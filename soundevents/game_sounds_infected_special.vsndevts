@@ -1,0 +1,8586 @@
+"HulkZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/idle/tank_voice_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/idle/tank_voice_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/idle/tank_voice_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/idle/tank_voice_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/idle/tank_voice_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/idle/tank_voice_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/idle/tank_voice_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/idle/tank_voice_08.vsnd"
+							"vsnd8"		"sounds/player/tank/voice/idle/tank_voice_09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Breathe"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/idle/tank_breathe_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/idle/tank_breathe_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/idle/tank_breathe_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/idle/tank_breathe_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/idle/tank_breathe_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/idle/tank_breathe_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/idle/tank_breathe_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/idle/tank_breathe_08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Growl"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/idle/tank_growl_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/idle/tank_growl_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/idle/tank_growl_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/idle/tank_growl_09.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/idle/tank_growl_10.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/idle/tank_growl_11.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/idle/tank_growl_12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Yell"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/yell/tank_yell_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/yell/tank_yell_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/yell/tank_yell_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/yell/tank_yell_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/yell/tank_yell_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/yell/tank_yell_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/yell/tank_yell_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/yell/tank_yell_08.vsnd"
+							"vsnd8"		"sounds/player/tank/voice/yell/tank_yell_09.vsnd"
+							"vsnd9"		"sounds/player/tank/voice/yell/tank_yell_10.vsnd"
+							"vsnd10"		"sounds/player/tank/voice/yell/tank_yell_12.vsnd"
+							"vsnd11"		"sounds/player/tank/voice/yell/tank_yell_16.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Attack"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/attack/tank_attack_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/attack/tank_attack_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/attack/tank_attack_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/attack/tank_attack_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/attack/tank_attack_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/attack/tank_attack_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/attack/tank_attack_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/attack/tank_attack_08.vsnd"
+							"vsnd8"		"sounds/player/tank/voice/attack/tank_attack_09.vsnd"
+							"vsnd9"		"sounds/player/tank/voice/attack/tank_attack_10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Throw.Fail"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/growl/tank_fail_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/growl/tank_fail_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/growl/tank_fail_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/growl/tank_fail_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/growl/tank_fail_05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"96.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Throw.Pickup"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/tank/attack/rip_up_rock_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Throw"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/yell/tank_throw_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/yell/tank_throw_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/yell/tank_throw_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/yell/tank_throw_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/yell/tank_throw_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/yell/tank_throw_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/yell/tank_throw_09.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/yell/tank_throw_10.vsnd"
+							"vsnd8"		"sounds/player/tank/voice/yell/tank_throw_11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Throw.FlyLoop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/tank/attack/thrown_missile_loop_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.StartLedgeClimb"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/growl/tank_climb_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/growl/tank_climb_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/growl/tank_climb_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/growl/tank_climb_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/growl/tank_climb_05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Punch"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/tank/hit/hulk_punch_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"1.025000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.PunchIncap"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/hit/pound_victim_1.vsnd"
+							"vsnd1"		"sounds/player/tank/hit/pound_victim_2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"1.025000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Die"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/die/tank_death_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/die/tank_death_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/die/tank_death_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/die/tank_death_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/die/tank_death_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/die/tank_death_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/die/tank_death_07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/pain/tank_pain_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/pain/tank_pain_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/pain/tank_pain_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/pain/tank_pain_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/pain/tank_pain_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/pain/tank_pain_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/pain/tank_pain_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/pain/tank_pain_08.vsnd"
+							"vsnd8"		"sounds/player/tank/voice/pain/tank_pain_09.vsnd"
+							"vsnd9"		"sounds/player/tank/voice/pain/tank_pain_10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.PainFire"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/tank/voice/pain/tank_fire_01.vsnd"
+							"vsnd1"		"sounds/player/tank/voice/pain/tank_fire_02.vsnd"
+							"vsnd2"		"sounds/player/tank/voice/pain/tank_fire_03.vsnd"
+							"vsnd3"		"sounds/player/tank/voice/pain/tank_fire_04.vsnd"
+							"vsnd4"		"sounds/player/tank/voice/pain/tank_fire_05.vsnd"
+							"vsnd5"		"sounds/player/tank/voice/pain/tank_fire_06.vsnd"
+							"vsnd6"		"sounds/player/tank/voice/pain/tank_fire_07.vsnd"
+							"vsnd7"		"sounds/player/tank/voice/pain/tank_fire_08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"0.960000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.Thud"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/tank/fall/tank_death_bodyfall_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HulkZombie.ThrownProjectileHit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/tank/hit/thrown_projectile_hit_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"150.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Despair"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/idle/female_cry_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/idle/female_cry_2.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/idle/female_cry_3.vsnd"
+							"vsnd3"		"sounds/npc/witch/voice/idle/female_cry_4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WanderWitchZombie.Despair"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/idle/walking_cry_07.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/idle/walking_cry_10.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/idle/walking_cry_11.vsnd"
+							"vsnd3"		"sounds/npc/witch/voice/idle/walking_cry_12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Scream"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/attack/female_distantscream1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/attack/female_distantscream2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Rage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/attack/female_shriek_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/attack/female_shriek_2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.RageBeforeKillingFrenzy"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/attack/witch_before_kill_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.KillingFrenzy"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/attack/female_shriek_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/attack/female_shriek_2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Surprised"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/mad/female_ls_b_attackgrunt16.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/mad/female_ls_b_surprised01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/pain/witch_pain_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/pain/witch_pain_2.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/pain/witch_pain_3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.PainFire"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/attack/female_shriek_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/attack/female_shriek_2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.GrowlLow"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/witch/voice/mad/zombiefemale_growl1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.GrowlMedium"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/witch/voice/mad/zombiefemale_growl6.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"1.025000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.GrowlHigh"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/mad/female_ls_d_madscream01.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/mad/female_ls_d_madscream02.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/mad/female_ls_d_madscream03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.RetreatHorror"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/retreat/horrified_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/retreat/horrified_2.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/retreat/horrified_3.vsnd"
+							"vsnd3"		"sounds/npc/witch/voice/retreat/horrified_4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.Die"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/npc/witch/voice/die/female_death_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.HeadShot"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/voice/die/headshot_death_1.vsnd"
+							"vsnd1"		"sounds/npc/witch/voice/die/headshot_death_2.vsnd"
+							"vsnd2"		"sounds/npc/witch/voice/die/headshot_death_3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"WitchZombie.ShredVictim"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/npc/witch/hit/hit_slimesplat3.vsnd"
+							"vsnd1"		"sounds/npc/witch/hit/hit_slimesplat4.vsnd"
+							"vsnd2"		"sounds/npc/witch/hit/hit_slimesplat5.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Warn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_01.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_12.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_13.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_14.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_15.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_16.vsnd"
+							"vsnd6"		"sounds/player/boomer/voice/warn/$gender_boomer_warning_17.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_04.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_05.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_07.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_10.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_11.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_12.vsnd"
+							"vsnd6"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_13.vsnd"
+							"vsnd7"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_14.vsnd"
+							"vsnd8"		"sounds/player/boomer/voice/alert/$gender_boomer_alert_15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_01.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_04.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_05.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_06.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_12.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Groan"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_02.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_03.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_07.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_09.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_10.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_13.vsnd"
+							"vsnd6"		"sounds/player/boomer/voice/idle/$gender_boomer_lurk_15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Gurgle"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/boomer/voice/idle/indigestion_loop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Rage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_05.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_07.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_09.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_10.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_11.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/attack/$gender_boomer_spotprey_12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Attack"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/attack/$gender_zombie10_growl1.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/attack/$gender_zombie10_growl2.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/attack/$gender_zombie10_growl3.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/attack/$gender_zombie10_growl5.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/pain/$gender_boomer_shoved_03.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/pain/$gender_boomer_shoved_04.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/pain/$gender_boomer_shoved_05.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/pain/$gender_boomer_shoved_06.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/pain/$gender_boomer_shoved_07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.PainShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_02.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_03.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_04.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_05.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_06.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/pain/$gender_boomer_painshort_07.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Detonate"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/explode/explo_medium_09.vsnd"
+							"vsnd1"		"sounds/player/boomer/explode/explo_medium_10.vsnd"
+							"vsnd2"		"sounds/player/boomer/explode/explo_medium_14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"BoomerZombie.Fall"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/boomer/fall/boomer_dive_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Vomit.Use"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_01.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_03.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_04.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_09.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_11.vsnd"
+							"vsnd5"		"sounds/player/boomer/voice/vomit/$gender_boomer_vomit_12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"1.025000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"Vomit.Cancel"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/boomer/voice/vomit/$gender_boomer_disruptvomit_01.vsnd"
+							"vsnd1"		"sounds/player/boomer/voice/vomit/$gender_boomer_disruptvomit_05.vsnd"
+							"vsnd2"		"sounds/player/boomer/voice/vomit/$gender_boomer_disruptvomit_06.vsnd"
+							"vsnd3"		"sounds/player/boomer/voice/vomit/$gender_boomer_disruptvomit_07.vsnd"
+							"vsnd4"		"sounds/player/boomer/voice/vomit/$gender_boomer_disruptvomit_09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.025000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.025000"
+					}
+					"pitch"
+					{
+						"value"		"1.025000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/idle/smoker_spotprey_07.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/idle/smoker_spotprey_08.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/idle/smoker_spotprey_09.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/idle/smoker_spotprey_11.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/idle/smoker_spotprey_14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Breathe"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/idle/smoker_lurk_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/idle/smoker_lurk_03.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/idle/smoker_lurk_04.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/idle/smoker_lurk_06.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/idle/smoker_lurk_08.vsnd"
+							"vsnd5"		"sounds/player/smoker/voice/idle/smoker_lurk_09.vsnd"
+							"vsnd6"		"sounds/player/smoker/voice/idle/smoker_lurk_10.vsnd"
+							"vsnd7"		"sounds/player/smoker/voice/idle/smoker_lurk_11.vsnd"
+							"vsnd8"		"sounds/player/smoker/voice/idle/smoker_lurk_12.vsnd"
+							"vsnd9"		"sounds/player/smoker/voice/idle/smoker_lurk_13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Attack"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/attack/smoker_attack_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/attack/smoker_attack_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/attack/smoker_attack_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/attack/smoker_attack_04.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/attack/smoker_attack_05.vsnd"
+							"vsnd5"		"sounds/player/smoker/voice/attack/smoker_attack_06.vsnd"
+							"vsnd6"		"sounds/player/smoker/voice/attack/smoker_attack_07.vsnd"
+							"vsnd7"		"sounds/player/smoker/voice/attack/smoker_attack_08.vsnd"
+							"vsnd8"		"sounds/player/smoker/voice/attack/smoker_attack_09.vsnd"
+							"vsnd9"		"sounds/player/smoker/voice/attack/smoker_attack_10.vsnd"
+							"vsnd10"		"sounds/player/smoker/voice/attack/smoker_attack_11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"110.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/pain/smoker_pain_02.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/pain/smoker_pain_03.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/pain/smoker_pain_04.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/pain/smoker_pain_05.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/pain/smoker_pain_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.PainShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/pain/smoker_painshort_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/pain/smoker_painshort_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/pain/smoker_painshort_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/pain/smoker_painshort_04.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/pain/smoker_painshort_05.vsnd"
+							"vsnd5"		"sounds/player/smoker/voice/pain/smoker_painshort_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Recognize"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/idle/smoker_spotprey_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/idle/smoker_spotprey_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/idle/smoker_spotprey_10.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/idle/smoker_spotprey_12.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/idle/smoker_spotprey_13.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/alert/smoker_alert_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/alert/smoker_alert_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/alert/smoker_alert_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/alert/smoker_alert_04.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/alert/smoker_alert_05.vsnd"
+							"vsnd5"		"sounds/player/smoker/voice/alert/smoker_alert_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Warn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/warn/smoker_warn_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/warn/smoker_warn_03.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/warn/smoker_warn_04.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/warn/smoker_warn_05.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/warn/smoker_warn_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/death/smoker_death_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/death/smoker_death_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/death/smoker_death_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/voice/death/smoker_death_04.vsnd"
+							"vsnd4"		"sounds/player/smoker/voice/death/smoker_death_05.vsnd"
+							"vsnd5"		"sounds/player/smoker/voice/death/smoker_death_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.Explode"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/death/smoker_explode_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/death/smoker_explode_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/death/smoker_explode_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/death/smoker_explode_04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"115.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueAttack"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/attack/smoker_launchtongue_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/attack/smoker_launchtongue_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/voice/attack/smoker_launchtongue_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"125.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueHit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/voice/attack/smoker_tonguehit_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/voice/attack/smoker_tonguehit_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueRetract"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/miss/smoker_reeltonguein_01.vsnd"
+							"vsnd1"		"sounds/player/smoker/miss/smoker_reeltonguein_02.vsnd"
+							"vsnd2"		"sounds/player/smoker/miss/smoker_reeltonguein_03.vsnd"
+							"vsnd3"		"sounds/player/smoker/miss/smoker_reeltonguein_04.vsnd"
+							"vsnd4"		"sounds/player/smoker/miss/smoker_reeltonguein_05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueStrain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/smoker/miss/cow_licklips_slurp2.vsnd"
+							"vsnd1"		"sounds/player/smoker/miss/cow_licklips_slurp3.vsnd"
+							"vsnd2"		"sounds/player/smoker/miss/cow_licklips_slurp4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.899902"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueFly"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/smoker/attack/tongue_fly_loop.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SmokerZombie.TongueChoke"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/idle/hunter_stalk_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/idle/hunter_stalk_04.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/idle/hunter_stalk_05.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/idle/hunter_stalk_06.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/idle/hunter_stalk_07.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/idle/hunter_stalk_08.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/idle/hunter_stalk_09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Growl"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/idle/hunter_stalk_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/idle/hunter_stalk_04.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/idle/hunter_stalk_05.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/idle/hunter_stalk_06.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/idle/hunter_stalk_07.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/idle/hunter_stalk_08.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/idle/hunter_stalk_09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.075000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.075000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/pain/hunter_pain_05.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/pain/hunter_pain_08.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/pain/hunter_pain_09.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/pain/hunter_pain_12.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/pain/hunter_pain_13.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/pain/hunter_pain_14.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/pain/hunter_pain_15.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.PainShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/pain/hunter_painshort_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/pain/hunter_painshort_03.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/pain/hunter_painshort_05.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/pain/hunter_painshort_09.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/pain/hunter_painshort_10.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/pain/hunter_painshort_11.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/pain/hunter_painshort_12.vsnd"
+							"vsnd7"		"sounds/player/hunter/voice/pain/hunter_painshort_13.vsnd"
+							"vsnd8"		"sounds/player/hunter/voice/pain/hunter_painshort_14.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Lunge"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/attack/hunter_pounce_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/attack/hunter_pounce_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/attack/hunter_pounce_04.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/attack/hunter_pounce_05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.LungeLand"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/attack/hunter_pounce_06.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/attack/hunter_pounce_07.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/attack/hunter_pounce_09.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/attack/hunter_pounce_10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/death/hunter_death_02.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/death/hunter_death_04.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/death/hunter_death_06.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/death/hunter_death_07.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/death/hunter_death_08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/alert/hunter_alert_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/alert/hunter_alert_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/alert/hunter_alert_03.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/alert/hunter_alert_04.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/alert/hunter_alert_05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Warn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/warn/hunter_warn_10.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/warn/hunter_warn_14.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/warn/hunter_warn_16.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/warn/hunter_warn_17.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/warn/hunter_warn_18.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/attack/hunter_attackmix_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/attack/hunter_attackmix_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/attack/hunter_attackmix_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce.FlyLoop"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/attack/hunter_pounce_10.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/attack/hunter_pounce_11.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/attack/hunter_pounce_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce.Miss"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_03.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_04.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_05.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_07.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_08.vsnd"
+							"vsnd7"		"sounds/player/hunter/voice/miss/hunter_pouncemiss_09.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce.shred"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/attack/hunter_shred_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/attack/hunter_shred_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/attack/hunter_shred_03.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/attack/hunter_shred_04.vsnd"
+							"vsnd4"		"sounds/player/hunter/voice/attack/hunter_shred_05.vsnd"
+							"vsnd5"		"sounds/player/hunter/voice/attack/hunter_shred_06.vsnd"
+							"vsnd6"		"sounds/player/hunter/voice/attack/hunter_shred_07.vsnd"
+							"vsnd7"		"sounds/player/hunter/voice/attack/hunter_shred_08.vsnd"
+							"vsnd8"		"sounds/player/hunter/voice/attack/hunter_shred_09.vsnd"
+							"vsnd9"		"sounds/player/hunter/voice/attack/hunter_shred_10.vsnd"
+							"vsnd10"		"sounds/player/hunter/voice/attack/hunter_shred_11.vsnd"
+							"vsnd11"		"sounds/player/hunter/voice/attack/hunter_shred_12.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce.Cancel"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/hunter/voice/miss/hunter_pouncecancel_01.vsnd"
+							"vsnd1"		"sounds/player/hunter/voice/miss/hunter_pouncecancel_02.vsnd"
+							"vsnd2"		"sounds/player/hunter/voice/miss/hunter_pouncecancel_03.vsnd"
+							"vsnd3"		"sounds/player/hunter/voice/miss/hunter_pouncecancel_04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"HunterZombie.Pounce.Hit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/hunter/hit/tackled_1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"70.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.HitPerson"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/hit/charger_smash_01.vsnd"
+							"vsnd1"		"sounds/player/charger/hit/charger_smash_02.vsnd"
+							"vsnd2"		"sounds/player/charger/hit/charger_smash_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.ImpactHard"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/loud_chargerimpact_01.vsnd"
+							"vsnd1"		"sounds/player/charger/loud_chargerimpact_02.vsnd"
+							"vsnd2"		"sounds/player/charger/loud_chargerimpact_03.vsnd"
+							"vsnd3"		"sounds/player/charger/loud_chargerimpact_04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.040000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.040000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Miss"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/physics/concrete/boulder_impact_hard1.vsnd"
+							"vsnd1"		"sounds/physics/concrete/boulder_impact_hard2.vsnd"
+							"vsnd2"		"sounds/physics/concrete/boulder_impact_hard3.vsnd"
+							"vsnd3"		"sounds/physics/concrete/boulder_impact_hard4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.799805"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"110.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/idle/charger_lurk_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/idle/charger_lurk_02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/idle/charger_lurk_03.vsnd"
+							"vsnd3"		"sounds/player/charger/voice/idle/charger_lurk_04.vsnd"
+							"vsnd4"		"sounds/player/charger/voice/idle/charger_lurk_05.vsnd"
+							"vsnd5"		"sounds/player/charger/voice/idle/charger_lurk_06.vsnd"
+							"vsnd6"		"sounds/player/charger/voice/idle/charger_lurk_07.vsnd"
+							"vsnd7"		"sounds/player/charger/voice/idle/charger_lurk_08.vsnd"
+							"vsnd8"		"sounds/player/charger/voice/idle/charger_lurk_09.vsnd"
+							"vsnd9"		"sounds/player/charger/voice/idle/charger_lurk_10.vsnd"
+							"vsnd10"		"sounds/player/charger/voice/idle/charger_lurk_11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Growl"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/idle/charger_lurk_12.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/idle/charger_lurk_13.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/idle/charger_lurk_14.vsnd"
+							"vsnd3"		"sounds/player/charger/voice/idle/charger_lurk_15.vsnd"
+							"vsnd4"		"sounds/player/charger/voice/idle/charger_lurk_16.vsnd"
+							"vsnd5"		"sounds/player/charger/voice/idle/charger_lurk_17.vsnd"
+							"vsnd6"		"sounds/player/charger/voice/idle/charger_lurk_18.vsnd"
+							"vsnd7"		"sounds/player/charger/voice/idle/charger_lurk_19.vsnd"
+							"vsnd8"		"sounds/player/charger/voice/idle/charger_lurk_20.vsnd"
+							"vsnd9"		"sounds/player/charger/voice/idle/charger_lurk_21.vsnd"
+							"vsnd10"		"sounds/player/charger/voice/idle/charger_lurk_22.vsnd"
+							"vsnd11"		"sounds/player/charger/voice/idle/charger_lurk_23.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.075000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.075000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Recognize"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/idle/charger_spotprey_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/idle/charger_spotprey_02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/idle/charger_spotprey_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/pain/charger_pain_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/pain/charger_pain_02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/pain/charger_pain_03.vsnd"
+							"vsnd3"		"sounds/player/charger/voice/pain/charger_pain_04.vsnd"
+							"vsnd4"		"sounds/player/charger/voice/pain/charger_pain_05.vsnd"
+							"vsnd5"		"sounds/player/charger/voice/pain/charger_pain_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Charge"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/attack/charger_charge_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/attack/charger_charge_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.ChargeEnd"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/charger/voice/pain/charger_pain_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/die/charger_die_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/die/charger_die_02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/die/charger_die_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/alert/charger_alert_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/alert/charger_alert_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Warn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/warn/charger_warn_01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/warn/charger_warn_02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/warn/charger_warn_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Smash"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/hit/charger_punch1.vsnd"
+							"vsnd1"		"sounds/player/charger/hit/charger_punch2.vsnd"
+							"vsnd2"		"sounds/player/charger/hit/charger_punch3.vsnd"
+							"vsnd3"		"sounds/player/charger/hit/charger_punch4.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Pummel"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/hit/charger_smash_01.vsnd"
+							"vsnd1"		"sounds/player/charger/hit/charger_smash_02.vsnd"
+							"vsnd2"		"sounds/player/charger/hit/charger_smash_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.VocalizePummel"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/attack/charger_pummel01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/attack/charger_pummel02.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/attack/charger_pummel03.vsnd"
+							"vsnd3"		"sounds/player/charger/voice/attack/charger_pummel04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Melee"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/attack/charger_melee01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/attack/charger_melee03.vsnd"
+							"vsnd2"		"sounds/player/charger/voice/attack/charger_melee04.vsnd"
+							"vsnd3"		"sounds/player/charger/voice/attack/charger_melee05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"110.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.Stagger"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/charger/voice/pain/charger_stagger01.vsnd"
+							"vsnd1"		"sounds/player/charger/voice/pain/charger_stagger02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"110.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.BecomeGhost"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/menu_horror01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.BecomeReal"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ui/pickup_guitarriff10.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Rage"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/pz/voice/attack/zombiedog_attack1.vsnd"
+							"vsnd1"		"sounds/player/pz/voice/attack/zombiedog_attack2.vsnd"
+							"vsnd2"		"sounds/player/pz/voice/attack/zombiedog_attack3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Breathe"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Attack"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/pz/voice/attack/zombiedog_attack1.vsnd"
+							"vsnd1"		"sounds/player/pz/voice/attack/zombiedog_attack2.vsnd"
+							"vsnd2"		"sounds/player/pz/voice/attack/zombiedog_attack3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.AttackMiss"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/pz/miss/claw_miss_1.vsnd"
+							"vsnd1"		"sounds/player/pz/miss/claw_miss_2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.AttackHit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/pz/hit/zombie_slice_1.vsnd"
+							"vsnd1"		"sounds/player/pz/hit/zombie_slice_2.vsnd"
+							"vsnd2"		"sounds/player/pz/hit/zombie_slice_3.vsnd"
+							"vsnd3"		"sounds/player/pz/hit/zombie_slice_4.vsnd"
+							"vsnd4"		"sounds/player/pz/hit/zombie_slice_5.vsnd"
+							"vsnd5"		"sounds/player/pz/hit/zombie_slice_6.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.699707"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Die"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Hurt"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Taunt"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/common/null.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.CullWarn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/ambient/alarms/klaxon1.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Fall"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/pz/voice/attack/zombiedog_attack1.vsnd"
+							"vsnd1"		"sounds/player/pz/voice/attack/zombiedog_attack2.vsnd"
+							"vsnd2"		"sounds/player/pz/voice/attack/zombiedog_attack3.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"PlayerZombie.Thud"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/pz/fall/bodyfall_largecreature.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"ChargerZombie.HitWall"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd"		"sounds/player/jumplanding.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"100.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/idle/spitter_lurk_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/idle/spitter_lurk_02.vsnd"
+							"vsnd2"		"sounds/player/spitter/voice/idle/spitter_lurk_03.vsnd"
+							"vsnd3"		"sounds/player/spitter/voice/idle/spitter_lurk_04.vsnd"
+							"vsnd4"		"sounds/player/spitter/voice/idle/spitter_lurk_05.vsnd"
+							"vsnd5"		"sounds/player/spitter/voice/idle/spitter_lurk_07.vsnd"
+							"vsnd6"		"sounds/player/spitter/voice/idle/spitter_lurk_08.vsnd"
+							"vsnd7"		"sounds/player/spitter/voice/idle/spitter_lurk_09.vsnd"
+							"vsnd8"		"sounds/player/spitter/voice/idle/spitter_lurk_10.vsnd"
+							"vsnd9"		"sounds/player/spitter/voice/idle/spitter_lurk_11.vsnd"
+							"vsnd10"		"sounds/player/spitter/voice/idle/spitter_lurk_12.vsnd"
+							"vsnd11"		"sounds/player/spitter/voice/idle/spitter_lurk_14.vsnd"
+							"vsnd12"		"sounds/player/spitter/voice/idle/spitter_lurk_15.vsnd"
+							"vsnd13"		"sounds/player/spitter/voice/idle/spitter_lurk_16.vsnd"
+							"vsnd14"		"sounds/player/spitter/voice/idle/spitter_lurk_17.vsnd"
+							"vsnd15"		"sounds/player/spitter/voice/idle/spitter_lurk_18.vsnd"
+							"vsnd16"		"sounds/player/spitter/voice/idle/spitter_lurk_19.vsnd"
+							"vsnd17"		"sounds/player/spitter/voice/idle/spitter_lurk_20.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/pain/spitter_pain_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/pain/spitter_pain_02.vsnd"
+							"vsnd2"		"sounds/player/spitter/voice/pain/spitter_pain_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.PainShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/pain/spitter_painshort_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/pain/spitter_painshort_02.vsnd"
+							"vsnd2"		"sounds/player/spitter/voice/pain/spitter_painshort_03.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Recognize"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/idle/spitter_spotprey_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/idle/spitter_spotprey_02.vsnd"
+							"vsnd2"		"sounds/player/spitter/voice/idle/spitter_spotprey_03.vsnd"
+							"vsnd3"		"sounds/player/spitter/voice/idle/spitter_spotprey_04.vsnd"
+							"vsnd4"		"sounds/player/spitter/voice/idle/spitter_spotprey_05.vsnd"
+							"vsnd5"		"sounds/player/spitter/voice/idle/spitter_spotprey_06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"90.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/alert/spitter_alert_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/alert/spitter_alert_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/die/spitter_death_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/die/spitter_death_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"GameData"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Spit"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/voice/warn/spitter_spit_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/voice/warn/spitter_spit_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"125.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitProjectile.Bounce"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/spitter_miss_01.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Acid"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/swarm/spitter_acid_loop_01.vsnd"
+							"vsnd1"		"sounds/player/spitter/swarm/spitter_acid_loop_02.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"0.750000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"SpitterZombie.Acid.fadeout"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/spitter/swarm/spitter_acid_fadeout.vsnd"
+							"vsnd1"		"sounds/player/spitter/swarm/spitter_acid_fadeout2.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"130.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Voice"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/idle/jockey_lurk01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/idle/jockey_lurk03.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/idle/jockey_lurk04.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/idle/jockey_lurk05.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/idle/jockey_lurk06.vsnd"
+							"vsnd5"		"sounds/player/jockey/voice/idle/jockey_lurk07.vsnd"
+							"vsnd6"		"sounds/player/jockey/voice/idle/jockey_lurk09.vsnd"
+							"vsnd7"		"sounds/player/jockey/voice/idle/jockey_lurk11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Growl"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/idle/jockey_lurk01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/idle/jockey_lurk03.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/idle/jockey_lurk04.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/idle/jockey_lurk05.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/idle/jockey_lurk06.vsnd"
+							"vsnd5"		"sounds/player/jockey/voice/idle/jockey_lurk07.vsnd"
+							"vsnd6"		"sounds/player/jockey/voice/idle/jockey_lurk09.vsnd"
+							"vsnd7"		"sounds/player/jockey/voice/idle/jockey_lurk11.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.075000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.075000"
+					}
+					"pitch"
+					{
+						"value"		"0.975000"
+					}
+					"soundlevel"
+					{
+						"value"		"85.000000"
+					}
+					"event_type"
+					{
+						"value"		"4.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Pain"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/pain/jockey_pain01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/pain/jockey_pain02.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/pain/jockey_pain03.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/pain/jockey_pain04.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/pain/jockey_pain05.vsnd"
+							"vsnd5"		"sounds/player/jockey/voice/pain/jockey_pain06.vsnd"
+							"vsnd6"		"sounds/player/jockey/voice/pain/jockey_pain07.vsnd"
+							"vsnd7"		"sounds/player/jockey/voice/pain/jockey_pain08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.PainShort"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/pain/jockey_painshort01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/pain/jockey_painshort02.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/pain/jockey_painshort03.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/pain/jockey_painshort04.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/pain/jockey_painshort05.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Death"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/death/jockey_death01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/death/jockey_death02.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/death/jockey_death03.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/death/jockey_death04.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/death/jockey_death05.vsnd"
+							"vsnd5"		"sounds/player/jockey/voice/death/jockey_death06.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"75.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Alert"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/alert/jockey_02.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/alert/jockey_04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Warn"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/warn/jockey_06.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/warn/jockey_08.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Recognize"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/idle/jockey_recognize02.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/idle/jockey_recognize06.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/idle/jockey_recognize07.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/idle/jockey_recognize08.vsnd"
+							"vsnd4"		"sounds/player/jockey/voice/idle/jockey_recognize09.vsnd"
+							"vsnd5"		"sounds/player/jockey/voice/idle/jockey_recognize10.vsnd"
+							"vsnd6"		"sounds/player/jockey/voice/idle/jockey_recognize11.vsnd"
+							"vsnd7"		"sounds/player/jockey/voice/idle/jockey_recognize12.vsnd"
+							"vsnd8"		"sounds/player/jockey/voice/idle/jockey_recognize13.vsnd"
+							"vsnd9"		"sounds/player/jockey/voice/idle/jockey_recognize15.vsnd"
+							"vsnd10"		"sounds/player/jockey/voice/idle/jockey_recognize16.vsnd"
+							"vsnd11"		"sounds/player/jockey/voice/idle/jockey_recognize17.vsnd"
+							"vsnd12"		"sounds/player/jockey/voice/idle/jockey_recognize18.vsnd"
+							"vsnd13"		"sounds/player/jockey/voice/idle/jockey_recognize19.vsnd"
+							"vsnd14"		"sounds/player/jockey/voice/idle/jockey_recognize20.vsnd"
+							"vsnd15"		"sounds/player/jockey/voice/idle/jockey_recognize24.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"105.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Pounce"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/attack/jockey_loudattack01_wet.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"80.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
+"JockeyZombie.Ride"
+{
+	"operator_stacks"
+	{
+		"update_stack"
+		{
+			"reference_operator"
+			{
+				"operator"		"sos_reference_stack"
+				"reference_stack"		"src1_3d"
+				"operator_variables"
+				{
+					"vsnd_files"
+					{
+						"value"
+						{
+							"vsnd0"		"sounds/player/jockey/voice/attack/jockey_attackloop01.vsnd"
+							"vsnd1"		"sounds/player/jockey/voice/attack/jockey_attackloop02.vsnd"
+							"vsnd2"		"sounds/player/jockey/voice/attack/jockey_attackloop03.vsnd"
+							"vsnd3"		"sounds/player/jockey/voice/attack/jockey_attackloop04.vsnd"
+						}
+					}
+					"volume"
+					{
+						"value"		"1.000000"
+					}
+					"pitch_rand_min"
+					{
+						"value"		"-0.050000"
+					}
+					"pitch_rand_max"
+					{
+						"value"		"0.050000"
+					}
+					"pitch"
+					{
+						"value"		"1.000000"
+					}
+					"soundlevel"
+					{
+						"value"		"95.000000"
+					}
+					"event_type"
+					{
+						"value"		"2.000000"
+					}
+					"limiter_on"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_type"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_max"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_entity"
+					{
+						"value"		"1.000000"
+					}
+					"limiter_match_this"
+					{
+						"value"		"0.000000"
+					}
+				}
+			}
+		}
+	}
+}
