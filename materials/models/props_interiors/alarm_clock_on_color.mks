@@ -1,0 +1,6 @@
+SEQUENCE 0
+name unnamed
+loop
+
+frame alarm_clock_on_color000.tga 1
+frame alarm_clock_on_color001.tga 1

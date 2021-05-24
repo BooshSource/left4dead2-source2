@@ -1,0 +1,8 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/props_pipes/TunnelKiln_pipeworks_01.tga"
+}

@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Models/hybridPhysx/machineCmap.tga"
+	TextureNormal "materials/Models/hybridPhysx/machineCmap_normal.tga"
+}

@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/survivors/gambler/gambler_body.tga"
+	TextureNormal "materials/models/survivors/gambler/gambler_body_normal.tga"
+}

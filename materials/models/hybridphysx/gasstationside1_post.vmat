@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Models/hybridPhysx/gasStationSide1_post.tga"
+	TextureNormal "materials/Models/hybridPhysx/gasStationSide_normal.tga"
+}

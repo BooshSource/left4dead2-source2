@@ -1,0 +1,8 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/infected/common/female_01/common_female_casual_head_03.tga"
+}

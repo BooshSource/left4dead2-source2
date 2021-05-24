@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/props_signs/clipps_classic_cuts.tga"
+	TextureNormal "materials/effects/flat_normal.tga"
+}

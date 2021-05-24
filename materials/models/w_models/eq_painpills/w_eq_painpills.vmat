@@ -1,0 +1,8 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/w_models/eq_painpills/w_eq_painpills.tga"
+}

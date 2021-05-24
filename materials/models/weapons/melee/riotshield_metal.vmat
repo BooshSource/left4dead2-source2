@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/Weapons/melee/RiotShield_metal.tga"
+	TextureNormal "materials/models/Weapons/melee/RiotShield_metal_normal.tga"
+	g_flMetalness 0.000
+}

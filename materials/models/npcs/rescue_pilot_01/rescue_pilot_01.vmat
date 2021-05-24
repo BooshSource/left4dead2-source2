@@ -1,0 +1,8 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/npcs/rescue_pilot_01/Rescue_Pilot_01.tga"
+}

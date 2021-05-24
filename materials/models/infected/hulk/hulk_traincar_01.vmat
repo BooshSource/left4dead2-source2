@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/infected/hulk/Hulk_Traincar_01.tga"
+	TextureNormal "materials/models/infected/hulk/Hulk_01_normal.tga"
+}

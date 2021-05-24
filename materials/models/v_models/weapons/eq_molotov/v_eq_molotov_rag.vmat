@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/v_models/Weapons/eq_molotov/v_eq_molotov_rag.tga"
+	TextureNormal "materials/models/v_models/Weapons/eq_molotov/v_eq_molotov_rag_normal.tga"
+}

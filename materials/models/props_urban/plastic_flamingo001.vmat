@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/props_urban/plastic_flamingo001.tga"
+	TextureNormal "materials/models/props_urban/plastic_flamingo001_normal.tga"
+}

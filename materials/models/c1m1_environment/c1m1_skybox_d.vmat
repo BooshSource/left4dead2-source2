@@ -1,0 +1,8 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Models/c1m1_environment/SkyBoxPlate_D_RGBA.tga"
+}

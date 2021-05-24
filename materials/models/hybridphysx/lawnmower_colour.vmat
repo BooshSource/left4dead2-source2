@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureNormal "materials/effects/flat_normal.tga"
+	TextureColor "materials/models/hybridPhysx/lawnmower_colour.tga"
+}

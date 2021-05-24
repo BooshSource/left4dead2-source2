@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/models/survivors/coach/coach_head.tga"
+	TextureNormal "materials/models/survivors/coach/coach_head_normal.tga"
+}
