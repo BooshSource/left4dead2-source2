@@ -46,5 +46,6 @@
 
 /materials/
 /models/
-/sounds/
+/sounds/ambient/
+/sounds/player/
 /models/decompiled/
