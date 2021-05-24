@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/Concrete/docks_sidewalk.tga"
-	TextureNormal "materials/Concrete/docks_sidewalk-ssbump.tga"
+	TextureNormal "materials/Concrete/docks_sidewalk-ssbump_normal.tga"
 }

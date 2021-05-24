@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/Stone/waterfront_cobblestone_03a.tga"
-	TextureNormal "materials/stone/cobblestone_02-ssbump.tga"
+	TextureNormal "materials/stone/cobblestone_02-ssbump_normal.tga"
 }

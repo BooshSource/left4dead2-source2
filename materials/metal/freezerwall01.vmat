@@ -5,6 +5,6 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/metal/freezerwall01.tga"
-	TextureNormal "materials/metal/freezerwall01-ssbump.tga"
+	TextureNormal "materials/metal/freezerwall01-ssbump_normal.tga"
 	g_flMetalness 0.000
 }

@@ -5,6 +5,6 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/Metal/metalfloor001a.tga"
-	TextureNormal "materials/Metal/metalfloor001a-ssbump.tga"
+	TextureNormal "materials/Metal/metalfloor001a-ssbump_normal.tga"
 	g_flMetalness 0.000
 }

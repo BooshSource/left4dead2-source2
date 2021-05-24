@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/nature/swamp_roots01.tga"
-	TextureNormal "materials/Nature/roots01-ssbump.tga"
+	TextureNormal "materials/Nature/roots01-ssbump_normal.tga"
 }

@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/brick/urban_brickwall_06c.tga"
-	TextureNormal "materials/brick/urban_brickwall_06c-ssbump.tga"
+	TextureNormal "materials/brick/urban_brickwall_06c-ssbump_normal.tga"
 }

@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/concrete/urban_concretefloor_03c.tga"
-	TextureNormal "materials/concrete/urban_concretefloor_03c-ssbump.tga"
+	TextureNormal "materials/concrete/urban_concretefloor_03c-ssbump_normal.tga"
 }

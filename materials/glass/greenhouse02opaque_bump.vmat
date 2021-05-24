@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/glass/greenhouse02_bump.tga"
-	TextureNormal "materials/glass/greenhouse02_bump-ssbump.tga"
+	TextureNormal "materials/glass/greenhouse02_bump-ssbump_normal.tga"
 }

@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/carpet/carpet01.tga"
-	TextureNormal "materials/carpet/carpet01-ssbump.tga"
+	TextureNormal "materials/carpet/carpet01-ssbump_normal.tga"
 }

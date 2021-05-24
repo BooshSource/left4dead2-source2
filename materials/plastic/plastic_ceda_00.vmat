@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/plastic/plastic_ceda_00.tga"
-	TextureNormal "materials/plastic/plastic_ceda_00-ssbump.tga"
+	TextureNormal "materials/plastic/plastic_ceda_00-ssbump_normal.tga"
 }

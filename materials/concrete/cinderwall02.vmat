@@ -5,5 +5,5 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/concrete/cinderwall02.tga"
-	TextureNormal "materials/concrete/cindmap02-ssbump.tga"
+	TextureNormal "materials/concrete/cindmap02-ssbump_normal.tga"
 }

@@ -5,6 +5,6 @@ Layer0
 	shader "simple.vfx"
 
 	TextureColor "materials/metal/metal_corrugated02a.tga"
-	TextureNormal "materials/metal/corrugated-ssbump.tga"
+	TextureNormal "materials/metal/corrugated-ssbump_normal.tga"
 	g_flMetalness 0.000
 }
