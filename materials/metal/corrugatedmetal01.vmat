@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/metal/metal_corrugated01a.tga"
+	TextureNormal "materials/metal/corrugated-ssbump.tga"
+	g_flMetalness 0.000
+}

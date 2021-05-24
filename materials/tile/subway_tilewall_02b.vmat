@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/tile/subway_tilewall_02b.tga"
+	TextureNormal "materials/tile/subway_tilewall_02a_ssbump.tga"
+}

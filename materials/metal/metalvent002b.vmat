@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Metal/metalvent002b.tga"
+	TextureNormal "materials/Metal/metalvent002a_normal.tga"
+	g_flMetalness 0.000
+}

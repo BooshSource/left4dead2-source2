@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/stone/stone_floor_03.tga"
+	TextureNormal "materials/stone/stone_floor_03_height-ssbump_normal.tga"
+}

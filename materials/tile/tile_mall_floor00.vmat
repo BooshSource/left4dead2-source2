@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/tile/tile_mall_floor00.tga"
+	TextureNormal "materials/tile/tile_mall_floor00_height-ssbump_normal.tga"
+}

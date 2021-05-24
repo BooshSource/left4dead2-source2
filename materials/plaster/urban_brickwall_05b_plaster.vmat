@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/brick/urban_brickwall_05b.tga"
+	TextureNormal "materials/plaster/urban_plasterwall_height-ssbump_normal.tga"
+}

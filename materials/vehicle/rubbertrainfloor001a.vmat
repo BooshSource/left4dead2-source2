@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/Vehicle/rubbertrainfloor001a.tga"
+	TextureNormal "materials/Vehicle/rubbertrainfloor001a_normal.tga"
+}

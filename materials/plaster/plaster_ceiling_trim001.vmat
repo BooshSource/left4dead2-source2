@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/plaster/plaster_ceiling_trim001.tga"
+	TextureNormal "materials/metal/metal_floor_trim001_height-ssbump_normal.tga"
+}

@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/tile/burgertank_tilewall_01a.tga"
+	TextureNormal "materials/tile/burgertank_tilewall_01_ssbump.tga"
+}

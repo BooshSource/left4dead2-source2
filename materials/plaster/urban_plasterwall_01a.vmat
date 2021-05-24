@@ -1,0 +1,10 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/plaster/urban_plasterwall_01a.tga"
+	g_vColorTint "[ .75 .75 .75]"
+	TextureNormal "materials/plaster/urban_plasterwall_height-ssbump_normal.tga"
+}

@@ -1,0 +1,9 @@
+// Converted with vmt_to_vmat.py
+
+Layer0
+{
+	shader "simple.vfx"
+
+	TextureColor "materials/plaster/sheetrock01.tga"
+	TextureNormal "materials/plaster/sheetrockdepth01-ssbump_noalpha.tga"
+}
