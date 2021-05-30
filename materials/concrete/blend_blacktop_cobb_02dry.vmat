@@ -1,9 +1,43 @@
-// Converted with vmt_to_vmat.py
+// THIS FILE IS AUTO-GENERATED
 
 Layer0
 {
-	shader "simple.vfx"
+	shader "blend.vfx"
 
-	TextureColor "materials/stone/waterfront_cobblestone_03a.tga"
-	TextureNormal "materials/stone/cobblestone_02-ssbump_normal.tga"
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Mask ----
+	TextureMask "materials/nature/blend_texture_01_blend.tga"
+
+	//---- Material A ----
+	g_flMetalnessA "0.000"
+	TextureColorA "materials/stone/waterfront_cobblestone_03a.tga"
+	TextureNormalA "materials/stone/cobblestone_02-ssbump_normal.tga"
+	TextureRoughnessA "materials/stone/waterfront_cobblestone_03a_dry_rough.psd"
+
+	//---- Material B ----
+	g_flMetalnessB "0.000"
+	g_vTexCoordScale2 "[1.000 1.000]"
+	TextureColorB "materials/concrete/blacktop_ext_04.tga"
+	TextureNormalB "materials/concrete/pavement_height-ssbump_normal.tga"
+	TextureRoughnessB "materials/concrete/blacktop_ext_04_dry_rough.psd"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
 }
