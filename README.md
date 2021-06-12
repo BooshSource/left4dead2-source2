@@ -10,4 +10,6 @@ I recommend to use list mode in the Asset broweser because some models will cras
 
 The survivor character models will crash your game!
 
+Many of the assets will replace base Source 2 content. Please write a issue if your seeing some important assets getting overide. Animated Particle Textures, Tools and Editor Assets, etc.
+
 If your using this repo for your project. Please credit me, Thanks.
