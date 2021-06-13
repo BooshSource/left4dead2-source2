@@ -4,6 +4,8 @@ This was made for s&box, but the assets can work in Half-Life Alyx. You have to 
 
 Most of the materials is not fixed for PBR. I will try to fix them over time.
 
+The L4D2 particles mostly works in Half-Life Alyx, but not in s&box. Have to fix the particles manually for s&box.
+
 I recommend to use list mode in the Asset broweser because some models will crash your game.
 
 ![image](https://user-images.githubusercontent.com/17112771/121788601-78fb3d80-cb9c-11eb-855e-3ac28bc837c2.png)
