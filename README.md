@@ -1,5 +1,7 @@
 # left4dead2_imported_sbox
 
+By the way, I won't be updating this repo often because I'm currently busy with a different project. 
+
 This was made for s&box, but the assets can work in Half-Life Alyx. You have to replace all material shaders if your using these assets in Half-Life Alyx.
 
 Most of the materials is not fixed for PBR. I will try to fix them over time.
