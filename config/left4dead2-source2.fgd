@@ -1,0 +1,8 @@
+// 
+// L4D2S2.MinimalGame : Sandbox.Game 
+// 
+@PointClass = minimal : ""
+[
+	targetname(target_source) : "Name" : : "The name that other entities refer to this entity by."
+]
+
