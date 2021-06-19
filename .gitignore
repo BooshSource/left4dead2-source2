@@ -45,3 +45,6 @@
 # Directories
 
 /models/decompiled/
+
+maps/*_bakeresourcecache.vpk
+maps/_bakeresourcecache
