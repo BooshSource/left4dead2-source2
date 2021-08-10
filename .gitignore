@@ -1,6 +1,6 @@
 # Compiled Content
 
-# *.vpk
+ *.vpk
 # *.los
 # *.ain
 *.vagrp_c
@@ -48,3 +48,4 @@
 
 maps/*_bakeresourcecache.vpk
 maps/_bakeresourcecache
+*.vpk
